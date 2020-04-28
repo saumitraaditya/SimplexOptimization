@@ -1,0 +1,430 @@
+GAMS 26.1.0  rf2b37b9 Released Feb  2, 2019 WEX-WEI x86 64bit/MS Windows - 04/19/19 09:05:06 Page 1
+G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
+C o m p i l a t i o n
+
+
+   1  * Using general form, we have 36 variables and 36 constraints
+   2  Sets
+   3      i   / 1*36 /
+   4      j   / 1*36 /;
+   5  * Using instructions at https://www.gams.com/mccarl/gdxusage.pdf
+   6  * Load parameters from GDX file
+GDXIN   C:\Users\Michael\OneDrive\2019 Spring\Linear Programming\GAMSScripts\P2_Gen.gdx
+   8  Parameters
+   9      A(j, i)
+  10      b(j)
+  11      c(i);
+--- LOAD  A = 1:A
+--- LOAD  b = 2:b
+--- LOAD  c = 3:c
+  14  Variables
+  15      x(i)
+  16      cost;
+  17  Equations
+  18      obj
+  19      cond(j)
+  20      pos(i);
+  21   
+  22  * Make an alias of i so we can hold one dimension in place while iterating over the other
+  23  Alias (i, ii);
+  24   
+  25  obj..       cost =e= sum(i, c(i) * x(i));
+  26  cond(j)..   sum(i, A(j, i) * x(i)) =l= b(j);
+  27  pos(i)..    x(i) =g= 0;
+  28   
+  29  Model Problem2 / all /;
+  30  solve Problem2 using LP minimizing cost;
+GAMS 26.1.0  rf2b37b9 Released Feb  2, 2019 WEX-WEI x86 64bit/MS Windows - 04/19/19 09:05:06 Page 2
+G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
+Include File Summary
+
+
+   SEQ   GLOBAL TYPE      PARENT   LOCAL  FILENAME
+
+     1        1 INPUT          0       0  C:\Users\Michael\OneDrive\2019 Spring\Linear Programming\GAMSScripts\Problem2.gms
+     2        7 GDXIN          1       7  C:\Users\Michael\OneDrive\2019 Spring\Linear Programming\GAMSScripts\P2_Gen.gdx
+
+
+COMPILATION TIME     =        0.078 SECONDS      3 MB  26.1.0 rf2b37b9 WEX-WEI
+GAMS 26.1.0  rf2b37b9 Released Feb  2, 2019 WEX-WEI x86 64bit/MS Windows - 04/19/19 09:05:06 Page 3
+G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
+Equation Listing    SOLVE Problem2 Using LP From line 30
+
+
+---- obj  =E=  
+
+obj..  - x(1) - x(2) - x(3) - x(4) - x(5) - x(6) - x(7) - x(8) - x(9) - x(10) - x(11) - x(12) - x(13) - x(14) - x(15) - x(16) - x(17) - x(18) - x(19) - x(20) - x(21) - x(22) - x(23) - x(24) - x(25) - x(26) - x(27) - x(28) - x(29) - x(30) - x(31) - x(32)
+     
+      - x(33) - x(34) - x(35) - x(36) + cost =E= 0 ; (LHS = 0)
+     
+
+---- cond  =L=  
+
+cond(1)..  8.43774234286609*x(1) + 3.59628319926594*x(2) - 0.186755119745859*x(3) - 4.81106613356187*x(4) - 0.422969093981758*x(5) - 1.57475898797498*x(6) - 2.52292699677519*x(7) - 0.708268132505436*x(8) - 1.75722907888783*x(9) - 1.89460195630683*x(10)
+     
+      + 3.50315186740171*x(11) + 1.18481459580582*x(12) + 1.83878771938612*x(13) - 5.17763151196417*x(14) - 6.39898156036693*x(15) - 4.68010471190113*x(16) - 7.8700000844416*x(17) - 4.58508704269074*x(18) - 8.43774234286609*x(19) - 3.59628319926594*x(20)
+     
+      + 0.186755119745859*x(21) + 4.81106613356187*x(22) + 0.422969093981758*x(23) + 1.57475898797498*x(24) + 2.52292699677519*x(25) + 0.708268132505436*x(26) + 1.75722907888783*x(27) + 1.89460195630683*x(28) - 3.50315186740171*x(29)
+     
+      - 1.18481459580582*x(30) - 1.83878771938612*x(31) + 5.17763151196417*x(32) + 6.39898156036693*x(33) + 4.68010471190113*x(34) + 7.8700000844416*x(35) + 4.58508704269074*x(36) =L= 37.1837527666105 ; (LHS = 0)
+     
+cond(2)..  3.59628319926594*x(1) + 15.2135953464295*x(2) + 5.14649682228033*x(3) + 1.02480308605191*x(4) + 3.82167236510631*x(5) - 1.80825968744063*x(6) - 2.15502093188593*x(7) - 1.40868408876449*x(8) + 1.61622583169044*x(9) - 1.05528101255068*x(10)
+     
+      + 3.18447400370383*x(11) + 1.15119843910947*x(12) + 3.97577232523646*x(13) + 1.53538676232645*x(14) + 0.596152176164456*x(15) + 2.30272089042818*x(16) - 6.07376046519469*x(17) - 2.00983359046195*x(18) - 3.59628319926594*x(19)
+     
+      - 15.2135953464295*x(20) - 5.14649682228033*x(21) - 1.02480308605191*x(22) - 3.82167236510631*x(23) + 1.80825968744063*x(24) + 2.15502093188593*x(25) + 1.40868408876449*x(26) - 1.61622583169044*x(27) + 1.05528101255068*x(28) - 3.18447400370383*x(29)
+     
+      - 1.15119843910947*x(30) - 3.97577232523646*x(31) - 1.53538676232645*x(32) - 0.596152176164456*x(33) - 2.30272089042818*x(34) + 6.07376046519469*x(35) + 2.00983359046195*x(36) =L= 45.4432590693256 ; (LHS = 0)
+     
+cond(3)..  - 0.186755119745859*x(1) + 5.14649682228033*x(2) + 6.12326357904033*x(3) + 3.00418191514201*x(4) + 2.28209392157609*x(5) - 0.443902512769599*x(6) - 2.76047991989463*x(7) - 1.8339640034991*x(8) + 3.35792176998376*x(9) - 0.759760314206317*x(10)
+     
+      + 2.71976635348795*x(11) + 2.6979295620855*x(12) + 5.04088693958288*x(13) + 3.78286946090558*x(14) + 0.193137375193417*x(15) - 0.981871520524882*x(16) - 4.31259263288819*x(17) - 0.42036246917019*x(18) + 0.186755119745859*x(19)
+     
+      - 5.14649682228033*x(20) - 6.12326357904033*x(21) - 3.00418191514201*x(22) - 2.28209392157609*x(23) + 0.443902512769599*x(24) + 2.76047991989463*x(25) + 1.8339640034991*x(26) - 3.35792176998376*x(27) + 0.759760314206317*x(28)
+     
+      - 2.71976635348795*x(29) - 2.6979295620855*x(30) - 5.04088693958288*x(31) - 3.78286946090558*x(32) - 0.193137375193417*x(33) + 0.981871520524882*x(34) + 4.31259263288819*x(35) + 0.42036246917019*x(36) =L= 18.0711599542309 ; (LHS = 0)
+     
+REMAINING 33 ENTRIES SKIPPED
+
+
+---- pos  =G=  
+
+pos(1)..  x(1) =G= 0 ; (LHS = 0)
+     
+pos(2)..  x(2) =G= 0 ; (LHS = 0)
+     
+pos(3)..  x(3) =G= 0 ; (LHS = 0)
+     
+REMAINING 33 ENTRIES SKIPPED
+
+GAMS 26.1.0  rf2b37b9 Released Feb  2, 2019 WEX-WEI x86 64bit/MS Windows - 04/19/19 09:05:06 Page 4
+G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
+Column Listing      SOLVE Problem2 Using LP From line 30
+
+
+---- x  
+
+x(1)
+                (.LO, .L, .UP, .M = -INF, 0, +INF, 0)
+       -1       obj
+        8.4377  cond(1)
+        3.5963  cond(2)
+       -0.1868  cond(3)
+       -4.8111  cond(4)
+       -0.423   cond(5)
+       -1.5748  cond(6)
+       -2.5229  cond(7)
+       -0.7083  cond(8)
+       -1.7572  cond(9)
+       -1.8946  cond(10)
+        3.5032  cond(11)
+        1.1848  cond(12)
+        1.8388  cond(13)
+       -5.1776  cond(14)
+       -6.399   cond(15)
+       -4.6801  cond(16)
+       -7.87    cond(17)
+       -4.5851  cond(18)
+       -8.4377  cond(19)
+       -3.5963  cond(20)
+        0.1868  cond(21)
+        4.8111  cond(22)
+        0.423   cond(23)
+        1.5748  cond(24)
+        2.5229  cond(25)
+        0.7083  cond(26)
+        1.7572  cond(27)
+        1.8946  cond(28)
+       -3.5032  cond(29)
+       -1.1848  cond(30)
+       -1.8388  cond(31)
+        5.1776  cond(32)
+        6.399   cond(33)
+        4.6801  cond(34)
+        7.87    cond(35)
+        4.5851  cond(36)
+        1       pos(1)
+
+x(2)
+                (.LO, .L, .UP, .M = -INF, 0, +INF, 0)
+       -1       obj
+        3.5963  cond(1)
+       15.2136  cond(2)
+        5.1465  cond(3)
+        1.0248  cond(4)
+        3.8217  cond(5)
+       -1.8083  cond(6)
+       -2.155   cond(7)
+       -1.4087  cond(8)
+        1.6162  cond(9)
+       -1.0553  cond(10)
+        3.1845  cond(11)
+        1.1512  cond(12)
+        3.9758  cond(13)
+        1.5354  cond(14)
+        0.5962  cond(15)
+        2.3027  cond(16)
+       -6.0738  cond(17)
+       -2.0098  cond(18)
+       -3.5963  cond(19)
+      -15.2136  cond(20)
+       -5.1465  cond(21)
+       -1.0248  cond(22)
+       -3.8217  cond(23)
+        1.8083  cond(24)
+        2.155   cond(25)
+        1.4087  cond(26)
+       -1.6162  cond(27)
+        1.0553  cond(28)
+       -3.1845  cond(29)
+       -1.1512  cond(30)
+       -3.9758  cond(31)
+       -1.5354  cond(32)
+       -0.5962  cond(33)
+       -2.3027  cond(34)
+        6.0738  cond(35)
+        2.0098  cond(36)
+        1       pos(2)
+
+x(3)
+                (.LO, .L, .UP, .M = -INF, 0, +INF, 0)
+       -1       obj
+       -0.1868  cond(1)
+        5.1465  cond(2)
+        6.1233  cond(3)
+        3.0042  cond(4)
+        2.2821  cond(5)
+       -0.4439  cond(6)
+       -2.7605  cond(7)
+       -1.834   cond(8)
+        3.3579  cond(9)
+       -0.7598  cond(10)
+        2.7198  cond(11)
+        2.6979  cond(12)
+        5.0409  cond(13)
+        3.7829  cond(14)
+        0.1931  cond(15)
+       -0.9819  cond(16)
+       -4.3126  cond(17)
+       -0.4204  cond(18)
+        0.1868  cond(19)
+       -5.1465  cond(20)
+       -6.1233  cond(21)
+       -3.0042  cond(22)
+       -2.2821  cond(23)
+        0.4439  cond(24)
+        2.7605  cond(25)
+        1.834   cond(26)
+       -3.3579  cond(27)
+        0.7598  cond(28)
+       -2.7198  cond(29)
+       -2.6979  cond(30)
+       -5.0409  cond(31)
+       -3.7829  cond(32)
+       -0.1931  cond(33)
+        0.9819  cond(34)
+        4.3126  cond(35)
+        0.4204  cond(36)
+        1       pos(3)
+
+REMAINING 33 ENTRIES SKIPPED
+
+---- cost  
+
+cost
+                (.LO, .L, .UP, .M = -INF, 0, +INF, 0)
+        1       obj
+
+GAMS 26.1.0  rf2b37b9 Released Feb  2, 2019 WEX-WEI x86 64bit/MS Windows - 04/19/19 09:05:06 Page 5
+G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
+Model Statistics    SOLVE Problem2 Using LP From line 30
+
+
+MODEL STATISTICS
+
+BLOCKS OF EQUATIONS           3     SINGLE EQUATIONS           73
+BLOCKS OF VARIABLES           2     SINGLE VARIABLES           37
+NON ZERO ELEMENTS         1,369
+
+
+GENERATION TIME      =        0.141 SECONDS      4 MB  26.1.0 rf2b37b9 WEX-WEI
+
+
+EXECUTION TIME       =        0.141 SECONDS      4 MB  26.1.0 rf2b37b9 WEX-WEI
+GAMS 26.1.0  rf2b37b9 Released Feb  2, 2019 WEX-WEI x86 64bit/MS Windows - 04/19/19 09:05:06 Page 6
+G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
+Solution Report     SOLVE Problem2 Using LP From line 30
+
+
+               S O L V E      S U M M A R Y
+
+     MODEL   Problem2            OBJECTIVE  cost
+     TYPE    LP                  DIRECTION  MINIMIZE
+     SOLVER  CPLEX               FROM LINE  30
+
+**** SOLVER STATUS     1 Normal Completion         
+**** MODEL STATUS      1 Optimal                   
+**** OBJECTIVE VALUE                2.8523
+
+ RESOURCE USAGE, LIMIT          0.031      1000.000
+ ITERATION COUNT, LIMIT         4    2000000000
+
+IBM ILOG CPLEX   26.1.0 rf2b37b9 Released Feb 02, 2019 WEI x86 64bit/MS Window
+Cplex 12.8.0.0
+
+Space for names approximately 0.00 Mb
+Use option 'names no' to turn use of names off
+LP status(1): optimal
+Cplex Time: 0.00sec (det. 0.29 ticks)
+Optimal solution found.
+Objective :           2.852315
+
+
+                           LOWER          LEVEL          UPPER         MARGINAL
+
+---- EQU obj                 .              .              .             1.0000      
+
+---- EQU cond  
+
+          LOWER          LEVEL          UPPER         MARGINAL
+
+1         -INF           18.1838        37.1838          .          
+2         -INF           26.4433        45.4433          .          
+3         -INF           13.1329        18.0712          .          
+4         -INF           -7.4426         0.9471          .          
+5         -INF            3.8220        21.3497          .          
+6         -INF          -10.0212         7.4865          .          
+7         -INF          -11.9234         4.7950          .          
+8         -INF           -6.7850         5.9146          .          
+9         -INF           -1.3375         7.0346          .          
+10        -INF           -5.7121        -0.6420          .          
+11        -INF           15.7279        18.2785          .          
+12        -INF            5.4166        15.8618          .          
+13        -INF            9.5276        21.9126          .          
+14        -INF           -4.8547         3.7913          .          
+15        -INF          -12.9053        -5.2001          .          
+16        -INF          -10.7870         7.3560          .          
+17        -INF          -32.4880       -18.2097          .          
+18        -INF          -15.0421        -0.6826          .          
+19        -INF          -18.1838       -18.1838        -0.0934      
+20        -INF          -26.4433       -26.4433        -0.0437      
+21        -INF          -13.1329         0.9288          .          
+22        -INF            7.4426        18.0529          .          
+23        -INF           -3.8220        -2.3497          .          
+24        -INF           10.0212        11.5135          .          
+25        -INF           11.9234        14.2050          .          
+26        -INF            6.7850        13.0854          .          
+27        -INF            1.3375        11.9654          .          
+28        -INF            5.7121        19.6420          .          
+29        -INF          -15.7279         0.7215          .          
+30        -INF           -5.4166         3.1382          .          
+31        -INF           -9.5276        -2.9126          .          
+32        -INF            4.8547        15.2087          .          
+33        -INF           12.9053        24.2001          .          
+34        -INF           10.7870        11.6440          .          
+35        -INF           32.4880        37.2097          .          
+36        -INF           15.0421        19.6826          .          
+
+---- EQU pos  
+
+          LOWER          LEVEL          UPPER         MARGINAL
+
+1           .              .            +INF            0.0552      
+2           .             0.9977        +INF             .          
+3           .              .            +INF            0.7927      
+4           .              .            +INF            1.4045      
+5           .              .            +INF            0.8726      
+6           .              .            +INF            1.2260      
+7           .              .            +INF            1.3297      
+8           .              .            +INF            1.1276      
+9           .              .            +INF            1.0935      
+10          .              .            +INF            1.2230      
+11          .              .            +INF            0.5339      
+12          .              .            +INF            0.8391      
+13          .              .            +INF            0.6547      
+14          .              .            +INF            1.4164      
+15          .              .            +INF            1.5714      
+16          .              .            +INF            1.3364      
+17          .              .            +INF            2.0000      
+18          .              .            +INF            1.5159      
+19          .              .            +INF            1.9448      
+20          .              .            +INF            2.0000      
+21          .              .            +INF            1.2073      
+22          .              .            +INF            0.5955      
+23          .              .            +INF            1.1274      
+24          .              .            +INF            0.7740      
+25          .              .            +INF            0.6703      
+26          .              .            +INF            0.8724      
+27          .              .            +INF            0.9065      
+28          .              .            +INF            0.7770      
+29          .              .            +INF            1.4661      
+30          .              .            +INF            1.1609      
+31          .              .            +INF            1.3453      
+32          .              .            +INF            0.5836      
+33          .              .            +INF            0.4286      
+34          .              .            +INF            0.6636      
+35          .             1.8546        +INF             .          
+36          .              .            +INF            0.4841      
+
+---- VAR x  
+
+          LOWER          LEVEL          UPPER         MARGINAL
+
+1         -INF             .            +INF             .          
+2         -INF            0.9977        +INF             .          
+3         -INF             .            +INF             .          
+4         -INF             .            +INF             .          
+5         -INF             .            +INF             .          
+6         -INF             .            +INF             .          
+7         -INF             .            +INF             .          
+8         -INF             .            +INF             .          
+9         -INF             .            +INF             .          
+10        -INF             .            +INF             .          
+11        -INF             .            +INF             .          
+12        -INF             .            +INF             .          
+13        -INF             .            +INF             .          
+14        -INF             .            +INF             .          
+15        -INF             .            +INF             .          
+16        -INF             .            +INF             .          
+17        -INF             .            +INF             .          
+18        -INF             .            +INF             .          
+19        -INF             .            +INF             .          
+20        -INF             .            +INF             .          
+21        -INF             .            +INF             .          
+22        -INF             .            +INF             .          
+23        -INF             .            +INF             .          
+24        -INF             .            +INF             .          
+25        -INF             .            +INF             .          
+26        -INF             .            +INF             .          
+27        -INF             .            +INF             .          
+28        -INF             .            +INF             .          
+29        -INF             .            +INF             .          
+30        -INF             .            +INF             .          
+31        -INF             .            +INF             .          
+32        -INF             .            +INF             .          
+33        -INF             .            +INF             .          
+34        -INF             .            +INF             .          
+35        -INF            1.8546        +INF             .          
+36        -INF             .            +INF             .          
+
+                           LOWER          LEVEL          UPPER         MARGINAL
+
+---- VAR cost              -INF            2.8523        +INF             .          
+
+
+**** REPORT SUMMARY :        0     NONOPT
+                             0 INFEASIBLE
+                             0  UNBOUNDED
+
+
+EXECUTION TIME       =        0.032 SECONDS      2 MB  26.1.0 rf2b37b9 WEX-WEI
+
+
+USER: GAMS Development Corporation, USA              G871201/0000CA-ANY
+      Free Demo, +1 202-342-0180, support@gams.com, www.gams.com DC0000
+
+
+**** FILE SUMMARY
+
+Input      C:\Users\Michael\OneDrive\2019 Spring\Linear Programming\GAMSScripts\Problem2.gms
+Output     C:\Users\Michael\OneDrive\2019 Spring\Linear Programming\GAMSScripts\Problem2.lst

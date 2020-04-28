@@ -1,0 +1,1446 @@
+/home/osboxes/pyPerso/venv/bin/python /home/osboxes/PycharmProjects/lpno/problem1-lexico2.py
+shapes of inputs is A (524, 1472), b (524,), c (1472,)
+neg current cost is 
+[-162702.]
+neg current cost is -162666.0, iteration is 1
+
+neg current cost is -162045.0, iteration is 2
+
+neg current cost is -162045.0, iteration is 3
+
+neg current cost is -161424.0, iteration is 4
+
+neg current cost is -160803.0, iteration is 5
+
+neg current cost is -160803.0, iteration is 6
+
+neg current cost is -160803.0, iteration is 7
+
+neg current cost is -160182.0, iteration is 8
+
+neg current cost is -160182.0, iteration is 9
+
+neg current cost is -160182.0, iteration is 10
+
+neg current cost is -159561.0, iteration is 11
+
+neg current cost is -158940.0, iteration is 12
+
+neg current cost is -158904.0, iteration is 13
+
+neg current cost is -158283.0, iteration is 14
+
+neg current cost is -158283.0, iteration is 15
+
+neg current cost is -157662.0, iteration is 16
+
+neg current cost is -157402.0, iteration is 17
+
+neg current cost is -156781.0, iteration is 18
+
+neg current cost is -156160.0, iteration is 19
+
+neg current cost is -156160.0, iteration is 20
+
+neg current cost is -155539.0, iteration is 21
+
+neg current cost is -154918.0, iteration is 22
+
+neg current cost is -154297.0, iteration is 23
+
+neg current cost is -153676.0, iteration is 24
+
+neg current cost is -153055.0, iteration is 25
+
+neg current cost is -152434.0, iteration is 26
+
+neg current cost is -152434.0, iteration is 27
+
+neg current cost is -151813.0, iteration is 28
+
+neg current cost is -151192.0, iteration is 29
+
+neg current cost is -150571.0, iteration is 30
+
+neg current cost is -150571.0, iteration is 31
+
+neg current cost is -149950.0, iteration is 32
+
+neg current cost is -149329.0, iteration is 33
+
+neg current cost is -148708.0, iteration is 34
+
+neg current cost is -148087.0, iteration is 35
+
+neg current cost is -148087.0, iteration is 36
+
+neg current cost is -147827.0, iteration is 37
+
+neg current cost is -147206.0, iteration is 38
+
+neg current cost is -146585.0, iteration is 39
+
+neg current cost is -146585.0, iteration is 40
+
+neg current cost is -145964.0, iteration is 41
+
+neg current cost is -145964.0, iteration is 42
+
+neg current cost is -145343.0, iteration is 43
+
+neg current cost is -145307.0, iteration is 44
+
+neg current cost is -144686.0, iteration is 45
+
+neg current cost is -144065.0, iteration is 46
+
+neg current cost is -144065.0, iteration is 47
+
+neg current cost is -144065.0, iteration is 48
+
+neg current cost is -144065.0, iteration is 49
+
+neg current cost is -143444.0, iteration is 50
+
+neg current cost is -142823.0, iteration is 51
+
+neg current cost is -142202.0, iteration is 52
+
+neg current cost is -141581.0, iteration is 53
+
+neg current cost is -140960.0, iteration is 54
+
+neg current cost is -140339.0, iteration is 55
+
+neg current cost is -139718.0, iteration is 56
+
+neg current cost is -139097.0, iteration is 57
+
+neg current cost is -139097.0, iteration is 58
+
+neg current cost is -139097.0, iteration is 59
+
+neg current cost is -139097.0, iteration is 60
+
+neg current cost is -139061.0, iteration is 61
+
+neg current cost is -139061.0, iteration is 62
+
+neg current cost is -138440.0, iteration is 63
+
+neg current cost is -137819.0, iteration is 64
+
+neg current cost is -137198.0, iteration is 65
+
+neg current cost is -136577.0, iteration is 66
+
+neg current cost is -135956.0, iteration is 67
+
+neg current cost is -135335.0, iteration is 68
+
+neg current cost is -135335.0, iteration is 69
+
+neg current cost is -135335.0, iteration is 70
+
+neg current cost is -135254.0, iteration is 71
+
+neg current cost is -134633.0, iteration is 72
+
+neg current cost is -134633.0, iteration is 73
+
+neg current cost is -134633.0, iteration is 74
+
+neg current cost is -134012.0, iteration is 75
+
+neg current cost is -133391.0, iteration is 76
+
+neg current cost is -132770.0, iteration is 77
+
+neg current cost is -132149.0, iteration is 78
+
+neg current cost is -132149.0, iteration is 79
+
+neg current cost is -132149.0, iteration is 80
+
+neg current cost is -131528.0, iteration is 81
+
+neg current cost is -131528.0, iteration is 82
+
+neg current cost is -130907.0, iteration is 83
+
+neg current cost is -130907.0, iteration is 84
+
+neg current cost is -130907.0, iteration is 85
+
+neg current cost is -130871.0, iteration is 86
+
+neg current cost is -130871.0, iteration is 87
+
+neg current cost is -130250.0, iteration is 88
+
+neg current cost is -129629.0, iteration is 89
+
+neg current cost is -129629.0, iteration is 90
+
+neg current cost is -129008.0, iteration is 91
+
+neg current cost is -129008.0, iteration is 92
+
+neg current cost is -129008.0, iteration is 93
+
+neg current cost is -129008.0, iteration is 94
+
+neg current cost is -128387.0, iteration is 95
+
+neg current cost is -127766.0, iteration is 96
+
+neg current cost is -127145.0, iteration is 97
+
+neg current cost is -127145.0, iteration is 98
+
+neg current cost is -126524.0, iteration is 99
+
+neg current cost is -126524.0, iteration is 100
+
+neg current cost is -125903.0, iteration is 101
+
+neg current cost is -125903.0, iteration is 102
+
+neg current cost is -125282.0, iteration is 103
+
+neg current cost is -125282.0, iteration is 104
+
+neg current cost is -125282.0, iteration is 105
+
+neg current cost is -124661.0, iteration is 106
+
+neg current cost is -124661.0, iteration is 107
+
+neg current cost is -124040.0, iteration is 108
+
+neg current cost is -124040.0, iteration is 109
+
+neg current cost is -123419.0, iteration is 110
+
+neg current cost is -123419.0, iteration is 111
+
+neg current cost is -122798.0, iteration is 112
+
+neg current cost is -122177.0, iteration is 113
+
+neg current cost is -121556.0, iteration is 114
+
+neg current cost is -120935.0, iteration is 115
+
+neg current cost is -120314.0, iteration is 116
+
+neg current cost is -119693.0, iteration is 117
+
+neg current cost is -119072.0, iteration is 118
+
+neg current cost is -119072.0, iteration is 119
+
+neg current cost is -118451.0, iteration is 120
+
+neg current cost is -117830.0, iteration is 121
+
+neg current cost is -117830.0, iteration is 122
+
+neg current cost is -117209.0, iteration is 123
+
+neg current cost is -117209.0, iteration is 124
+
+neg current cost is -116588.0, iteration is 125
+
+neg current cost is -116588.0, iteration is 126
+
+neg current cost is -115967.0, iteration is 127
+
+neg current cost is -115346.0, iteration is 128
+
+neg current cost is -114725.0, iteration is 129
+
+neg current cost is -114725.0, iteration is 130
+
+neg current cost is -114104.0, iteration is 131
+
+neg current cost is -113483.0, iteration is 132
+
+neg current cost is -113402.0, iteration is 133
+
+neg current cost is -113366.0, iteration is 134
+
+neg current cost is -113366.0, iteration is 135
+
+neg current cost is -113366.0, iteration is 136
+
+neg current cost is -112745.0, iteration is 137
+
+neg current cost is -112124.0, iteration is 138
+
+neg current cost is -111503.0, iteration is 139
+
+neg current cost is -111503.0, iteration is 140
+
+neg current cost is -110882.0, iteration is 141
+
+neg current cost is -110882.0, iteration is 142
+
+neg current cost is -110622.0, iteration is 143
+
+neg current cost is -110622.0, iteration is 144
+
+neg current cost is -110622.0, iteration is 145
+
+neg current cost is -110541.0, iteration is 146
+
+neg current cost is -109920.0, iteration is 147
+
+neg current cost is -109299.0, iteration is 148
+
+neg current cost is -109299.0, iteration is 149
+
+neg current cost is -109218.0, iteration is 150
+
+neg current cost is -109218.0, iteration is 151
+
+neg current cost is -109218.0, iteration is 152
+
+neg current cost is -109218.0, iteration is 153
+
+neg current cost is -109218.0, iteration is 154
+
+neg current cost is -108597.0, iteration is 155
+
+neg current cost is -108597.0, iteration is 156
+
+neg current cost is -107976.0, iteration is 157
+
+neg current cost is -107355.0, iteration is 158
+
+neg current cost is -107355.0, iteration is 159
+
+neg current cost is -106734.0, iteration is 160
+
+neg current cost is -106734.0, iteration is 161
+
+neg current cost is -106113.0, iteration is 162
+
+neg current cost is -105492.0, iteration is 163
+
+neg current cost is -105492.0, iteration is 164
+
+neg current cost is -104871.0, iteration is 165
+
+neg current cost is -104871.0, iteration is 166
+
+neg current cost is -104250.0, iteration is 167
+
+neg current cost is -104250.0, iteration is 168
+
+neg current cost is -104250.0, iteration is 169
+
+neg current cost is -103629.0, iteration is 170
+
+neg current cost is -103629.0, iteration is 171
+
+neg current cost is -103008.0, iteration is 172
+
+neg current cost is -102387.0, iteration is 173
+
+Reduced cost for pivot column 480 is not zero it is 0.002644
+neg current cost is -102387.0, iteration is 174
+
+neg current cost is -102306.0, iteration is 175
+
+neg current cost is -102306.0, iteration is 176
+
+neg current cost is -101685.0, iteration is 177
+
+neg current cost is -101064.0, iteration is 178
+
+neg current cost is -101064.0, iteration is 179
+
+neg current cost is -100443.0, iteration is 180
+
+neg current cost is -99822.0, iteration is 181
+
+neg current cost is -99201.0, iteration is 182
+
+neg current cost is -98580.0, iteration is 183
+
+neg current cost is -98580.0, iteration is 184
+
+neg current cost is -98580.0, iteration is 185
+
+neg current cost is -98580.0, iteration is 186
+
+neg current cost is -98320.0, iteration is 187
+
+neg current cost is -97699.0, iteration is 188
+
+neg current cost is -97078.0, iteration is 189
+
+neg current cost is -96457.0, iteration is 190
+
+neg current cost is -96457.0, iteration is 191
+
+neg current cost is -95836.0, iteration is 192
+
+neg current cost is -95215.0, iteration is 193
+
+neg current cost is -95134.0, iteration is 194
+
+neg current cost is -95134.0, iteration is 195
+
+neg current cost is -94513.0, iteration is 196
+
+neg current cost is -94513.0, iteration is 197
+
+neg current cost is -93892.0, iteration is 198
+
+neg current cost is -93271.0, iteration is 199
+
+neg current cost is -92650.0, iteration is 200
+
+neg current cost is -92029.0, iteration is 201
+
+neg current cost is -92029.0, iteration is 202
+
+neg current cost is -91408.0, iteration is 203
+
+neg current cost is -91408.0, iteration is 204
+
+neg current cost is -90787.0, iteration is 205
+
+neg current cost is -90787.0, iteration is 206
+
+neg current cost is -90367.0, iteration is 207
+
+neg current cost is -90367.0, iteration is 208
+
+neg current cost is -90367.0, iteration is 209
+
+neg current cost is -90367.0, iteration is 210
+
+neg current cost is -90367.0, iteration is 211
+
+neg current cost is -89746.0, iteration is 212
+
+neg current cost is -89665.0, iteration is 213
+
+neg current cost is -89044.0, iteration is 214
+
+neg current cost is -88423.0, iteration is 215
+
+neg current cost is -88003.0, iteration is 216
+
+neg current cost is -87382.0, iteration is 217
+
+neg current cost is -87382.0, iteration is 218
+
+neg current cost is -86761.0, iteration is 219
+
+neg current cost is -86761.0, iteration is 220
+
+neg current cost is -86140.0, iteration is 221
+
+neg current cost is -86140.0, iteration is 222
+
+neg current cost is -85519.0, iteration is 223
+
+neg current cost is -85519.0, iteration is 224
+
+neg current cost is -85519.0, iteration is 225
+
+neg current cost is -84898.0, iteration is 226
+
+Reduced cost for pivot column 170 is not zero it is -0.152832
+neg current cost is -84898.0, iteration is 227
+
+neg current cost is -84277.0, iteration is 228
+
+neg current cost is -83656.0, iteration is 229
+
+neg current cost is -83035.0, iteration is 230
+
+neg current cost is -83035.0, iteration is 231
+
+neg current cost is -82414.0, iteration is 232
+
+neg current cost is -82333.0, iteration is 233
+
+neg current cost is -82333.0, iteration is 234
+
+neg current cost is -82333.0, iteration is 235
+
+neg current cost is -82333.0, iteration is 236
+
+neg current cost is -82333.0, iteration is 237
+
+neg current cost is -82333.0, iteration is 238
+
+neg current cost is -81712.0, iteration is 239
+
+neg current cost is -81091.0, iteration is 240
+
+neg current cost is -81091.0, iteration is 241
+
+neg current cost is -81091.0, iteration is 242
+
+neg current cost is -80470.0, iteration is 243
+
+neg current cost is -80470.0, iteration is 244
+
+neg current cost is -80470.0, iteration is 245
+
+neg current cost is -79849.0, iteration is 246
+
+neg current cost is -79849.0, iteration is 247
+
+neg current cost is -79849.0, iteration is 248
+
+neg current cost is -79228.0, iteration is 249
+
+neg current cost is -78808.0, iteration is 250
+
+neg current cost is -78187.0, iteration is 251
+
+neg current cost is -78187.0, iteration is 252
+
+neg current cost is -78187.0, iteration is 253
+
+Reduced cost for pivot column 474 is not zero it is 7e-06
+neg current cost is -78187.0, iteration is 254
+
+neg current cost is -78187.0, iteration is 255
+
+neg current cost is -78187.0, iteration is 256
+
+Reduced cost for pivot column 122 is not zero it is -1e-06
+neg current cost is -78187.0, iteration is 257
+
+Reduced cost for pivot column 1001 is not zero it is 3e-06
+neg current cost is -78187.0, iteration is 258
+
+neg current cost is -78106.0, iteration is 259
+
+neg current cost is -77485.0, iteration is 260
+
+neg current cost is -77485.0, iteration is 261
+
+neg current cost is -76864.0, iteration is 262
+
+neg current cost is -76243.0, iteration is 263
+
+neg current cost is -75622.0, iteration is 264
+
+neg current cost is -75001.0, iteration is 265
+
+neg current cost is -74380.0, iteration is 266
+
+neg current cost is -74380.0, iteration is 267
+
+neg current cost is -74380.0, iteration is 268
+
+neg current cost is -73759.0, iteration is 269
+
+neg current cost is -73138.0, iteration is 270
+
+neg current cost is -72517.0, iteration is 271
+
+neg current cost is -72517.0, iteration is 272
+
+neg current cost is -71896.0, iteration is 273
+
+neg current cost is -71896.0, iteration is 274
+
+neg current cost is -71275.0, iteration is 275
+
+neg current cost is -70654.0, iteration is 276
+
+neg current cost is -70654.0, iteration is 277
+
+neg current cost is -70654.0, iteration is 278
+
+neg current cost is -70654.0, iteration is 279
+
+neg current cost is -70033.0, iteration is 280
+
+neg current cost is -69412.0, iteration is 281
+
+neg current cost is -68791.0, iteration is 282
+
+neg current cost is -68791.0, iteration is 283
+
+neg current cost is -68791.0, iteration is 284
+
+neg current cost is -68791.0, iteration is 285
+
+neg current cost is -68170.0, iteration is 286
+
+neg current cost is -67549.0, iteration is 287
+
+neg current cost is -67549.0, iteration is 288
+
+neg current cost is -67549.0, iteration is 289
+
+neg current cost is -67549.0, iteration is 290
+
+neg current cost is -67549.0, iteration is 291
+
+neg current cost is -67549.0, iteration is 292
+
+neg current cost is -67549.0, iteration is 293
+
+neg current cost is -67549.0, iteration is 294
+
+neg current cost is -67549.0, iteration is 295
+
+neg current cost is -67129.0, iteration is 296
+
+neg current cost is -67129.0, iteration is 297
+
+neg current cost is -67129.0, iteration is 298
+
+neg current cost is -66508.0, iteration is 299
+
+neg current cost is -65887.0, iteration is 300
+
+neg current cost is -65266.0, iteration is 301
+
+neg current cost is -64645.0, iteration is 302
+
+neg current cost is -64645.0, iteration is 303
+
+neg current cost is -64645.0, iteration is 304
+
+neg current cost is -64645.0, iteration is 305
+
+neg current cost is -64645.0, iteration is 306
+
+neg current cost is -64645.0, iteration is 307
+
+neg current cost is -64645.0, iteration is 308
+
+neg current cost is -64645.0, iteration is 309
+
+neg current cost is -64024.0, iteration is 310
+
+Reduced cost for pivot column 1023 is not zero it is 0.000169
+neg current cost is -64024.0, iteration is 311
+
+neg current cost is -64024.0, iteration is 312
+
+neg current cost is -63988.0, iteration is 313
+
+neg current cost is -63988.0, iteration is 314
+
+neg current cost is -63988.0, iteration is 315
+
+neg current cost is -63988.0, iteration is 316
+
+neg current cost is -63988.0, iteration is 317
+
+neg current cost is -63952.0, iteration is 318
+
+neg current cost is -63952.0, iteration is 319
+
+neg current cost is -63331.0, iteration is 320
+
+neg current cost is -63331.0, iteration is 321
+
+neg current cost is -63331.0, iteration is 322
+
+neg current cost is -63331.0, iteration is 323
+
+neg current cost is -63331.0, iteration is 324
+
+neg current cost is -63331.0, iteration is 325
+
+neg current cost is -62710.0, iteration is 326
+
+neg current cost is -62710.0, iteration is 327
+
+neg current cost is -62710.0, iteration is 328
+
+neg current cost is -62710.0, iteration is 329
+
+neg current cost is -62710.0, iteration is 330
+
+neg current cost is -62629.0, iteration is 331
+
+neg current cost is -62008.0, iteration is 332
+
+neg current cost is -61387.0, iteration is 333
+
+neg current cost is -61387.0, iteration is 334
+
+neg current cost is -61387.0, iteration is 335
+
+neg current cost is -61387.0, iteration is 336
+
+neg current cost is -61387.0, iteration is 337
+
+neg current cost is -61387.0, iteration is 338
+
+neg current cost is -61387.0, iteration is 339
+
+neg current cost is -61387.0, iteration is 340
+
+neg current cost is -61387.0, iteration is 341
+
+neg current cost is -61387.0, iteration is 342
+
+neg current cost is -60766.0, iteration is 343
+
+neg current cost is -60145.0, iteration is 344
+
+neg current cost is -59524.0, iteration is 345
+
+neg current cost is -59524.0, iteration is 346
+
+neg current cost is -59524.0, iteration is 347
+
+neg current cost is -59524.0, iteration is 348
+
+Reduced cost for pivot column 27 is not zero it is -1e-06
+neg current cost is -59524.0, iteration is 349
+
+neg current cost is -59524.0, iteration is 350
+
+neg current cost is -59524.0, iteration is 351
+
+neg current cost is -58903.0, iteration is 352
+
+neg current cost is -58903.0, iteration is 353
+
+neg current cost is -58903.0, iteration is 354
+
+neg current cost is -58903.0, iteration is 355
+
+neg current cost is -58903.0, iteration is 356
+
+neg current cost is -58282.0, iteration is 357
+
+neg current cost is -58282.0, iteration is 358
+
+neg current cost is -57661.0, iteration is 359
+
+neg current cost is -57040.0, iteration is 360
+
+Reduced cost for pivot column 61 is not zero it is 6e-06
+neg current cost is -57040.0, iteration is 361
+
+neg current cost is -57040.0, iteration is 362
+
+neg current cost is -57040.0, iteration is 363
+
+neg current cost is -56620.0, iteration is 364
+
+neg current cost is -56584.0, iteration is 365
+
+neg current cost is -56584.0, iteration is 366
+
+neg current cost is -56548.0, iteration is 367
+
+neg current cost is -56128.0, iteration is 368
+
+Reduced cost for pivot column 47 is not zero it is 2e-06
+neg current cost is -56128.0, iteration is 369
+
+neg current cost is -56128.0, iteration is 370
+
+neg current cost is -55868.0, iteration is 371
+
+neg current cost is -55247.0, iteration is 372
+
+neg current cost is -55247.0, iteration is 373
+
+neg current cost is -54626.0, iteration is 374
+
+Reduced cost for pivot column 1135 is not zero it is -1e-06
+neg current cost is -54626.0, iteration is 375
+
+neg current cost is -54005.0, iteration is 376
+
+neg current cost is -54005.0, iteration is 377
+
+neg current cost is -54005.0, iteration is 378
+
+neg current cost is -54005.0, iteration is 379
+
+neg current cost is -54005.0, iteration is 380
+
+neg current cost is -53384.0, iteration is 381
+
+neg current cost is -52763.0, iteration is 382
+
+Reduced cost for pivot column 434 is not zero it is -0.000395
+neg current cost is -52763.0, iteration is 383
+
+Reduced cost for pivot column 1095 is not zero it is -1e-06
+neg current cost is -52763.0, iteration is 384
+
+neg current cost is -52763.0, iteration is 385
+
+neg current cost is -52763.0, iteration is 386
+
+neg current cost is -52763.0, iteration is 387
+
+neg current cost is -52763.0, iteration is 388
+
+neg current cost is -52142.0, iteration is 389
+
+neg current cost is -51521.0, iteration is 390
+
+neg current cost is -51521.0, iteration is 391
+
+neg current cost is -50900.0, iteration is 392
+
+neg current cost is -50900.0, iteration is 393
+
+neg current cost is -50900.0, iteration is 394
+
+neg current cost is -50900.0, iteration is 395
+
+neg current cost is -50900.0, iteration is 396
+
+neg current cost is -50900.0, iteration is 397
+
+neg current cost is -50279.0, iteration is 398
+
+neg current cost is -50279.0, iteration is 399
+
+neg current cost is -50279.0, iteration is 400
+
+neg current cost is -50279.0, iteration is 401
+
+Reduced cost for pivot column 307 is not zero it is 6e-06
+neg current cost is -50279.0, iteration is 402
+
+neg current cost is -50279.0, iteration is 403
+
+neg current cost is -49658.0, iteration is 404
+
+neg current cost is -49658.0, iteration is 405
+
+neg current cost is -49658.0, iteration is 406
+
+neg current cost is -49658.0, iteration is 407
+
+neg current cost is -49658.0, iteration is 408
+
+neg current cost is -49658.0, iteration is 409
+
+neg current cost is -49658.0, iteration is 410
+
+Reduced cost for pivot column 208 is not zero it is 2e-06
+neg current cost is -49658.0, iteration is 411
+
+neg current cost is -49658.0, iteration is 412
+
+neg current cost is -49658.0, iteration is 413
+
+neg current cost is -49037.0, iteration is 414
+
+neg current cost is -49001.0, iteration is 415
+
+neg current cost is -49001.0, iteration is 416
+
+neg current cost is -49001.0, iteration is 417
+
+neg current cost is -49001.0, iteration is 418
+
+neg current cost is -48380.0, iteration is 419
+
+neg current cost is -48380.0, iteration is 420
+
+neg current cost is -47759.0, iteration is 421
+
+neg current cost is -47759.0, iteration is 422
+
+neg current cost is -47759.0, iteration is 423
+
+neg current cost is -47759.0, iteration is 424
+
+neg current cost is -47759.0, iteration is 425
+
+neg current cost is -47138.0, iteration is 426
+
+neg current cost is -47138.0, iteration is 427
+
+Reduced cost for pivot column 474 is not zero it is -1.3e-05
+neg current cost is -47138.0, iteration is 428
+
+neg current cost is -47138.0, iteration is 429
+
+neg current cost is -47138.0, iteration is 430
+
+neg current cost is -47138.0, iteration is 431
+
+neg current cost is -47138.0, iteration is 432
+
+neg current cost is -47138.0, iteration is 433
+
+neg current cost is -47138.0, iteration is 434
+
+neg current cost is -46517.0, iteration is 435
+
+neg current cost is -46517.0, iteration is 436
+
+neg current cost is -46517.0, iteration is 437
+
+neg current cost is -46517.0, iteration is 438
+
+neg current cost is -46517.0, iteration is 439
+
+neg current cost is -46517.0, iteration is 440
+
+neg current cost is -46517.0, iteration is 441
+
+neg current cost is -45896.0, iteration is 442
+
+neg current cost is -45275.0, iteration is 443
+
+neg current cost is -45275.0, iteration is 444
+
+neg current cost is -45239.0, iteration is 445
+
+neg current cost is -45239.0, iteration is 446
+
+neg current cost is -45239.0, iteration is 447
+
+neg current cost is -45239.0, iteration is 448
+
+neg current cost is -45203.0, iteration is 449
+
+neg current cost is -45203.0, iteration is 450
+
+neg current cost is -44582.0, iteration is 451
+
+neg current cost is -44501.0, iteration is 452
+
+neg current cost is -43880.0, iteration is 453
+
+neg current cost is -43259.0, iteration is 454
+
+neg current cost is -43259.0, iteration is 455
+
+neg current cost is -43259.0, iteration is 456
+
+neg current cost is -43259.0, iteration is 457
+
+neg current cost is -43259.0, iteration is 458
+
+neg current cost is -43259.0, iteration is 459
+
+neg current cost is -43259.0, iteration is 460
+
+neg current cost is -43259.0, iteration is 461
+
+neg current cost is -42638.0, iteration is 462
+
+neg current cost is -42638.0, iteration is 463
+
+neg current cost is -42017.0, iteration is 464
+
+neg current cost is -41597.0, iteration is 465
+
+neg current cost is -41597.0, iteration is 466
+
+neg current cost is -40976.0, iteration is 467
+
+neg current cost is -40976.0, iteration is 468
+
+neg current cost is -40355.0, iteration is 469
+
+neg current cost is -40355.0, iteration is 470
+
+neg current cost is -40355.0, iteration is 471
+
+Reduced cost for pivot column 498 is not zero it is -5e-06
+neg current cost is -40355.0, iteration is 472
+
+neg current cost is -40355.0, iteration is 473
+
+neg current cost is -40355.0, iteration is 474
+
+neg current cost is -40355.0, iteration is 475
+
+neg current cost is -39734.0, iteration is 476
+
+neg current cost is -39734.0, iteration is 477
+
+neg current cost is -39734.0, iteration is 478
+
+neg current cost is -39734.0, iteration is 479
+
+neg current cost is -39734.0, iteration is 480
+
+neg current cost is -39734.0, iteration is 481
+
+neg current cost is -39734.0, iteration is 482
+
+neg current cost is -39474.0, iteration is 483
+
+neg current cost is -39214.0, iteration is 484
+
+Reduced cost for pivot column 608 is not zero it is 2e-06
+neg current cost is -39214.0, iteration is 485
+
+neg current cost is -39214.0, iteration is 486
+
+neg current cost is -39214.0, iteration is 487
+
+neg current cost is -38593.0, iteration is 488
+
+neg current cost is -37972.0, iteration is 489
+
+neg current cost is -37972.0, iteration is 490
+
+neg current cost is -37972.0, iteration is 491
+
+neg current cost is -37972.0, iteration is 492
+
+neg current cost is -37972.0, iteration is 493
+
+neg current cost is -37972.0, iteration is 494
+
+neg current cost is -37972.0, iteration is 495
+
+neg current cost is -37351.0, iteration is 496
+
+neg current cost is -37351.0, iteration is 497
+
+neg current cost is -37351.0, iteration is 498
+
+neg current cost is -37351.0, iteration is 499
+
+neg current cost is -36730.0, iteration is 500
+
+Reduced cost for pivot column 660 is not zero it is 1.1e-05
+neg current cost is -36730.0, iteration is 501
+
+neg current cost is -36730.0, iteration is 502
+
+neg current cost is -36109.0, iteration is 503
+
+neg current cost is -36109.0, iteration is 504
+
+neg current cost is -36109.0, iteration is 505
+
+neg current cost is -36109.0, iteration is 506
+
+neg current cost is -36109.0, iteration is 507
+
+Reduced cost for pivot column 341 is not zero it is 4e-06
+neg current cost is -36109.0, iteration is 508
+
+neg current cost is -36109.0, iteration is 509
+
+neg current cost is -36109.0, iteration is 510
+
+neg current cost is -36109.0, iteration is 511
+
+neg current cost is -36109.0, iteration is 512
+
+neg current cost is -36109.0, iteration is 513
+
+neg current cost is -36028.0, iteration is 514
+
+neg current cost is -36028.0, iteration is 515
+
+neg current cost is -36028.0, iteration is 516
+
+neg current cost is -35407.0, iteration is 517
+
+neg current cost is -35407.0, iteration is 518
+
+neg current cost is -35407.0, iteration is 519
+
+neg current cost is -35407.0, iteration is 520
+
+neg current cost is -34786.0, iteration is 521
+
+neg current cost is -34705.0, iteration is 522
+
+neg current cost is -34705.0, iteration is 523
+
+neg current cost is -34705.0, iteration is 524
+
+neg current cost is -34705.0, iteration is 525
+
+neg current cost is -34705.0, iteration is 526
+
+neg current cost is -34705.0, iteration is 527
+
+neg current cost is -34705.0, iteration is 528
+
+neg current cost is -34705.0, iteration is 529
+
+neg current cost is -34084.0, iteration is 530
+
+neg current cost is -34084.0, iteration is 531
+
+Reduced cost for pivot column 182 is not zero it is 4e-06
+neg current cost is -34084.0, iteration is 532
+
+neg current cost is -33463.0, iteration is 533
+
+neg current cost is -33463.0, iteration is 534
+
+neg current cost is -33463.0, iteration is 535
+
+neg current cost is -33463.0, iteration is 536
+
+neg current cost is -33463.0, iteration is 537
+
+neg current cost is -33463.0, iteration is 538
+
+neg current cost is -33463.0, iteration is 539
+
+neg current cost is -33463.0, iteration is 540
+
+Reduced cost for pivot column 209 is not zero it is -0.001751
+neg current cost is -33463.0, iteration is 541
+
+neg current cost is -32842.0, iteration is 542
+
+Reduced cost for pivot column 67 is not zero it is 2e-06
+neg current cost is -32842.0, iteration is 543
+
+neg current cost is -32842.0, iteration is 544
+
+neg current cost is -32221.0, iteration is 545
+
+neg current cost is -32221.0, iteration is 546
+
+neg current cost is -32221.0, iteration is 547
+
+neg current cost is -32221.0, iteration is 548
+
+neg current cost is -32221.0, iteration is 549
+
+neg current cost is -32221.0, iteration is 550
+
+neg current cost is -31600.0, iteration is 551
+
+neg current cost is -31600.0, iteration is 552
+
+neg current cost is -30979.0, iteration is 553
+
+neg current cost is -30979.0, iteration is 554
+
+neg current cost is -30943.0, iteration is 555
+
+Reduced cost for pivot column 1063 is not zero it is 1e-06
+neg current cost is -30943.0, iteration is 556
+
+neg current cost is -30943.0, iteration is 557
+
+neg current cost is -30322.0, iteration is 558
+
+neg current cost is -30322.0, iteration is 559
+
+neg current cost is -29701.0, iteration is 560
+
+neg current cost is -29620.0, iteration is 561
+
+neg current cost is -29200.0, iteration is 562
+
+neg current cost is -29200.0, iteration is 563
+
+neg current cost is -29200.0, iteration is 564
+
+neg current cost is -29200.0, iteration is 565
+
+neg current cost is -29200.0, iteration is 566
+
+neg current cost is -29200.0, iteration is 567
+
+neg current cost is -29200.0, iteration is 568
+
+neg current cost is -29200.0, iteration is 569
+
+neg current cost is -29200.0, iteration is 570
+
+neg current cost is -29200.0, iteration is 571
+
+neg current cost is -29200.0, iteration is 572
+
+neg current cost is -28579.0, iteration is 573
+
+neg current cost is -28579.0, iteration is 574
+
+neg current cost is -27958.0, iteration is 575
+
+neg current cost is -27958.0, iteration is 576
+
+neg current cost is -27958.0, iteration is 577
+
+neg current cost is -27337.0, iteration is 578
+
+Reduced cost for pivot column 378 is not zero it is 5e-06
+neg current cost is -27337.0, iteration is 579
+
+Reduced cost for pivot column 471 is not zero it is 0.000402
+neg current cost is -27337.0, iteration is 580
+
+neg current cost is -26716.0, iteration is 581
+
+neg current cost is -26716.0, iteration is 582
+
+neg current cost is -26716.0, iteration is 583
+
+neg current cost is -26716.0, iteration is 584
+
+neg current cost is -26716.0, iteration is 585
+
+neg current cost is -26095.0, iteration is 586
+
+neg current cost is -25835.0, iteration is 587
+
+neg current cost is -25835.0, iteration is 588
+
+neg current cost is -25835.0, iteration is 589
+
+neg current cost is -25835.0, iteration is 590
+
+neg current cost is -25835.0, iteration is 591
+
+neg current cost is -25835.0, iteration is 592
+
+Reduced cost for pivot column 1098 is not zero it is -1e-06
+neg current cost is -25835.0, iteration is 593
+
+neg current cost is -25835.0, iteration is 594
+
+neg current cost is -25835.0, iteration is 595
+
+neg current cost is -25835.0, iteration is 596
+
+neg current cost is -25214.0, iteration is 597
+
+neg current cost is -25214.0, iteration is 598
+
+neg current cost is -25214.0, iteration is 599
+
+neg current cost is -25214.0, iteration is 600
+
+neg current cost is -24593.0, iteration is 601
+
+neg current cost is -23972.0, iteration is 602
+
+neg current cost is -23972.0, iteration is 603
+
+neg current cost is -23972.0, iteration is 604
+
+neg current cost is -23972.0, iteration is 605
+
+neg current cost is -23972.0, iteration is 606
+
+neg current cost is -23972.0, iteration is 607
+
+neg current cost is -23351.0, iteration is 608
+
+neg current cost is -23351.0, iteration is 609
+
+neg current cost is -22730.0, iteration is 610
+
+neg current cost is -22730.0, iteration is 611
+
+neg current cost is -22730.0, iteration is 612
+
+neg current cost is -22470.0, iteration is 613
+
+neg current cost is -22470.0, iteration is 614
+
+neg current cost is -22470.0, iteration is 615
+
+neg current cost is -22470.0, iteration is 616
+
+neg current cost is -22389.0, iteration is 617
+
+neg current cost is -22389.0, iteration is 618
+
+neg current cost is -22389.0, iteration is 619
+
+Reduced cost for pivot column 1208 is not zero it is 3e-06
+neg current cost is -22389.0, iteration is 620
+
+neg current cost is -22389.0, iteration is 621
+
+neg current cost is -22389.0, iteration is 622
+
+neg current cost is -22389.0, iteration is 623
+
+neg current cost is -21768.0, iteration is 624
+
+neg current cost is -21768.0, iteration is 625
+
+neg current cost is -21768.0, iteration is 626
+
+neg current cost is -21768.0, iteration is 627
+
+neg current cost is -21768.0, iteration is 628
+
+neg current cost is -21768.0, iteration is 629
+
+neg current cost is -21768.0, iteration is 630
+
+neg current cost is -21768.0, iteration is 631
+
+neg current cost is -21348.0, iteration is 632
+
+neg current cost is -21348.0, iteration is 633
+
+neg current cost is -21348.0, iteration is 634
+
+neg current cost is -21088.0, iteration is 635
+
+neg current cost is -20467.0, iteration is 636
+
+Reduced cost for pivot column 502 is not zero it is -67.0
+neg current cost is -20467.0, iteration is 637
+
+neg current cost is -20467.0, iteration is 638
+
+neg current cost is -20467.0, iteration is 639
+
+Reduced cost for pivot column 1005 is not zero it is 5.859375
+neg current cost is -20467.0, iteration is 640
+
+Reduced cost for pivot column 433 is not zero it is 46720.0
+neg current cost is -20467.0, iteration is 641
+
+Reduced cost for pivot column 407 is not zero it is -0.53125
+neg current cost is -20467.0, iteration is 642
+
+neg current cost is -20207.0, iteration is 643
+
+Reduced cost for pivot column 435 is not zero it is 26.84375
+neg current cost is -20207.0, iteration is 644
+
+Reduced cost for pivot column 645 is not zero it is 0.171875
+neg current cost is -20207.0, iteration is 645
+
+neg current cost is -20207.0, iteration is 646
+
+neg current cost is -20126.0, iteration is 647
+
+Reduced cost for pivot column 140 is not zero it is -1.671875
+neg current cost is -20126.0, iteration is 648
+
+Reduced cost for pivot column 1199 is not zero it is -415.0
+neg current cost is -20126.0, iteration is 649
+
+Reduced cost for pivot column 124 is not zero it is -3.6875
+neg current cost is -20126.0, iteration is 650
+
+Reduced cost for pivot column 478 is not zero it is -0.933594
+neg current cost is -20126.0, iteration is 651
+
+neg current cost is -20126.0, iteration is 652
+
+Reduced cost for pivot column 309 is not zero it is -120.0
+neg current cost is -20126.0, iteration is 653
+
+neg current cost is -20126.0, iteration is 654
+
+neg current cost is -20126.0, iteration is 655
+
+Reduced cost for pivot column 419 is not zero it is -0.064697
+neg current cost is -20126.0, iteration is 656
+
+Reduced cost for pivot column 35 is not zero it is 0.031555
+neg current cost is -20126.0, iteration is 657
+
+Reduced cost for pivot column 21 is not zero it is -37.625
+neg current cost is -20126.0, iteration is 658
+
+Reduced cost for pivot column 579 is not zero it is -0.083618
+neg current cost is -20126.0, iteration is 659
+
+Reduced cost for pivot column 85 is not zero it is -0.160889
+neg current cost is -20126.0, iteration is 660
+
+Reduced cost for pivot column 1094 is not zero it is -1042.0
+neg current cost is -20126.0, iteration is 661
+
+Reduced cost for pivot column 98 is not zero it is -588.0
+neg current cost is -20126.0, iteration is 662
+
+Reduced cost for pivot column 219 is not zero it is 2.671875
+neg current cost is -20126.0, iteration is 663
+
+neg current cost is -20126.0, iteration is 664
+
+Reduced cost for pivot column 1114 is not zero it is 0.046631
+neg current cost is -20126.0, iteration is 665
+
+Reduced cost for pivot column 1188 is not zero it is 2220.0
+neg current cost is -20126.0, iteration is 666
+
+Reduced cost for pivot column 681 is not zero it is 16.9375
+neg current cost is -20126.0, iteration is 667
+
+neg current cost is -20126.0, iteration is 668
+
+Reduced cost for pivot column 128 is not zero it is 3.832031
+neg current cost is -20126.0, iteration is 669
+
+Reduced cost for pivot column 223 is not zero it is 1.5625
+neg current cost is -20126.0, iteration is 670
+
+Reduced cost for pivot column 105 is not zero it is -245.0
+neg current cost is -20126.0, iteration is 671
+
+neg current cost is -20126.0, iteration is 672
+
+neg current cost is -20126.0, iteration is 673
+
+neg current cost is -20126.0, iteration is 674
+
+Reduced cost for pivot column 316 is not zero it is 95.625
+neg current cost is -20126.0, iteration is 675
+
+neg current cost is -20126.0, iteration is 676
+
+Reduced cost for pivot column 109 is not zero it is 0.026123
+neg current cost is -20126.0, iteration is 677
+
+Reduced cost for pivot column 642 is not zero it is 2832.0
+neg current cost is -20126.0, iteration is 678
+
+neg current cost is -19706.0, iteration is 679
+
+neg current cost is -19706.0, iteration is 680
+
+Reduced cost for pivot column 57 is not zero it is -1.019531
+neg current cost is -19706.0, iteration is 681
+
+Reduced cost for pivot column 52 is not zero it is -19.90625
+neg current cost is -19706.0, iteration is 682
+
+neg current cost is -19706.0, iteration is 683
+
+Reduced cost for pivot column 993 is not zero it is 2530.0
+neg current cost is -19706.0, iteration is 684
+
+neg current cost is -19706.0, iteration is 685
+
+Reduced cost for pivot column 643 is not zero it is 1.578125
+neg current cost is -19706.0, iteration is 686
+
+neg current cost is 131266.0, iteration is 687
+
+neg current cost is 131266.0, iteration is 688
+
+Traceback (most recent call last):
+  File "/home/osboxes/PycharmProjects/lpno/problem1-lexico2.py", line 320, in <module>
+    FULL_TABLEAU = np.dot(row_transformation_matrix, FULL_TABLEAU)
+KeyboardInterrupt
+
+Process finished with exit code 1
+

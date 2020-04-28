@@ -1,0 +1,7064 @@
+shapes of inputs is A (524, 1472), b (524,), c (1472,)
+neg current cost is 
+[-162702.0]
+neg current cost is -162702.0, iteration is 1
+
+neg current cost is -162702.0, iteration is 2
+
+neg current cost is -162702.0, iteration is 3
+
+neg current cost is -162702.0, iteration is 4
+
+neg current cost is -162666.0, iteration is 5
+
+neg current cost is -162666.0, iteration is 6
+
+neg current cost is -162666.0, iteration is 7
+
+neg current cost is -162666.0, iteration is 8
+
+neg current cost is -162666.0, iteration is 9
+
+neg current cost is -162045.0, iteration is 10
+
+neg current cost is -162045.0, iteration is 11
+
+neg current cost is -162045.0, iteration is 12
+
+neg current cost is -162045.0, iteration is 13
+
+neg current cost is -162045.0, iteration is 14
+
+neg current cost is -162009.0, iteration is 15
+
+neg current cost is -162009.0, iteration is 16
+
+neg current cost is -162009.0, iteration is 17
+
+neg current cost is -162009.0, iteration is 18
+
+neg current cost is -162009.0, iteration is 19
+
+neg current cost is -162009.0, iteration is 20
+
+neg current cost is -162009.0, iteration is 21
+
+neg current cost is -162009.0, iteration is 22
+
+neg current cost is -162009.0, iteration is 23
+
+neg current cost is -162009.0, iteration is 24
+
+neg current cost is -162009.0, iteration is 25
+
+neg current cost is -162009.0, iteration is 26
+
+neg current cost is -162009.0, iteration is 27
+
+neg current cost is -162009.0, iteration is 28
+
+neg current cost is -162009.0, iteration is 29
+
+neg current cost is -162009.0, iteration is 30
+
+neg current cost is -162009.0, iteration is 31
+
+neg current cost is -162009.0, iteration is 32
+
+neg current cost is -162009.0, iteration is 33
+
+neg current cost is -162009.0, iteration is 34
+
+neg current cost is -161388.0, iteration is 35
+
+neg current cost is -161388.0, iteration is 36
+
+neg current cost is -161388.0, iteration is 37
+
+neg current cost is -161388.0, iteration is 38
+
+neg current cost is -161388.0, iteration is 39
+
+neg current cost is -160767.0, iteration is 40
+
+neg current cost is -160767.0, iteration is 41
+
+neg current cost is -160767.0, iteration is 42
+
+neg current cost is -160767.0, iteration is 43
+
+neg current cost is -160767.0, iteration is 44
+
+neg current cost is -160146.0, iteration is 45
+
+neg current cost is -160146.0, iteration is 46
+
+neg current cost is -160146.0, iteration is 47
+
+neg current cost is -160146.0, iteration is 48
+
+neg current cost is -160146.0, iteration is 49
+
+neg current cost is -160146.0, iteration is 50
+
+neg current cost is -160146.0, iteration is 51
+
+neg current cost is -160146.0, iteration is 52
+
+neg current cost is -160146.0, iteration is 53
+
+neg current cost is -160146.0, iteration is 54
+
+neg current cost is -159525.0, iteration is 55
+
+neg current cost is -159525.0, iteration is 56
+
+neg current cost is -159525.0, iteration is 57
+
+neg current cost is -159525.0, iteration is 58
+
+neg current cost is -159525.0, iteration is 59
+
+neg current cost is -159525.0, iteration is 60
+
+neg current cost is -159525.0, iteration is 61
+
+neg current cost is -159525.0, iteration is 62
+
+neg current cost is -159525.0, iteration is 63
+
+neg current cost is -159525.0, iteration is 64
+
+neg current cost is -159525.0, iteration is 65
+
+neg current cost is -159525.0, iteration is 66
+
+neg current cost is -159525.0, iteration is 67
+
+neg current cost is -159525.0, iteration is 68
+
+neg current cost is -159525.0, iteration is 69
+
+neg current cost is -158904.0, iteration is 70
+
+neg current cost is -158904.0, iteration is 71
+
+neg current cost is -158904.0, iteration is 72
+
+neg current cost is -158904.0, iteration is 73
+
+neg current cost is -158904.0, iteration is 74
+
+neg current cost is -158283.0, iteration is 75
+
+neg current cost is -158283.0, iteration is 76
+
+neg current cost is -158283.0, iteration is 77
+
+neg current cost is -158283.0, iteration is 78
+
+neg current cost is -158283.0, iteration is 79
+
+neg current cost is -157662.0, iteration is 80
+
+neg current cost is -157662.0, iteration is 81
+
+neg current cost is -157662.0, iteration is 82
+
+neg current cost is -157662.0, iteration is 83
+
+neg current cost is -157662.0, iteration is 84
+
+neg current cost is -157041.0, iteration is 85
+
+neg current cost is -157041.0, iteration is 86
+
+neg current cost is -157041.0, iteration is 87
+
+neg current cost is -157041.0, iteration is 88
+
+neg current cost is -157041.0, iteration is 89
+
+neg current cost is -156420.0, iteration is 90
+
+neg current cost is -156420.0, iteration is 91
+
+neg current cost is -156420.0, iteration is 92
+
+neg current cost is -156420.0, iteration is 93
+
+neg current cost is -156420.0, iteration is 94
+
+neg current cost is -156420.0, iteration is 95
+
+neg current cost is -156420.0, iteration is 96
+
+neg current cost is -156420.0, iteration is 97
+
+neg current cost is -156420.0, iteration is 98
+
+neg current cost is -156420.0, iteration is 99
+
+neg current cost is -155799.0, iteration is 100
+
+neg current cost is -155539.0, iteration is 101
+
+neg current cost is -155279.0, iteration is 102
+
+neg current cost is -155279.0, iteration is 103
+
+neg current cost is -155279.0, iteration is 104
+
+neg current cost is -154658.0, iteration is 105
+
+neg current cost is -154658.0, iteration is 106
+
+neg current cost is -154658.0, iteration is 107
+
+neg current cost is -154658.0, iteration is 108
+
+neg current cost is -154658.0, iteration is 109
+
+neg current cost is -154622.0, iteration is 110
+
+neg current cost is -154362.0, iteration is 111
+
+neg current cost is -154362.0, iteration is 112
+
+neg current cost is -154362.0, iteration is 113
+
+neg current cost is -154362.0, iteration is 114
+
+neg current cost is -153741.0, iteration is 115
+
+neg current cost is -153741.0, iteration is 116
+
+neg current cost is -153741.0, iteration is 117
+
+neg current cost is -153741.0, iteration is 118
+
+neg current cost is -153741.0, iteration is 119
+
+neg current cost is -153120.0, iteration is 120
+
+neg current cost is -153120.0, iteration is 121
+
+neg current cost is -153120.0, iteration is 122
+
+neg current cost is -153120.0, iteration is 123
+
+neg current cost is -153120.0, iteration is 124
+
+neg current cost is -152499.0, iteration is 125
+
+neg current cost is -152499.0, iteration is 126
+
+neg current cost is -152499.0, iteration is 127
+
+neg current cost is -152499.0, iteration is 128
+
+neg current cost is -152499.0, iteration is 129
+
+neg current cost is -151878.0, iteration is 130
+
+neg current cost is -151878.0, iteration is 131
+
+neg current cost is -151878.0, iteration is 132
+
+neg current cost is -151878.0, iteration is 133
+
+neg current cost is -151878.0, iteration is 134
+
+neg current cost is -151257.0, iteration is 135
+
+neg current cost is -151257.0, iteration is 136
+
+neg current cost is -151257.0, iteration is 137
+
+neg current cost is -151257.0, iteration is 138
+
+neg current cost is -151257.0, iteration is 139
+
+neg current cost is -150636.0, iteration is 140
+
+neg current cost is -150636.0, iteration is 141
+
+neg current cost is -150636.0, iteration is 142
+
+neg current cost is -150636.0, iteration is 143
+
+neg current cost is -150636.0, iteration is 144
+
+neg current cost is -150015.0, iteration is 145
+
+neg current cost is -150015.0, iteration is 146
+
+neg current cost is -150015.0, iteration is 147
+
+neg current cost is -150015.0, iteration is 148
+
+neg current cost is -150015.0, iteration is 149
+
+neg current cost is -149394.0, iteration is 150
+
+neg current cost is -149394.0, iteration is 151
+
+neg current cost is -149394.0, iteration is 152
+
+neg current cost is -149394.0, iteration is 153
+
+neg current cost is -149394.0, iteration is 154
+
+neg current cost is -149358.0, iteration is 155
+
+neg current cost is -149358.0, iteration is 156
+
+neg current cost is -149358.0, iteration is 157
+
+neg current cost is -149358.0, iteration is 158
+
+neg current cost is -149358.0, iteration is 159
+
+neg current cost is -148737.0, iteration is 160
+
+neg current cost is -148737.0, iteration is 161
+
+neg current cost is -148737.0, iteration is 162
+
+neg current cost is -148737.0, iteration is 163
+
+neg current cost is -148737.0, iteration is 164
+
+neg current cost is -148116.0, iteration is 165
+
+neg current cost is -148116.0, iteration is 166
+
+neg current cost is -148116.0, iteration is 167
+
+neg current cost is -148116.0, iteration is 168
+
+neg current cost is -148116.0, iteration is 169
+
+neg current cost is -148116.0, iteration is 170
+
+neg current cost is -148116.0, iteration is 171
+
+neg current cost is -148116.0, iteration is 172
+
+neg current cost is -148116.0, iteration is 173
+
+neg current cost is -148116.0, iteration is 174
+
+neg current cost is -147495.0, iteration is 175
+
+neg current cost is -147495.0, iteration is 176
+
+neg current cost is -147495.0, iteration is 177
+
+neg current cost is -147495.0, iteration is 178
+
+neg current cost is -147495.0, iteration is 179
+
+neg current cost is -146874.0, iteration is 180
+
+neg current cost is -146874.0, iteration is 181
+
+neg current cost is -146874.0, iteration is 182
+
+neg current cost is -146874.0, iteration is 183
+
+neg current cost is -146874.0, iteration is 184
+
+neg current cost is -146793.0, iteration is 185
+
+neg current cost is -146793.0, iteration is 186
+
+neg current cost is -146793.0, iteration is 187
+
+neg current cost is -146793.0, iteration is 188
+
+neg current cost is -146793.0, iteration is 189
+
+neg current cost is -146172.0, iteration is 190
+
+neg current cost is -145752.0, iteration is 191
+
+neg current cost is -145492.0, iteration is 192
+
+neg current cost is -145492.0, iteration is 193
+
+neg current cost is -145492.0, iteration is 194
+
+neg current cost is -144871.0, iteration is 195
+
+neg current cost is -144871.0, iteration is 196
+
+neg current cost is -144871.0, iteration is 197
+
+neg current cost is -144871.0, iteration is 198
+
+neg current cost is -144871.0, iteration is 199
+
+neg current cost is -144790.0, iteration is 200
+
+neg current cost is -144370.0, iteration is 201
+
+neg current cost is -144370.0, iteration is 202
+
+neg current cost is -144370.0, iteration is 203
+
+neg current cost is -144370.0, iteration is 204
+
+neg current cost is -144334.0, iteration is 205
+
+neg current cost is -144334.0, iteration is 206
+
+neg current cost is -144334.0, iteration is 207
+
+neg current cost is -144334.0, iteration is 208
+
+neg current cost is -144334.0, iteration is 209
+
+neg current cost is -143713.0, iteration is 210
+
+neg current cost is -143713.0, iteration is 211
+
+neg current cost is -143713.0, iteration is 212
+
+neg current cost is -143713.0, iteration is 213
+
+neg current cost is -143713.0, iteration is 214
+
+neg current cost is -143092.0, iteration is 215
+
+neg current cost is -143092.0, iteration is 216
+
+neg current cost is -143092.0, iteration is 217
+
+neg current cost is -143092.0, iteration is 218
+
+neg current cost is -143092.0, iteration is 219
+
+neg current cost is -142471.0, iteration is 220
+
+neg current cost is -142471.0, iteration is 221
+
+neg current cost is -142471.0, iteration is 222
+
+neg current cost is -142471.0, iteration is 223
+
+neg current cost is -142471.0, iteration is 224
+
+neg current cost is -142435.0, iteration is 225
+
+neg current cost is -142435.0, iteration is 226
+
+neg current cost is -142435.0, iteration is 227
+
+neg current cost is -142435.0, iteration is 228
+
+neg current cost is -142435.0, iteration is 229
+
+neg current cost is -142435.0, iteration is 230
+
+neg current cost is -142435.0, iteration is 231
+
+neg current cost is -142435.0, iteration is 232
+
+neg current cost is -142435.0, iteration is 233
+
+neg current cost is -142435.0, iteration is 234
+
+neg current cost is -141814.0, iteration is 235
+
+neg current cost is -141814.0, iteration is 236
+
+neg current cost is -141814.0, iteration is 237
+
+neg current cost is -141814.0, iteration is 238
+
+neg current cost is -141814.0, iteration is 239
+
+neg current cost is -141814.0, iteration is 240
+
+neg current cost is -141814.0, iteration is 241
+
+neg current cost is -141814.0, iteration is 242
+
+neg current cost is -141814.0, iteration is 243
+
+neg current cost is -141814.0, iteration is 244
+
+neg current cost is -141193.0, iteration is 245
+
+neg current cost is -141193.0, iteration is 246
+
+neg current cost is -141193.0, iteration is 247
+
+neg current cost is -141193.0, iteration is 248
+
+neg current cost is -141193.0, iteration is 249
+
+neg current cost is -140572.0, iteration is 250
+
+neg current cost is -140572.0, iteration is 251
+
+neg current cost is -140572.0, iteration is 252
+
+neg current cost is -140572.0, iteration is 253
+
+neg current cost is -140572.0, iteration is 254
+
+neg current cost is -139951.0, iteration is 255
+
+neg current cost is -139951.0, iteration is 256
+
+neg current cost is -139951.0, iteration is 257
+
+neg current cost is -139951.0, iteration is 258
+
+neg current cost is -139951.0, iteration is 259
+
+neg current cost is -139330.0, iteration is 260
+
+neg current cost is -139330.0, iteration is 261
+
+neg current cost is -139330.0, iteration is 262
+
+neg current cost is -139330.0, iteration is 263
+
+neg current cost is -139330.0, iteration is 264
+
+neg current cost is -138709.0, iteration is 265
+
+neg current cost is -138709.0, iteration is 266
+
+neg current cost is -138709.0, iteration is 267
+
+neg current cost is -138709.0, iteration is 268
+
+neg current cost is -138709.0, iteration is 269
+
+neg current cost is -138673.0, iteration is 270
+
+neg current cost is -138673.0, iteration is 271
+
+neg current cost is -138673.0, iteration is 272
+
+neg current cost is -138673.0, iteration is 273
+
+neg current cost is -138673.0, iteration is 274
+
+neg current cost is -138637.0, iteration is 275
+
+neg current cost is -138637.0, iteration is 276
+
+neg current cost is -138637.0, iteration is 277
+
+neg current cost is -138637.0, iteration is 278
+
+neg current cost is -138637.0, iteration is 279
+
+neg current cost is -138637.0, iteration is 280
+
+neg current cost is -138637.0, iteration is 281
+
+neg current cost is -138637.0, iteration is 282
+
+neg current cost is -138637.0, iteration is 283
+
+neg current cost is -138637.0, iteration is 284
+
+neg current cost is -138601.0, iteration is 285
+
+neg current cost is -138601.0, iteration is 286
+
+neg current cost is -138601.0, iteration is 287
+
+neg current cost is -138601.0, iteration is 288
+
+neg current cost is -138601.0, iteration is 289
+
+neg current cost is -137980.0, iteration is 290
+
+neg current cost is -137980.0, iteration is 291
+
+neg current cost is -137980.0, iteration is 292
+
+neg current cost is -137980.0, iteration is 293
+
+neg current cost is -137980.0, iteration is 294
+
+neg current cost is -137980.0, iteration is 295
+
+neg current cost is -137980.0, iteration is 296
+
+neg current cost is -137980.0, iteration is 297
+
+neg current cost is -137980.0, iteration is 298
+
+neg current cost is -137980.0, iteration is 299
+
+neg current cost is -137359.0, iteration is 300
+
+neg current cost is -137359.0, iteration is 301
+
+neg current cost is -137359.0, iteration is 302
+
+neg current cost is -137359.0, iteration is 303
+
+neg current cost is -137359.0, iteration is 304
+
+neg current cost is -136738.0, iteration is 305
+
+neg current cost is -136738.0, iteration is 306
+
+neg current cost is -136738.0, iteration is 307
+
+neg current cost is -136738.0, iteration is 308
+
+neg current cost is -136738.0, iteration is 309
+
+neg current cost is -136657.0, iteration is 310
+
+neg current cost is -136657.0, iteration is 311
+
+neg current cost is -136657.0, iteration is 312
+
+neg current cost is -136657.0, iteration is 313
+
+neg current cost is -136657.0, iteration is 314
+
+neg current cost is -136036.0, iteration is 315
+
+neg current cost is -136036.0, iteration is 316
+
+neg current cost is -136036.0, iteration is 317
+
+neg current cost is -136036.0, iteration is 318
+
+neg current cost is -136036.0, iteration is 319
+
+neg current cost is -135415.0, iteration is 320
+
+neg current cost is -135415.0, iteration is 321
+
+neg current cost is -135415.0, iteration is 322
+
+neg current cost is -135415.0, iteration is 323
+
+neg current cost is -135415.0, iteration is 324
+
+neg current cost is -134794.0, iteration is 325
+
+neg current cost is -134794.0, iteration is 326
+
+neg current cost is -134794.0, iteration is 327
+
+neg current cost is -134794.0, iteration is 328
+
+neg current cost is -134794.0, iteration is 329
+
+neg current cost is -134794.0, iteration is 330
+
+neg current cost is -134794.0, iteration is 331
+
+neg current cost is -134794.0, iteration is 332
+
+neg current cost is -134794.0, iteration is 333
+
+neg current cost is -134794.0, iteration is 334
+
+neg current cost is -134173.0, iteration is 335
+
+neg current cost is -134173.0, iteration is 336
+
+neg current cost is -134173.0, iteration is 337
+
+neg current cost is -134173.0, iteration is 338
+
+neg current cost is -134173.0, iteration is 339
+
+neg current cost is -133552.0, iteration is 340
+
+neg current cost is -133552.0, iteration is 341
+
+neg current cost is -133552.0, iteration is 342
+
+neg current cost is -133552.0, iteration is 343
+
+neg current cost is -133552.0, iteration is 344
+
+neg current cost is -132931.0, iteration is 345
+
+neg current cost is -132931.0, iteration is 346
+
+neg current cost is -132931.0, iteration is 347
+
+neg current cost is -132931.0, iteration is 348
+
+neg current cost is -132931.0, iteration is 349
+
+neg current cost is -132931.0, iteration is 350
+
+neg current cost is -132931.0, iteration is 351
+
+neg current cost is -132931.0, iteration is 352
+
+neg current cost is -132931.0, iteration is 353
+
+neg current cost is -132931.0, iteration is 354
+
+neg current cost is -132931.0, iteration is 355
+
+neg current cost is -132931.0, iteration is 356
+
+neg current cost is -132931.0, iteration is 357
+
+neg current cost is -132931.0, iteration is 358
+
+neg current cost is -132931.0, iteration is 359
+
+neg current cost is -132931.0, iteration is 360
+
+neg current cost is -132931.0, iteration is 361
+
+neg current cost is -132931.0, iteration is 362
+
+neg current cost is -132931.0, iteration is 363
+
+neg current cost is -132931.0, iteration is 364
+
+neg current cost is -132310.0, iteration is 365
+
+neg current cost is -132310.0, iteration is 366
+
+neg current cost is -132310.0, iteration is 367
+
+neg current cost is -132310.0, iteration is 368
+
+neg current cost is -132310.0, iteration is 369
+
+neg current cost is -132229.0, iteration is 370
+
+neg current cost is -132229.0, iteration is 371
+
+neg current cost is -132229.0, iteration is 372
+
+neg current cost is -132229.0, iteration is 373
+
+neg current cost is -132229.0, iteration is 374
+
+neg current cost is -131608.0, iteration is 375
+
+neg current cost is -131608.0, iteration is 376
+
+neg current cost is -131608.0, iteration is 377
+
+neg current cost is -131608.0, iteration is 378
+
+neg current cost is -131608.0, iteration is 379
+
+neg current cost is -130987.0, iteration is 380
+
+neg current cost is -130987.0, iteration is 381
+
+neg current cost is -130987.0, iteration is 382
+
+neg current cost is -130987.0, iteration is 383
+
+neg current cost is -130987.0, iteration is 384
+
+neg current cost is -130366.0, iteration is 385
+
+neg current cost is -130366.0, iteration is 386
+
+neg current cost is -130366.0, iteration is 387
+
+neg current cost is -130366.0, iteration is 388
+
+neg current cost is -130366.0, iteration is 389
+
+neg current cost is -130366.0, iteration is 390
+
+neg current cost is -130366.0, iteration is 391
+
+neg current cost is -130366.0, iteration is 392
+
+neg current cost is -130366.0, iteration is 393
+
+neg current cost is -130366.0, iteration is 394
+
+neg current cost is -129745.0, iteration is 395
+
+neg current cost is -129745.0, iteration is 396
+
+neg current cost is -129745.0, iteration is 397
+
+neg current cost is -129745.0, iteration is 398
+
+neg current cost is -129745.0, iteration is 399
+
+neg current cost is -129124.0, iteration is 400
+
+neg current cost is -129124.0, iteration is 401
+
+neg current cost is -129124.0, iteration is 402
+
+neg current cost is -129124.0, iteration is 403
+
+neg current cost is -129124.0, iteration is 404
+
+neg current cost is -128503.0, iteration is 405
+
+neg current cost is -128503.0, iteration is 406
+
+neg current cost is -128503.0, iteration is 407
+
+neg current cost is -128503.0, iteration is 408
+
+neg current cost is -128503.0, iteration is 409
+
+neg current cost is -128503.0, iteration is 410
+
+neg current cost is -128503.0, iteration is 411
+
+neg current cost is -128503.0, iteration is 412
+
+neg current cost is -128503.0, iteration is 413
+
+neg current cost is -128503.0, iteration is 414
+
+neg current cost is -128503.0, iteration is 415
+
+neg current cost is -128503.0, iteration is 416
+
+neg current cost is -128503.0, iteration is 417
+
+neg current cost is -128503.0, iteration is 418
+
+neg current cost is -128503.0, iteration is 419
+
+neg current cost is -128503.0, iteration is 420
+
+neg current cost is -128503.0, iteration is 421
+
+neg current cost is -128503.0, iteration is 422
+
+neg current cost is -128503.0, iteration is 423
+
+neg current cost is -128503.0, iteration is 424
+
+neg current cost is -127882.0, iteration is 425
+
+neg current cost is -127882.0, iteration is 426
+
+neg current cost is -127882.0, iteration is 427
+
+neg current cost is -127882.0, iteration is 428
+
+neg current cost is -127882.0, iteration is 429
+
+neg current cost is -127882.0, iteration is 430
+
+neg current cost is -127882.0, iteration is 431
+
+neg current cost is -127882.0, iteration is 432
+
+neg current cost is -127882.0, iteration is 433
+
+neg current cost is -127882.0, iteration is 434
+
+neg current cost is -127882.0, iteration is 435
+
+neg current cost is -127882.0, iteration is 436
+
+neg current cost is -127882.0, iteration is 437
+
+neg current cost is -127882.0, iteration is 438
+
+neg current cost is -127882.0, iteration is 439
+
+neg current cost is -127882.0, iteration is 440
+
+neg current cost is -127882.0, iteration is 441
+
+neg current cost is -127882.0, iteration is 442
+
+neg current cost is -127882.0, iteration is 443
+
+neg current cost is -127882.0, iteration is 444
+
+neg current cost is -127261.0, iteration is 445
+
+neg current cost is -127261.0, iteration is 446
+
+neg current cost is -127261.0, iteration is 447
+
+neg current cost is -127261.0, iteration is 448
+
+neg current cost is -127261.0, iteration is 449
+
+neg current cost is -126640.0, iteration is 450
+
+neg current cost is -126640.0, iteration is 451
+
+neg current cost is -126640.0, iteration is 452
+
+neg current cost is -126640.0, iteration is 453
+
+neg current cost is -126640.0, iteration is 454
+
+neg current cost is -126019.0, iteration is 455
+
+neg current cost is -126019.0, iteration is 456
+
+neg current cost is -126019.0, iteration is 457
+
+neg current cost is -126019.0, iteration is 458
+
+neg current cost is -126019.0, iteration is 459
+
+neg current cost is -125398.0, iteration is 460
+
+neg current cost is -125398.0, iteration is 461
+
+neg current cost is -125398.0, iteration is 462
+
+neg current cost is -125398.0, iteration is 463
+
+neg current cost is -125398.0, iteration is 464
+
+neg current cost is -124777.0, iteration is 465
+
+neg current cost is -124777.0, iteration is 466
+
+neg current cost is -124777.0, iteration is 467
+
+neg current cost is -124777.0, iteration is 468
+
+neg current cost is -124777.0, iteration is 469
+
+neg current cost is -124777.0, iteration is 470
+
+neg current cost is -124777.0, iteration is 471
+
+neg current cost is -124777.0, iteration is 472
+
+neg current cost is -124777.0, iteration is 473
+
+neg current cost is -124777.0, iteration is 474
+
+neg current cost is -124777.0, iteration is 475
+
+neg current cost is -124777.0, iteration is 476
+
+neg current cost is -124777.0, iteration is 477
+
+neg current cost is -124777.0, iteration is 478
+
+neg current cost is -124777.0, iteration is 479
+
+neg current cost is -124156.0, iteration is 480
+
+neg current cost is -124156.0, iteration is 481
+
+neg current cost is -124156.0, iteration is 482
+
+neg current cost is -124156.0, iteration is 483
+
+neg current cost is -124156.0, iteration is 484
+
+neg current cost is -123535.0, iteration is 485
+
+neg current cost is -123535.0, iteration is 486
+
+neg current cost is -123535.0, iteration is 487
+
+neg current cost is -123535.0, iteration is 488
+
+neg current cost is -123535.0, iteration is 489
+
+neg current cost is -123535.0, iteration is 490
+
+neg current cost is -123535.0, iteration is 491
+
+neg current cost is -123535.0, iteration is 492
+
+neg current cost is -123535.0, iteration is 493
+
+neg current cost is -123535.0, iteration is 494
+
+neg current cost is -122914.0, iteration is 495
+
+neg current cost is -122914.0, iteration is 496
+
+neg current cost is -122914.0, iteration is 497
+
+neg current cost is -122914.0, iteration is 498
+
+neg current cost is -122914.0, iteration is 499
+
+neg current cost is -122833.0, iteration is 500
+
+neg current cost is -122833.0, iteration is 501
+
+neg current cost is -122833.0, iteration is 502
+
+neg current cost is -122833.0, iteration is 503
+
+neg current cost is -122833.0, iteration is 504
+
+neg current cost is -122212.0, iteration is 505
+
+neg current cost is -122212.0, iteration is 506
+
+neg current cost is -122212.0, iteration is 507
+
+neg current cost is -122212.0, iteration is 508
+
+neg current cost is -122212.0, iteration is 509
+
+neg current cost is -121591.0, iteration is 510
+
+neg current cost is -121591.0, iteration is 511
+
+neg current cost is -121591.0, iteration is 512
+
+neg current cost is -121591.0, iteration is 513
+
+neg current cost is -121591.0, iteration is 514
+
+neg current cost is -121591.0, iteration is 515
+
+neg current cost is -121591.0, iteration is 516
+
+neg current cost is -121591.0, iteration is 517
+
+neg current cost is -121591.0, iteration is 518
+
+neg current cost is -121591.0, iteration is 519
+
+neg current cost is -120970.0, iteration is 520
+
+neg current cost is -120970.0, iteration is 521
+
+neg current cost is -120970.0, iteration is 522
+
+neg current cost is -120970.0, iteration is 523
+
+neg current cost is -120970.0, iteration is 524
+
+neg current cost is -120349.0, iteration is 525
+
+neg current cost is -120349.0, iteration is 526
+
+neg current cost is -120349.0, iteration is 527
+
+neg current cost is -120349.0, iteration is 528
+
+neg current cost is -120349.0, iteration is 529
+
+neg current cost is -119728.0, iteration is 530
+
+neg current cost is -119728.0, iteration is 531
+
+neg current cost is -119728.0, iteration is 532
+
+neg current cost is -119728.0, iteration is 533
+
+neg current cost is -119728.0, iteration is 534
+
+neg current cost is -119728.0, iteration is 535
+
+neg current cost is -119728.0, iteration is 536
+
+neg current cost is -119728.0, iteration is 537
+
+neg current cost is -119728.0, iteration is 538
+
+neg current cost is -119728.0, iteration is 539
+
+neg current cost is -119107.0, iteration is 540
+
+neg current cost is -119107.0, iteration is 541
+
+neg current cost is -119107.0, iteration is 542
+
+neg current cost is -119107.0, iteration is 543
+
+neg current cost is -119107.0, iteration is 544
+
+neg current cost is -118486.0, iteration is 545
+
+neg current cost is -118486.0, iteration is 546
+
+neg current cost is -118486.0, iteration is 547
+
+neg current cost is -118486.0, iteration is 548
+
+neg current cost is -118486.0, iteration is 549
+
+neg current cost is -117865.0, iteration is 550
+
+neg current cost is -117865.0, iteration is 551
+
+neg current cost is -117865.0, iteration is 552
+
+neg current cost is -117865.0, iteration is 553
+
+neg current cost is -117865.0, iteration is 554
+
+neg current cost is -117244.0, iteration is 555
+
+neg current cost is -117244.0, iteration is 556
+
+neg current cost is -117244.0, iteration is 557
+
+neg current cost is -117244.0, iteration is 558
+
+neg current cost is -117244.0, iteration is 559
+
+neg current cost is -117208.0, iteration is 560
+
+neg current cost is -117208.0, iteration is 561
+
+neg current cost is -117208.0, iteration is 562
+
+neg current cost is -117208.0, iteration is 563
+
+neg current cost is -117208.0, iteration is 564
+
+neg current cost is -116587.0, iteration is 565
+
+neg current cost is -116587.0, iteration is 566
+
+neg current cost is -116587.0, iteration is 567
+
+neg current cost is -116587.0, iteration is 568
+
+neg current cost is -116587.0, iteration is 569
+
+neg current cost is -115966.0, iteration is 570
+
+neg current cost is -115966.0, iteration is 571
+
+neg current cost is -115966.0, iteration is 572
+
+neg current cost is -115966.0, iteration is 573
+
+neg current cost is -115966.0, iteration is 574
+
+neg current cost is -115345.0, iteration is 575
+
+neg current cost is -115345.0, iteration is 576
+
+neg current cost is -115345.0, iteration is 577
+
+neg current cost is -115345.0, iteration is 578
+
+neg current cost is -115345.0, iteration is 579
+
+neg current cost is -114724.0, iteration is 580
+
+neg current cost is -114724.0, iteration is 581
+
+neg current cost is -114724.0, iteration is 582
+
+neg current cost is -114724.0, iteration is 583
+
+neg current cost is -114724.0, iteration is 584
+
+neg current cost is -114724.0, iteration is 585
+
+neg current cost is -114724.0, iteration is 586
+
+neg current cost is -114724.0, iteration is 587
+
+neg current cost is -114724.0, iteration is 588
+
+neg current cost is -114724.0, iteration is 589
+
+neg current cost is -114724.0, iteration is 590
+
+neg current cost is -114724.0, iteration is 591
+
+neg current cost is -114724.0, iteration is 592
+
+neg current cost is -114724.0, iteration is 593
+
+neg current cost is -114724.0, iteration is 594
+
+neg current cost is -114724.0, iteration is 595
+
+neg current cost is -114724.0, iteration is 596
+
+neg current cost is -114724.0, iteration is 597
+
+neg current cost is -114724.0, iteration is 598
+
+neg current cost is -114724.0, iteration is 599
+
+neg current cost is -114103.0, iteration is 600
+
+neg current cost is -114103.0, iteration is 601
+
+neg current cost is -114103.0, iteration is 602
+
+neg current cost is -114103.0, iteration is 603
+
+neg current cost is -114103.0, iteration is 604
+
+neg current cost is -113482.0, iteration is 605
+
+neg current cost is -113482.0, iteration is 606
+
+neg current cost is -113482.0, iteration is 607
+
+neg current cost is -113482.0, iteration is 608
+
+neg current cost is -113482.0, iteration is 609
+
+neg current cost is -112861.0, iteration is 610
+
+neg current cost is -112861.0, iteration is 611
+
+neg current cost is -112861.0, iteration is 612
+
+neg current cost is -112861.0, iteration is 613
+
+neg current cost is -112861.0, iteration is 614
+
+neg current cost is -112861.0, iteration is 615
+
+neg current cost is -112861.0, iteration is 616
+
+neg current cost is -112861.0, iteration is 617
+
+neg current cost is -112861.0, iteration is 618
+
+neg current cost is -112861.0, iteration is 619
+
+neg current cost is -112240.0, iteration is 620
+
+neg current cost is -112240.0, iteration is 621
+
+neg current cost is -112240.0, iteration is 622
+
+neg current cost is -112240.0, iteration is 623
+
+neg current cost is -112240.0, iteration is 624
+
+neg current cost is -112240.0, iteration is 625
+
+neg current cost is -112240.0, iteration is 626
+
+neg current cost is -112240.0, iteration is 627
+
+neg current cost is -112240.0, iteration is 628
+
+neg current cost is -112240.0, iteration is 629
+
+neg current cost is -111619.0, iteration is 630
+
+neg current cost is -111619.0, iteration is 631
+
+neg current cost is -111619.0, iteration is 632
+
+neg current cost is -111619.0, iteration is 633
+
+neg current cost is -111619.0, iteration is 634
+
+neg current cost is -110998.0, iteration is 635
+
+neg current cost is -110998.0, iteration is 636
+
+neg current cost is -110998.0, iteration is 637
+
+neg current cost is -110998.0, iteration is 638
+
+neg current cost is -110998.0, iteration is 639
+
+neg current cost is -110377.0, iteration is 640
+
+neg current cost is -110377.0, iteration is 641
+
+neg current cost is -110377.0, iteration is 642
+
+neg current cost is -110377.0, iteration is 643
+
+neg current cost is -110377.0, iteration is 644
+
+neg current cost is -109756.0, iteration is 645
+
+neg current cost is -109756.0, iteration is 646
+
+neg current cost is -109756.0, iteration is 647
+
+neg current cost is -109756.0, iteration is 648
+
+neg current cost is -109756.0, iteration is 649
+
+neg current cost is -109135.0, iteration is 650
+
+neg current cost is -109135.0, iteration is 651
+
+neg current cost is -109135.0, iteration is 652
+
+neg current cost is -109135.0, iteration is 653
+
+neg current cost is -109135.0, iteration is 654
+
+neg current cost is -108514.0, iteration is 655
+
+neg current cost is -108514.0, iteration is 656
+
+neg current cost is -108514.0, iteration is 657
+
+neg current cost is -108514.0, iteration is 658
+
+neg current cost is -108514.0, iteration is 659
+
+neg current cost is -108254.0, iteration is 660
+
+neg current cost is -108254.0, iteration is 661
+
+neg current cost is -108254.0, iteration is 662
+
+neg current cost is -108254.0, iteration is 663
+
+neg current cost is -108254.0, iteration is 664
+
+neg current cost is -107633.0, iteration is 665
+
+neg current cost is -107633.0, iteration is 666
+
+neg current cost is -107633.0, iteration is 667
+
+neg current cost is -107633.0, iteration is 668
+
+neg current cost is -107633.0, iteration is 669
+
+neg current cost is -107633.0, iteration is 670
+
+neg current cost is -107633.0, iteration is 671
+
+neg current cost is -107633.0, iteration is 672
+
+neg current cost is -107633.0, iteration is 673
+
+neg current cost is -107633.0, iteration is 674
+
+neg current cost is -107633.0, iteration is 675
+
+neg current cost is -107633.0, iteration is 676
+
+neg current cost is -107633.0, iteration is 677
+
+neg current cost is -107633.0, iteration is 678
+
+neg current cost is -107633.0, iteration is 679
+
+neg current cost is -107633.0, iteration is 680
+
+neg current cost is -107633.0, iteration is 681
+
+neg current cost is -107633.0, iteration is 682
+
+neg current cost is -107633.0, iteration is 683
+
+neg current cost is -107633.0, iteration is 684
+
+neg current cost is -107633.0, iteration is 685
+
+neg current cost is -107633.0, iteration is 686
+
+neg current cost is -107633.0, iteration is 687
+
+neg current cost is -107633.0, iteration is 688
+
+neg current cost is -107633.0, iteration is 689
+
+neg current cost is -107633.0, iteration is 690
+
+neg current cost is -107633.0, iteration is 691
+
+neg current cost is -107633.0, iteration is 692
+
+neg current cost is -107633.0, iteration is 693
+
+neg current cost is -107633.0, iteration is 694
+
+neg current cost is -107633.0, iteration is 695
+
+neg current cost is -107633.0, iteration is 696
+
+neg current cost is -107633.0, iteration is 697
+
+neg current cost is -107633.0, iteration is 698
+
+neg current cost is -107633.0, iteration is 699
+
+neg current cost is -107633.0, iteration is 700
+
+neg current cost is -107633.0, iteration is 701
+
+neg current cost is -107633.0, iteration is 702
+
+neg current cost is -107633.0, iteration is 703
+
+neg current cost is -107633.0, iteration is 704
+
+neg current cost is -107012.0, iteration is 705
+
+neg current cost is -107012.0, iteration is 706
+
+neg current cost is -107012.0, iteration is 707
+
+neg current cost is -107012.0, iteration is 708
+
+neg current cost is -107012.0, iteration is 709
+
+neg current cost is -106391.0, iteration is 710
+
+neg current cost is -106391.0, iteration is 711
+
+neg current cost is -106391.0, iteration is 712
+
+neg current cost is -106391.0, iteration is 713
+
+neg current cost is -106391.0, iteration is 714
+
+neg current cost is -105770.0, iteration is 715
+
+neg current cost is -105770.0, iteration is 716
+
+neg current cost is -105770.0, iteration is 717
+
+neg current cost is -105770.0, iteration is 718
+
+neg current cost is -105770.0, iteration is 719
+
+neg current cost is -105770.0, iteration is 720
+
+neg current cost is -105770.0, iteration is 721
+
+neg current cost is -105770.0, iteration is 722
+
+neg current cost is -105770.0, iteration is 723
+
+neg current cost is -105770.0, iteration is 724
+
+neg current cost is -105149.0, iteration is 725
+
+neg current cost is -105149.0, iteration is 726
+
+neg current cost is -105149.0, iteration is 727
+
+neg current cost is -105149.0, iteration is 728
+
+neg current cost is -105149.0, iteration is 729
+
+neg current cost is -104528.0, iteration is 730
+
+neg current cost is -104528.0, iteration is 731
+
+neg current cost is -104528.0, iteration is 732
+
+neg current cost is -104528.0, iteration is 733
+
+neg current cost is -104528.0, iteration is 734
+
+neg current cost is -104528.0, iteration is 735
+
+neg current cost is -104528.0, iteration is 736
+
+neg current cost is -104528.0, iteration is 737
+
+neg current cost is -104528.0, iteration is 738
+
+neg current cost is -104528.0, iteration is 739
+
+neg current cost is -104528.0, iteration is 740
+
+neg current cost is -104528.0, iteration is 741
+
+neg current cost is -104528.0, iteration is 742
+
+neg current cost is -104528.0, iteration is 743
+
+neg current cost is -104528.0, iteration is 744
+
+neg current cost is -104528.0, iteration is 745
+
+neg current cost is -104528.0, iteration is 746
+
+neg current cost is -104528.0, iteration is 747
+
+neg current cost is -104528.0, iteration is 748
+
+neg current cost is -104528.0, iteration is 749
+
+neg current cost is -103907.0, iteration is 750
+
+neg current cost is -103907.0, iteration is 751
+
+neg current cost is -103907.0, iteration is 752
+
+neg current cost is -103907.0, iteration is 753
+
+neg current cost is -103907.0, iteration is 754
+
+neg current cost is -103286.0, iteration is 755
+
+neg current cost is -103286.0, iteration is 756
+
+neg current cost is -103286.0, iteration is 757
+
+neg current cost is -103286.0, iteration is 758
+
+neg current cost is -103286.0, iteration is 759
+
+neg current cost is -102665.0, iteration is 760
+
+neg current cost is -102665.0, iteration is 761
+
+neg current cost is -102665.0, iteration is 762
+
+neg current cost is -102665.0, iteration is 763
+
+neg current cost is -102665.0, iteration is 764
+
+neg current cost is -102665.0, iteration is 765
+
+neg current cost is -102665.0, iteration is 766
+
+neg current cost is -102665.0, iteration is 767
+
+neg current cost is -102665.0, iteration is 768
+
+neg current cost is -102665.0, iteration is 769
+
+neg current cost is -102665.0, iteration is 770
+
+neg current cost is -102665.0, iteration is 771
+
+neg current cost is -102665.0, iteration is 772
+
+neg current cost is -102665.0, iteration is 773
+
+neg current cost is -102665.0, iteration is 774
+
+neg current cost is -102665.0, iteration is 775
+
+neg current cost is -102665.0, iteration is 776
+
+neg current cost is -102665.0, iteration is 777
+
+neg current cost is -102665.0, iteration is 778
+
+neg current cost is -102665.0, iteration is 779
+
+neg current cost is -102044.0, iteration is 780
+
+neg current cost is -102044.0, iteration is 781
+
+neg current cost is -102044.0, iteration is 782
+
+neg current cost is -102044.0, iteration is 783
+
+neg current cost is -102044.0, iteration is 784
+
+neg current cost is -101423.0, iteration is 785
+
+neg current cost is -101423.0, iteration is 786
+
+neg current cost is -101423.0, iteration is 787
+
+neg current cost is -101423.0, iteration is 788
+
+neg current cost is -101423.0, iteration is 789
+
+neg current cost is -100802.0, iteration is 790
+
+neg current cost is -100802.0, iteration is 791
+
+neg current cost is -100802.0, iteration is 792
+
+neg current cost is -100802.0, iteration is 793
+
+neg current cost is -100802.0, iteration is 794
+
+neg current cost is -100181.0, iteration is 795
+
+neg current cost is -100181.0, iteration is 796
+
+neg current cost is -100181.0, iteration is 797
+
+neg current cost is -100181.0, iteration is 798
+
+neg current cost is -100181.0, iteration is 799
+
+neg current cost is -100181.0, iteration is 800
+
+neg current cost is -100181.0, iteration is 801
+
+neg current cost is -100181.0, iteration is 802
+
+neg current cost is -100181.0, iteration is 803
+
+neg current cost is -100181.0, iteration is 804
+
+neg current cost is -100181.0, iteration is 805
+
+neg current cost is -100181.0, iteration is 806
+
+neg current cost is -100181.0, iteration is 807
+
+neg current cost is -100181.0, iteration is 808
+
+neg current cost is -100181.0, iteration is 809
+
+neg current cost is -99560.0, iteration is 810
+
+neg current cost is -99560.0, iteration is 811
+
+neg current cost is -99560.0, iteration is 812
+
+neg current cost is -99560.0, iteration is 813
+
+neg current cost is -99560.0, iteration is 814
+
+neg current cost is -98939.0, iteration is 815
+
+neg current cost is -98939.0, iteration is 816
+
+neg current cost is -98939.0, iteration is 817
+
+neg current cost is -98939.0, iteration is 818
+
+neg current cost is -98939.0, iteration is 819
+
+neg current cost is -98679.0, iteration is 820
+
+neg current cost is -98679.0, iteration is 821
+
+neg current cost is -98679.0, iteration is 822
+
+neg current cost is -98679.0, iteration is 823
+
+neg current cost is -98679.0, iteration is 824
+
+neg current cost is -98679.0, iteration is 825
+
+neg current cost is -98679.0, iteration is 826
+
+neg current cost is -98679.0, iteration is 827
+
+neg current cost is -98679.0, iteration is 828
+
+neg current cost is -98679.0, iteration is 829
+
+neg current cost is -98058.0, iteration is 830
+
+neg current cost is -98058.0, iteration is 831
+
+neg current cost is -98058.0, iteration is 832
+
+neg current cost is -98058.0, iteration is 833
+
+neg current cost is -98058.0, iteration is 834
+
+neg current cost is -98058.0, iteration is 835
+
+neg current cost is -98058.0, iteration is 836
+
+neg current cost is -98058.0, iteration is 837
+
+neg current cost is -98058.0, iteration is 838
+
+neg current cost is -98058.0, iteration is 839
+
+neg current cost is -98022.0, iteration is 840
+
+neg current cost is -98022.0, iteration is 841
+
+neg current cost is -98022.0, iteration is 842
+
+neg current cost is -98022.0, iteration is 843
+
+neg current cost is -98022.0, iteration is 844
+
+neg current cost is -97401.0, iteration is 845
+
+neg current cost is -97401.0, iteration is 846
+
+neg current cost is -97401.0, iteration is 847
+
+neg current cost is -97401.0, iteration is 848
+
+neg current cost is -97401.0, iteration is 849
+
+neg current cost is -96780.0, iteration is 850
+
+neg current cost is -96780.0, iteration is 851
+
+neg current cost is -96780.0, iteration is 852
+
+neg current cost is -96780.0, iteration is 853
+
+neg current cost is -96780.0, iteration is 854
+
+neg current cost is -96159.0, iteration is 855
+
+neg current cost is -96159.0, iteration is 856
+
+neg current cost is -96159.0, iteration is 857
+
+neg current cost is -96159.0, iteration is 858
+
+neg current cost is -96159.0, iteration is 859
+
+neg current cost is -96159.0, iteration is 860
+
+neg current cost is -96159.0, iteration is 861
+
+neg current cost is -96159.0, iteration is 862
+
+neg current cost is -96159.0, iteration is 863
+
+neg current cost is -96159.0, iteration is 864
+
+neg current cost is -96078.0, iteration is 865
+
+neg current cost is -96078.0, iteration is 866
+
+neg current cost is -96078.0, iteration is 867
+
+neg current cost is -96078.0, iteration is 868
+
+neg current cost is -96078.0, iteration is 869
+
+neg current cost is -95457.0, iteration is 870
+
+neg current cost is -95457.0, iteration is 871
+
+neg current cost is -95457.0, iteration is 872
+
+neg current cost is -95457.0, iteration is 873
+
+neg current cost is -95457.0, iteration is 874
+
+neg current cost is -95197.0, iteration is 875
+
+neg current cost is -95197.0, iteration is 876
+
+neg current cost is -95197.0, iteration is 877
+
+neg current cost is -95197.0, iteration is 878
+
+neg current cost is -95197.0, iteration is 879
+
+neg current cost is -94576.0, iteration is 880
+
+neg current cost is -94576.0, iteration is 881
+
+neg current cost is -94576.0, iteration is 882
+
+neg current cost is -94576.0, iteration is 883
+
+neg current cost is -94576.0, iteration is 884
+
+neg current cost is -94576.0, iteration is 885
+
+neg current cost is -94576.0, iteration is 886
+
+neg current cost is -94576.0, iteration is 887
+
+neg current cost is -94576.0, iteration is 888
+
+neg current cost is -94576.0, iteration is 889
+
+neg current cost is -93955.0, iteration is 890
+
+neg current cost is -93955.0, iteration is 891
+
+neg current cost is -93955.0, iteration is 892
+
+neg current cost is -93955.0, iteration is 893
+
+neg current cost is -93955.0, iteration is 894
+
+neg current cost is -93955.0, iteration is 895
+
+neg current cost is -93955.0, iteration is 896
+
+neg current cost is -93955.0, iteration is 897
+
+neg current cost is -93955.0, iteration is 898
+
+neg current cost is -93955.0, iteration is 899
+
+neg current cost is -93334.0, iteration is 900
+
+neg current cost is -93334.0, iteration is 901
+
+neg current cost is -93334.0, iteration is 902
+
+neg current cost is -93334.0, iteration is 903
+
+neg current cost is -93334.0, iteration is 904
+
+neg current cost is -93334.0, iteration is 905
+
+neg current cost is -93334.0, iteration is 906
+
+neg current cost is -93334.0, iteration is 907
+
+neg current cost is -93334.0, iteration is 908
+
+neg current cost is -93334.0, iteration is 909
+
+neg current cost is -93334.0, iteration is 910
+
+neg current cost is -93334.0, iteration is 911
+
+neg current cost is -93334.0, iteration is 912
+
+neg current cost is -93334.0, iteration is 913
+
+neg current cost is -93334.0, iteration is 914
+
+neg current cost is -93334.0, iteration is 915
+
+neg current cost is -93334.0, iteration is 916
+
+neg current cost is -93334.0, iteration is 917
+
+neg current cost is -93334.0, iteration is 918
+
+neg current cost is -93334.0, iteration is 919
+
+neg current cost is -92713.0, iteration is 920
+
+neg current cost is -92713.0, iteration is 921
+
+neg current cost is -92713.0, iteration is 922
+
+neg current cost is -92713.0, iteration is 923
+
+neg current cost is -92713.0, iteration is 924
+
+neg current cost is -92092.0, iteration is 925
+
+neg current cost is -92092.0, iteration is 926
+
+neg current cost is -92092.0, iteration is 927
+
+neg current cost is -92092.0, iteration is 928
+
+neg current cost is -92092.0, iteration is 929
+
+neg current cost is -92092.0, iteration is 930
+
+neg current cost is -92092.0, iteration is 931
+
+neg current cost is -92092.0, iteration is 932
+
+neg current cost is -92092.0, iteration is 933
+
+neg current cost is -92092.0, iteration is 934
+
+neg current cost is -92092.0, iteration is 935
+
+neg current cost is -92092.0, iteration is 936
+
+neg current cost is -92092.0, iteration is 937
+
+neg current cost is -92092.0, iteration is 938
+
+neg current cost is -92092.0, iteration is 939
+
+neg current cost is -91471.0, iteration is 940
+
+neg current cost is -91471.0, iteration is 941
+
+neg current cost is -91471.0, iteration is 942
+
+neg current cost is -91471.0, iteration is 943
+
+neg current cost is -91471.0, iteration is 944
+
+neg current cost is -91435.0, iteration is 945
+
+neg current cost is -91435.0, iteration is 946
+
+neg current cost is -91435.0, iteration is 947
+
+neg current cost is -91435.0, iteration is 948
+
+neg current cost is -91435.0, iteration is 949
+
+neg current cost is -90814.0, iteration is 950
+
+neg current cost is -90814.0, iteration is 951
+
+neg current cost is -90814.0, iteration is 952
+
+neg current cost is -90814.0, iteration is 953
+
+neg current cost is -90814.0, iteration is 954
+
+neg current cost is -90193.0, iteration is 955
+
+neg current cost is -90193.0, iteration is 956
+
+neg current cost is -90193.0, iteration is 957
+
+neg current cost is -90193.0, iteration is 958
+
+neg current cost is -90193.0, iteration is 959
+
+neg current cost is -90193.0, iteration is 960
+
+neg current cost is -90193.0, iteration is 961
+
+neg current cost is -90193.0, iteration is 962
+
+neg current cost is -90193.0, iteration is 963
+
+neg current cost is -90193.0, iteration is 964
+
+neg current cost is -89572.0, iteration is 965
+
+neg current cost is -89572.0, iteration is 966
+
+neg current cost is -89572.0, iteration is 967
+
+neg current cost is -89572.0, iteration is 968
+
+neg current cost is -89572.0, iteration is 969
+
+neg current cost is -89572.0, iteration is 970
+
+neg current cost is -89572.0, iteration is 971
+
+neg current cost is -89572.0, iteration is 972
+
+neg current cost is -89572.0, iteration is 973
+
+neg current cost is -89572.0, iteration is 974
+
+neg current cost is -89572.0, iteration is 975
+
+neg current cost is -89572.0, iteration is 976
+
+neg current cost is -89572.0, iteration is 977
+
+neg current cost is -89572.0, iteration is 978
+
+neg current cost is -89572.0, iteration is 979
+
+neg current cost is -89152.0, iteration is 980
+
+neg current cost is -89152.0, iteration is 981
+
+neg current cost is -89152.0, iteration is 982
+
+neg current cost is -89152.0, iteration is 983
+
+neg current cost is -89152.0, iteration is 984
+
+neg current cost is -89071.0, iteration is 985
+
+neg current cost is -89071.0, iteration is 986
+
+neg current cost is -89071.0, iteration is 987
+
+neg current cost is -89071.0, iteration is 988
+
+neg current cost is -89071.0, iteration is 989
+
+neg current cost is -88450.0, iteration is 990
+
+neg current cost is -88450.0, iteration is 991
+
+neg current cost is -88450.0, iteration is 992
+
+neg current cost is -88450.0, iteration is 993
+
+neg current cost is -88450.0, iteration is 994
+
+neg current cost is -87829.0, iteration is 995
+
+neg current cost is -87829.0, iteration is 996
+
+neg current cost is -87829.0, iteration is 997
+
+neg current cost is -87829.0, iteration is 998
+
+neg current cost is -87829.0, iteration is 999
+
+neg current cost is -87208.0, iteration is 1000
+
+neg current cost is -87208.0, iteration is 1001
+
+neg current cost is -87208.0, iteration is 1002
+
+neg current cost is -87208.0, iteration is 1003
+
+neg current cost is -87208.0, iteration is 1004
+
+neg current cost is -87208.0, iteration is 1005
+
+neg current cost is -87208.0, iteration is 1006
+
+neg current cost is -87208.0, iteration is 1007
+
+neg current cost is -87208.0, iteration is 1008
+
+neg current cost is -87208.0, iteration is 1009
+
+neg current cost is -87208.0, iteration is 1010
+
+neg current cost is -87208.0, iteration is 1011
+
+neg current cost is -87208.0, iteration is 1012
+
+neg current cost is -87208.0, iteration is 1013
+
+neg current cost is -87208.0, iteration is 1014
+
+neg current cost is -86587.0, iteration is 1015
+
+neg current cost is -86587.0, iteration is 1016
+
+neg current cost is -86587.0, iteration is 1017
+
+neg current cost is -86587.0, iteration is 1018
+
+neg current cost is -86587.0, iteration is 1019
+
+neg current cost is -86167.0, iteration is 1020
+
+neg current cost is -86167.0, iteration is 1021
+
+neg current cost is -86167.0, iteration is 1022
+
+neg current cost is -86167.0, iteration is 1023
+
+neg current cost is -86167.0, iteration is 1024
+
+neg current cost is -86167.0, iteration is 1025
+
+neg current cost is -86167.0, iteration is 1026
+
+neg current cost is -86167.0, iteration is 1027
+
+neg current cost is -86167.0, iteration is 1028
+
+neg current cost is -86167.0, iteration is 1029
+
+neg current cost is -86167.0, iteration is 1030
+
+neg current cost is -86167.0, iteration is 1031
+
+neg current cost is -86167.0, iteration is 1032
+
+neg current cost is -86167.0, iteration is 1033
+
+neg current cost is -86167.0, iteration is 1034
+
+neg current cost is -85546.0, iteration is 1035
+
+neg current cost is -85546.0, iteration is 1036
+
+neg current cost is -85546.0, iteration is 1037
+
+neg current cost is -85546.0, iteration is 1038
+
+neg current cost is -85546.0, iteration is 1039
+
+neg current cost is -85546.0, iteration is 1040
+
+neg current cost is -85546.0, iteration is 1041
+
+neg current cost is -85546.0, iteration is 1042
+
+neg current cost is -85546.0, iteration is 1043
+
+neg current cost is -85546.0, iteration is 1044
+
+neg current cost is -84925.0, iteration is 1045
+
+neg current cost is -84925.0, iteration is 1046
+
+neg current cost is -84925.0, iteration is 1047
+
+neg current cost is -84925.0, iteration is 1048
+
+neg current cost is -84925.0, iteration is 1049
+
+neg current cost is -84925.0, iteration is 1050
+
+neg current cost is -84925.0, iteration is 1051
+
+neg current cost is -84925.0, iteration is 1052
+
+neg current cost is -84925.0, iteration is 1053
+
+neg current cost is -84925.0, iteration is 1054
+
+neg current cost is -84304.0, iteration is 1055
+
+neg current cost is -84304.0, iteration is 1056
+
+neg current cost is -84304.0, iteration is 1057
+
+neg current cost is -84304.0, iteration is 1058
+
+neg current cost is -84304.0, iteration is 1059
+
+neg current cost is -83683.0, iteration is 1060
+
+neg current cost is -83683.0, iteration is 1061
+
+neg current cost is -83683.0, iteration is 1062
+
+neg current cost is -83683.0, iteration is 1063
+
+neg current cost is -83683.0, iteration is 1064
+
+neg current cost is -83062.0, iteration is 1065
+
+neg current cost is -83062.0, iteration is 1066
+
+neg current cost is -83062.0, iteration is 1067
+
+neg current cost is -83062.0, iteration is 1068
+
+neg current cost is -83062.0, iteration is 1069
+
+neg current cost is -82441.0, iteration is 1070
+
+neg current cost is -82441.0, iteration is 1071
+
+neg current cost is -82441.0, iteration is 1072
+
+neg current cost is -82441.0, iteration is 1073
+
+neg current cost is -82441.0, iteration is 1074
+
+neg current cost is -82441.0, iteration is 1075
+
+neg current cost is -82441.0, iteration is 1076
+
+neg current cost is -82441.0, iteration is 1077
+
+neg current cost is -82441.0, iteration is 1078
+
+neg current cost is -82441.0, iteration is 1079
+
+neg current cost is -81820.0, iteration is 1080
+
+neg current cost is -81820.0, iteration is 1081
+
+neg current cost is -81820.0, iteration is 1082
+
+neg current cost is -81820.0, iteration is 1083
+
+neg current cost is -81820.0, iteration is 1084
+
+neg current cost is -81199.0, iteration is 1085
+
+neg current cost is -81199.0, iteration is 1086
+
+neg current cost is -81199.0, iteration is 1087
+
+neg current cost is -81199.0, iteration is 1088
+
+neg current cost is -81199.0, iteration is 1089
+
+neg current cost is -80779.0, iteration is 1090
+
+neg current cost is -80779.0, iteration is 1091
+
+neg current cost is -80779.0, iteration is 1092
+
+neg current cost is -80779.0, iteration is 1093
+
+neg current cost is -80779.0, iteration is 1094
+
+neg current cost is -80158.0, iteration is 1095
+
+neg current cost is -80158.0, iteration is 1096
+
+neg current cost is -80158.0, iteration is 1097
+
+neg current cost is -80158.0, iteration is 1098
+
+neg current cost is -80158.0, iteration is 1099
+
+neg current cost is -80158.0, iteration is 1100
+
+neg current cost is -80158.0, iteration is 1101
+
+neg current cost is -80158.0, iteration is 1102
+
+neg current cost is -80158.0, iteration is 1103
+
+neg current cost is -80158.0, iteration is 1104
+
+neg current cost is -79537.0, iteration is 1105
+
+neg current cost is -79537.0, iteration is 1106
+
+neg current cost is -79537.0, iteration is 1107
+
+neg current cost is -79537.0, iteration is 1108
+
+neg current cost is -79537.0, iteration is 1109
+
+neg current cost is -79537.0, iteration is 1110
+
+neg current cost is -79537.0, iteration is 1111
+
+neg current cost is -79537.0, iteration is 1112
+
+neg current cost is -79537.0, iteration is 1113
+
+neg current cost is -79537.0, iteration is 1114
+
+neg current cost is -79537.0, iteration is 1115
+
+neg current cost is -79537.0, iteration is 1116
+
+neg current cost is -79537.0, iteration is 1117
+
+neg current cost is -79537.0, iteration is 1118
+
+neg current cost is -79537.0, iteration is 1119
+
+neg current cost is -78916.0, iteration is 1120
+
+neg current cost is -78916.0, iteration is 1121
+
+neg current cost is -78916.0, iteration is 1122
+
+neg current cost is -78916.0, iteration is 1123
+
+neg current cost is -78916.0, iteration is 1124
+
+neg current cost is -78295.0, iteration is 1125
+
+neg current cost is -78295.0, iteration is 1126
+
+neg current cost is -78295.0, iteration is 1127
+
+neg current cost is -78295.0, iteration is 1128
+
+neg current cost is -78295.0, iteration is 1129
+
+neg current cost is -77674.0, iteration is 1130
+
+neg current cost is -77674.0, iteration is 1131
+
+neg current cost is -77674.0, iteration is 1132
+
+neg current cost is -77674.0, iteration is 1133
+
+neg current cost is -77674.0, iteration is 1134
+
+neg current cost is -77674.0, iteration is 1135
+
+neg current cost is -77674.0, iteration is 1136
+
+neg current cost is -77674.0, iteration is 1137
+
+neg current cost is -77674.0, iteration is 1138
+
+neg current cost is -77674.0, iteration is 1139
+
+neg current cost is -77674.0, iteration is 1140
+
+neg current cost is -77674.0, iteration is 1141
+
+neg current cost is -77674.0, iteration is 1142
+
+neg current cost is -77674.0, iteration is 1143
+
+neg current cost is -77674.0, iteration is 1144
+
+neg current cost is -77053.0, iteration is 1145
+
+neg current cost is -77053.0, iteration is 1146
+
+neg current cost is -77053.0, iteration is 1147
+
+neg current cost is -77053.0, iteration is 1148
+
+neg current cost is -77053.0, iteration is 1149
+
+neg current cost is -77053.0, iteration is 1150
+
+neg current cost is -77053.0, iteration is 1151
+
+neg current cost is -77053.0, iteration is 1152
+
+neg current cost is -77053.0, iteration is 1153
+
+neg current cost is -77053.0, iteration is 1154
+
+neg current cost is -76432.0, iteration is 1155
+
+neg current cost is -76432.0, iteration is 1156
+
+neg current cost is -76432.0, iteration is 1157
+
+neg current cost is -76432.0, iteration is 1158
+
+neg current cost is -76432.0, iteration is 1159
+
+neg current cost is -76351.0, iteration is 1160
+
+neg current cost is -76351.0, iteration is 1161
+
+neg current cost is -76351.0, iteration is 1162
+
+neg current cost is -76351.0, iteration is 1163
+
+neg current cost is -76351.0, iteration is 1164
+
+neg current cost is -76351.0, iteration is 1165
+
+neg current cost is -76351.0, iteration is 1166
+
+neg current cost is -76351.0, iteration is 1167
+
+neg current cost is -76351.0, iteration is 1168
+
+neg current cost is -76351.0, iteration is 1169
+
+neg current cost is -76315.0, iteration is 1170
+
+neg current cost is -76315.0, iteration is 1171
+
+neg current cost is -76315.0, iteration is 1172
+
+neg current cost is -76315.0, iteration is 1173
+
+neg current cost is -76315.0, iteration is 1174
+
+neg current cost is -76315.0, iteration is 1175
+
+neg current cost is -76315.0, iteration is 1176
+
+neg current cost is -76315.0, iteration is 1177
+
+neg current cost is -76315.0, iteration is 1178
+
+neg current cost is -76315.0, iteration is 1179
+
+neg current cost is -75694.0, iteration is 1180
+
+neg current cost is -75694.0, iteration is 1181
+
+neg current cost is -75694.0, iteration is 1182
+
+neg current cost is -75694.0, iteration is 1183
+
+neg current cost is -75694.0, iteration is 1184
+
+neg current cost is -75434.0, iteration is 1185
+
+neg current cost is -75434.0, iteration is 1186
+
+neg current cost is -75434.0, iteration is 1187
+
+neg current cost is -75434.0, iteration is 1188
+
+neg current cost is -75434.0, iteration is 1189
+
+neg current cost is -75434.0, iteration is 1190
+
+neg current cost is -75434.0, iteration is 1191
+
+neg current cost is -75434.0, iteration is 1192
+
+neg current cost is -75434.0, iteration is 1193
+
+neg current cost is -75434.0, iteration is 1194
+
+neg current cost is -75434.0, iteration is 1195
+
+neg current cost is -75434.0, iteration is 1196
+
+neg current cost is -75434.0, iteration is 1197
+
+neg current cost is -75434.0, iteration is 1198
+
+neg current cost is -75434.0, iteration is 1199
+
+neg current cost is -75434.0, iteration is 1200
+
+neg current cost is -75434.0, iteration is 1201
+
+neg current cost is -75434.0, iteration is 1202
+
+neg current cost is -75434.0, iteration is 1203
+
+neg current cost is -75434.0, iteration is 1204
+
+neg current cost is -74813.0, iteration is 1205
+
+neg current cost is -74813.0, iteration is 1206
+
+neg current cost is -74813.0, iteration is 1207
+
+neg current cost is -74813.0, iteration is 1208
+
+neg current cost is -74813.0, iteration is 1209
+
+neg current cost is -74553.0, iteration is 1210
+
+neg current cost is -74553.0, iteration is 1211
+
+neg current cost is -74553.0, iteration is 1212
+
+neg current cost is -74553.0, iteration is 1213
+
+neg current cost is -74553.0, iteration is 1214
+
+neg current cost is -73932.0, iteration is 1215
+
+neg current cost is -73932.0, iteration is 1216
+
+neg current cost is -73932.0, iteration is 1217
+
+neg current cost is -73932.0, iteration is 1218
+
+neg current cost is -73932.0, iteration is 1219
+
+neg current cost is -73932.0, iteration is 1220
+
+neg current cost is -73932.0, iteration is 1221
+
+neg current cost is -73932.0, iteration is 1222
+
+neg current cost is -73932.0, iteration is 1223
+
+neg current cost is -73932.0, iteration is 1224
+
+neg current cost is -73311.0, iteration is 1225
+
+neg current cost is -73311.0, iteration is 1226
+
+neg current cost is -73311.0, iteration is 1227
+
+neg current cost is -73311.0, iteration is 1228
+
+neg current cost is -73311.0, iteration is 1229
+
+neg current cost is -72690.0, iteration is 1230
+
+neg current cost is -72690.0, iteration is 1231
+
+neg current cost is -72690.0, iteration is 1232
+
+neg current cost is -72690.0, iteration is 1233
+
+neg current cost is -72690.0, iteration is 1234
+
+neg current cost is -72069.0, iteration is 1235
+
+neg current cost is -72069.0, iteration is 1236
+
+neg current cost is -72069.0, iteration is 1237
+
+neg current cost is -72069.0, iteration is 1238
+
+neg current cost is -72069.0, iteration is 1239
+
+neg current cost is -72069.0, iteration is 1240
+
+neg current cost is -72069.0, iteration is 1241
+
+neg current cost is -72069.0, iteration is 1242
+
+neg current cost is -72069.0, iteration is 1243
+
+neg current cost is -72069.0, iteration is 1244
+
+neg current cost is -72069.0, iteration is 1245
+
+neg current cost is -72069.0, iteration is 1246
+
+neg current cost is -72069.0, iteration is 1247
+
+neg current cost is -72069.0, iteration is 1248
+
+neg current cost is -72069.0, iteration is 1249
+
+neg current cost is -72069.0, iteration is 1250
+
+neg current cost is -72069.0, iteration is 1251
+
+neg current cost is -72069.0, iteration is 1252
+
+neg current cost is -72069.0, iteration is 1253
+
+neg current cost is -72069.0, iteration is 1254
+
+neg current cost is -71988.0, iteration is 1255
+
+neg current cost is -71988.0, iteration is 1256
+
+neg current cost is -71988.0, iteration is 1257
+
+neg current cost is -71988.0, iteration is 1258
+
+neg current cost is -71988.0, iteration is 1259
+
+neg current cost is -71988.0, iteration is 1260
+
+neg current cost is -71988.0, iteration is 1261
+
+neg current cost is -71988.0, iteration is 1262
+
+neg current cost is -71988.0, iteration is 1263
+
+neg current cost is -71988.0, iteration is 1264
+
+neg current cost is -71367.0, iteration is 1265
+
+neg current cost is -71367.0, iteration is 1266
+
+neg current cost is -71367.0, iteration is 1267
+
+neg current cost is -71367.0, iteration is 1268
+
+neg current cost is -71367.0, iteration is 1269
+
+neg current cost is -70746.0, iteration is 1270
+
+neg current cost is -70746.0, iteration is 1271
+
+neg current cost is -70746.0, iteration is 1272
+
+neg current cost is -70746.0, iteration is 1273
+
+neg current cost is -70746.0, iteration is 1274
+
+neg current cost is -70746.0, iteration is 1275
+
+neg current cost is -70746.0, iteration is 1276
+
+neg current cost is -70746.0, iteration is 1277
+
+neg current cost is -70746.0, iteration is 1278
+
+neg current cost is -70746.0, iteration is 1279
+
+neg current cost is -70746.0, iteration is 1280
+
+neg current cost is -70746.0, iteration is 1281
+
+neg current cost is -70746.0, iteration is 1282
+
+neg current cost is -70746.0, iteration is 1283
+
+neg current cost is -70746.0, iteration is 1284
+
+neg current cost is -70746.0, iteration is 1285
+
+neg current cost is -70746.0, iteration is 1286
+
+neg current cost is -70746.0, iteration is 1287
+
+neg current cost is -70746.0, iteration is 1288
+
+neg current cost is -70746.0, iteration is 1289
+
+neg current cost is -70125.0, iteration is 1290
+
+neg current cost is -70125.0, iteration is 1291
+
+neg current cost is -70125.0, iteration is 1292
+
+neg current cost is -70125.0, iteration is 1293
+
+neg current cost is -70125.0, iteration is 1294
+
+neg current cost is -70125.0, iteration is 1295
+
+neg current cost is -70125.0, iteration is 1296
+
+neg current cost is -70125.0, iteration is 1297
+
+neg current cost is -70125.0, iteration is 1298
+
+neg current cost is -70125.0, iteration is 1299
+
+neg current cost is -69504.0, iteration is 1300
+
+neg current cost is -69504.0, iteration is 1301
+
+neg current cost is -69504.0, iteration is 1302
+
+neg current cost is -69504.0, iteration is 1303
+
+neg current cost is -69504.0, iteration is 1304
+
+neg current cost is -69504.0, iteration is 1305
+
+neg current cost is -69504.0, iteration is 1306
+
+neg current cost is -69504.0, iteration is 1307
+
+neg current cost is -69504.0, iteration is 1308
+
+neg current cost is -69504.0, iteration is 1309
+
+neg current cost is -69504.0, iteration is 1310
+
+neg current cost is -69504.0, iteration is 1311
+
+neg current cost is -69504.0, iteration is 1312
+
+neg current cost is -69504.0, iteration is 1313
+
+neg current cost is -69504.0, iteration is 1314
+
+neg current cost is -69504.0, iteration is 1315
+
+neg current cost is -69504.0, iteration is 1316
+
+neg current cost is -69504.0, iteration is 1317
+
+neg current cost is -69504.0, iteration is 1318
+
+neg current cost is -69504.0, iteration is 1319
+
+neg current cost is -69504.0, iteration is 1320
+
+neg current cost is -69504.0, iteration is 1321
+
+neg current cost is -69504.0, iteration is 1322
+
+neg current cost is -69504.0, iteration is 1323
+
+neg current cost is -69504.0, iteration is 1324
+
+neg current cost is -69504.0, iteration is 1325
+
+neg current cost is -69504.0, iteration is 1326
+
+neg current cost is -69504.0, iteration is 1327
+
+neg current cost is -69504.0, iteration is 1328
+
+neg current cost is -69504.0, iteration is 1329
+
+neg current cost is -69504.0, iteration is 1330
+
+neg current cost is -69504.0, iteration is 1331
+
+neg current cost is -69504.0, iteration is 1332
+
+neg current cost is -69504.0, iteration is 1333
+
+neg current cost is -69504.0, iteration is 1334
+
+neg current cost is -68883.0, iteration is 1335
+
+neg current cost is -68883.0, iteration is 1336
+
+neg current cost is -68883.0, iteration is 1337
+
+neg current cost is -68883.0, iteration is 1338
+
+neg current cost is -68883.0, iteration is 1339
+
+neg current cost is -68262.0, iteration is 1340
+
+neg current cost is -68262.0, iteration is 1341
+
+neg current cost is -68262.0, iteration is 1342
+
+neg current cost is -68262.0, iteration is 1343
+
+neg current cost is -68262.0, iteration is 1344
+
+neg current cost is -67641.0, iteration is 1345
+
+neg current cost is -67641.0, iteration is 1346
+
+neg current cost is -67641.0, iteration is 1347
+
+neg current cost is -67641.0, iteration is 1348
+
+neg current cost is -67641.0, iteration is 1349
+
+neg current cost is -67020.0, iteration is 1350
+
+neg current cost is -67020.0, iteration is 1351
+
+neg current cost is -67020.0, iteration is 1352
+
+neg current cost is -67020.0, iteration is 1353
+
+neg current cost is -67020.0, iteration is 1354
+
+neg current cost is -67020.0, iteration is 1355
+
+neg current cost is -67020.0, iteration is 1356
+
+neg current cost is -67020.0, iteration is 1357
+
+neg current cost is -67020.0, iteration is 1358
+
+neg current cost is -67020.0, iteration is 1359
+
+neg current cost is -67020.0, iteration is 1360
+
+neg current cost is -67020.0, iteration is 1361
+
+neg current cost is -67020.0, iteration is 1362
+
+neg current cost is -67020.0, iteration is 1363
+
+neg current cost is -67020.0, iteration is 1364
+
+neg current cost is -67020.0, iteration is 1365
+
+neg current cost is -67020.0, iteration is 1366
+
+neg current cost is -67020.0, iteration is 1367
+
+neg current cost is -67020.0, iteration is 1368
+
+neg current cost is -67020.0, iteration is 1369
+
+neg current cost is -67020.0, iteration is 1370
+
+neg current cost is -67020.0, iteration is 1371
+
+neg current cost is -67020.0, iteration is 1372
+
+neg current cost is -67020.0, iteration is 1373
+
+neg current cost is -67020.0, iteration is 1374
+
+neg current cost is -67020.0, iteration is 1375
+
+neg current cost is -67020.0, iteration is 1376
+
+neg current cost is -67020.0, iteration is 1377
+
+neg current cost is -67020.0, iteration is 1378
+
+neg current cost is -67020.0, iteration is 1379
+
+neg current cost is -67020.0, iteration is 1380
+
+neg current cost is -67020.0, iteration is 1381
+
+neg current cost is -67020.0, iteration is 1382
+
+neg current cost is -67020.0, iteration is 1383
+
+neg current cost is -67020.0, iteration is 1384
+
+neg current cost is -67020.0, iteration is 1385
+
+neg current cost is -67020.0, iteration is 1386
+
+neg current cost is -67020.0, iteration is 1387
+
+neg current cost is -67020.0, iteration is 1388
+
+neg current cost is -67020.0, iteration is 1389
+
+neg current cost is -66939.0, iteration is 1390
+
+neg current cost is -66939.0, iteration is 1391
+
+neg current cost is -66939.0, iteration is 1392
+
+neg current cost is -66939.0, iteration is 1393
+
+neg current cost is -66939.0, iteration is 1394
+
+neg current cost is -66939.0, iteration is 1395
+
+neg current cost is -66939.0, iteration is 1396
+
+neg current cost is -66939.0, iteration is 1397
+
+neg current cost is -66939.0, iteration is 1398
+
+neg current cost is -66939.0, iteration is 1399
+
+neg current cost is -66939.0, iteration is 1400
+
+neg current cost is -66939.0, iteration is 1401
+
+neg current cost is -66939.0, iteration is 1402
+
+neg current cost is -66939.0, iteration is 1403
+
+neg current cost is -66939.0, iteration is 1404
+
+neg current cost is -66318.0, iteration is 1405
+
+neg current cost is -66318.0, iteration is 1406
+
+neg current cost is -66318.0, iteration is 1407
+
+neg current cost is -66318.0, iteration is 1408
+
+neg current cost is -66318.0, iteration is 1409
+
+neg current cost is -66318.0, iteration is 1410
+
+neg current cost is -66318.0, iteration is 1411
+
+neg current cost is -66318.0, iteration is 1412
+
+neg current cost is -66318.0, iteration is 1413
+
+neg current cost is -66318.0, iteration is 1414
+
+neg current cost is -65697.0, iteration is 1415
+
+neg current cost is -65697.0, iteration is 1416
+
+neg current cost is -65697.0, iteration is 1417
+
+neg current cost is -65697.0, iteration is 1418
+
+neg current cost is -65697.0, iteration is 1419
+
+neg current cost is -65697.0, iteration is 1420
+
+neg current cost is -65697.0, iteration is 1421
+
+neg current cost is -65697.0, iteration is 1422
+
+neg current cost is -65697.0, iteration is 1423
+
+neg current cost is -65697.0, iteration is 1424
+
+neg current cost is -65616.0, iteration is 1425
+
+neg current cost is -65616.0, iteration is 1426
+
+neg current cost is -65616.0, iteration is 1427
+
+neg current cost is -65616.0, iteration is 1428
+
+neg current cost is -65616.0, iteration is 1429
+
+neg current cost is -64995.0, iteration is 1430
+
+neg current cost is -64995.0, iteration is 1431
+
+neg current cost is -64995.0, iteration is 1432
+
+neg current cost is -64995.0, iteration is 1433
+
+neg current cost is -64995.0, iteration is 1434
+
+neg current cost is -64374.0, iteration is 1435
+
+neg current cost is -64374.0, iteration is 1436
+
+neg current cost is -64374.0, iteration is 1437
+
+neg current cost is -64374.0, iteration is 1438
+
+neg current cost is -64374.0, iteration is 1439
+
+neg current cost is -64114.0, iteration is 1440
+
+neg current cost is -64114.0, iteration is 1441
+
+neg current cost is -64114.0, iteration is 1442
+
+neg current cost is -64114.0, iteration is 1443
+
+neg current cost is -64114.0, iteration is 1444
+
+neg current cost is -64114.0, iteration is 1445
+
+neg current cost is -64114.0, iteration is 1446
+
+neg current cost is -64114.0, iteration is 1447
+
+neg current cost is -64114.0, iteration is 1448
+
+neg current cost is -64114.0, iteration is 1449
+
+neg current cost is -63493.0, iteration is 1450
+
+neg current cost is -63493.0, iteration is 1451
+
+neg current cost is -63493.0, iteration is 1452
+
+neg current cost is -63493.0, iteration is 1453
+
+neg current cost is -63493.0, iteration is 1454
+
+neg current cost is -63412.0, iteration is 1455
+
+neg current cost is -63412.0, iteration is 1456
+
+neg current cost is -63412.0, iteration is 1457
+
+neg current cost is -63412.0, iteration is 1458
+
+neg current cost is -63412.0, iteration is 1459
+
+neg current cost is -63412.0, iteration is 1460
+
+neg current cost is -63412.0, iteration is 1461
+
+neg current cost is -63412.0, iteration is 1462
+
+neg current cost is -63412.0, iteration is 1463
+
+neg current cost is -63412.0, iteration is 1464
+
+neg current cost is -63412.0, iteration is 1465
+
+neg current cost is -63412.0, iteration is 1466
+
+neg current cost is -63412.0, iteration is 1467
+
+neg current cost is -63412.0, iteration is 1468
+
+neg current cost is -63412.0, iteration is 1469
+
+neg current cost is -62791.0, iteration is 1470
+
+neg current cost is -62791.0, iteration is 1471
+
+neg current cost is -62791.0, iteration is 1472
+
+neg current cost is -62791.0, iteration is 1473
+
+neg current cost is -62791.0, iteration is 1474
+
+neg current cost is -62170.0, iteration is 1475
+
+neg current cost is -62170.0, iteration is 1476
+
+neg current cost is -62170.0, iteration is 1477
+
+neg current cost is -62170.0, iteration is 1478
+
+neg current cost is -62170.0, iteration is 1479
+
+neg current cost is -61750.0, iteration is 1480
+
+neg current cost is -61750.0, iteration is 1481
+
+neg current cost is -61750.0, iteration is 1482
+
+neg current cost is -61750.0, iteration is 1483
+
+neg current cost is -61750.0, iteration is 1484
+
+neg current cost is -61750.0, iteration is 1485
+
+neg current cost is -61750.0, iteration is 1486
+
+neg current cost is -61750.0, iteration is 1487
+
+neg current cost is -61750.0, iteration is 1488
+
+neg current cost is -61750.0, iteration is 1489
+
+neg current cost is -61750.0, iteration is 1490
+
+neg current cost is -61750.0, iteration is 1491
+
+neg current cost is -61750.0, iteration is 1492
+
+neg current cost is -61750.0, iteration is 1493
+
+neg current cost is -61750.0, iteration is 1494
+
+neg current cost is -61750.0, iteration is 1495
+
+neg current cost is -61750.0, iteration is 1496
+
+neg current cost is -61750.0, iteration is 1497
+
+neg current cost is -61750.0, iteration is 1498
+
+neg current cost is -61750.0, iteration is 1499
+
+neg current cost is -61129.0, iteration is 1500
+
+neg current cost is -61129.0, iteration is 1501
+
+neg current cost is -61129.0, iteration is 1502
+
+neg current cost is -61129.0, iteration is 1503
+
+neg current cost is -61129.0, iteration is 1504
+
+neg current cost is -61129.0, iteration is 1505
+
+neg current cost is -61129.0, iteration is 1506
+
+neg current cost is -61129.0, iteration is 1507
+
+neg current cost is -61129.0, iteration is 1508
+
+neg current cost is -61129.0, iteration is 1509
+
+neg current cost is -61129.0, iteration is 1510
+
+neg current cost is -61129.0, iteration is 1511
+
+neg current cost is -61129.0, iteration is 1512
+
+neg current cost is -61129.0, iteration is 1513
+
+neg current cost is -61129.0, iteration is 1514
+
+neg current cost is -60508.0, iteration is 1515
+
+neg current cost is -60508.0, iteration is 1516
+
+neg current cost is -60508.0, iteration is 1517
+
+neg current cost is -60508.0, iteration is 1518
+
+neg current cost is -60508.0, iteration is 1519
+
+neg current cost is -60508.0, iteration is 1520
+
+neg current cost is -60508.0, iteration is 1521
+
+neg current cost is -60508.0, iteration is 1522
+
+neg current cost is -60508.0, iteration is 1523
+
+neg current cost is -60508.0, iteration is 1524
+
+neg current cost is -60508.0, iteration is 1525
+
+neg current cost is -60508.0, iteration is 1526
+
+neg current cost is -60508.0, iteration is 1527
+
+neg current cost is -60508.0, iteration is 1528
+
+neg current cost is -60508.0, iteration is 1529
+
+neg current cost is -60508.0, iteration is 1530
+
+neg current cost is -60508.0, iteration is 1531
+
+neg current cost is -60508.0, iteration is 1532
+
+neg current cost is -60508.0, iteration is 1533
+
+neg current cost is -60508.0, iteration is 1534
+
+neg current cost is -60508.0, iteration is 1535
+
+neg current cost is -60508.0, iteration is 1536
+
+neg current cost is -60508.0, iteration is 1537
+
+neg current cost is -60508.0, iteration is 1538
+
+neg current cost is -60508.0, iteration is 1539
+
+neg current cost is -60508.0, iteration is 1540
+
+neg current cost is -60508.0, iteration is 1541
+
+neg current cost is -60508.0, iteration is 1542
+
+neg current cost is -60508.0, iteration is 1543
+
+neg current cost is -60508.0, iteration is 1544
+
+neg current cost is -59887.0, iteration is 1545
+
+neg current cost is -59887.0, iteration is 1546
+
+neg current cost is -59887.0, iteration is 1547
+
+neg current cost is -59887.0, iteration is 1548
+
+neg current cost is -59887.0, iteration is 1549
+
+neg current cost is -59887.0, iteration is 1550
+
+neg current cost is -59887.0, iteration is 1551
+
+neg current cost is -59887.0, iteration is 1552
+
+neg current cost is -59887.0, iteration is 1553
+
+neg current cost is -59887.0, iteration is 1554
+
+neg current cost is -59887.0, iteration is 1555
+
+neg current cost is -59887.0, iteration is 1556
+
+neg current cost is -59887.0, iteration is 1557
+
+neg current cost is -59887.0, iteration is 1558
+
+neg current cost is -59887.0, iteration is 1559
+
+neg current cost is -59266.0, iteration is 1560
+
+neg current cost is -59266.0, iteration is 1561
+
+neg current cost is -59266.0, iteration is 1562
+
+neg current cost is -59266.0, iteration is 1563
+
+neg current cost is -59266.0, iteration is 1564
+
+neg current cost is -59266.0, iteration is 1565
+
+neg current cost is -59266.0, iteration is 1566
+
+neg current cost is -59266.0, iteration is 1567
+
+neg current cost is -59266.0, iteration is 1568
+
+neg current cost is -59266.0, iteration is 1569
+
+neg current cost is -59266.0, iteration is 1570
+
+neg current cost is -59266.0, iteration is 1571
+
+neg current cost is -59266.0, iteration is 1572
+
+neg current cost is -59266.0, iteration is 1573
+
+neg current cost is -59266.0, iteration is 1574
+
+neg current cost is -59266.0, iteration is 1575
+
+neg current cost is -59266.0, iteration is 1576
+
+neg current cost is -59266.0, iteration is 1577
+
+neg current cost is -59266.0, iteration is 1578
+
+neg current cost is -59266.0, iteration is 1579
+
+neg current cost is -59266.0, iteration is 1580
+
+neg current cost is -59266.0, iteration is 1581
+
+neg current cost is -59266.0, iteration is 1582
+
+neg current cost is -59266.0, iteration is 1583
+
+neg current cost is -59266.0, iteration is 1584
+
+neg current cost is -59266.0, iteration is 1585
+
+neg current cost is -59266.0, iteration is 1586
+
+neg current cost is -59266.0, iteration is 1587
+
+neg current cost is -59266.0, iteration is 1588
+
+neg current cost is -59266.0, iteration is 1589
+
+neg current cost is -59266.0, iteration is 1590
+
+neg current cost is -59266.0, iteration is 1591
+
+neg current cost is -59266.0, iteration is 1592
+
+neg current cost is -59266.0, iteration is 1593
+
+neg current cost is -59266.0, iteration is 1594
+
+neg current cost is -59266.0, iteration is 1595
+
+neg current cost is -59266.0, iteration is 1596
+
+neg current cost is -59266.0, iteration is 1597
+
+neg current cost is -59266.0, iteration is 1598
+
+neg current cost is -59266.0, iteration is 1599
+
+neg current cost is -59266.0, iteration is 1600
+
+neg current cost is -59266.0, iteration is 1601
+
+neg current cost is -59266.0, iteration is 1602
+
+neg current cost is -59266.0, iteration is 1603
+
+neg current cost is -59266.0, iteration is 1604
+
+neg current cost is -59266.0, iteration is 1605
+
+neg current cost is -59266.0, iteration is 1606
+
+neg current cost is -59266.0, iteration is 1607
+
+neg current cost is -59266.0, iteration is 1608
+
+neg current cost is -59266.0, iteration is 1609
+
+neg current cost is -59266.0, iteration is 1610
+
+neg current cost is -59266.0, iteration is 1611
+
+neg current cost is -59266.0, iteration is 1612
+
+neg current cost is -59266.0, iteration is 1613
+
+neg current cost is -59266.0, iteration is 1614
+
+neg current cost is -59266.0, iteration is 1615
+
+neg current cost is -59266.0, iteration is 1616
+
+neg current cost is -59266.0, iteration is 1617
+
+neg current cost is -59266.0, iteration is 1618
+
+neg current cost is -59266.0, iteration is 1619
+
+neg current cost is -59266.0, iteration is 1620
+
+neg current cost is -59266.0, iteration is 1621
+
+neg current cost is -59266.0, iteration is 1622
+
+neg current cost is -59266.0, iteration is 1623
+
+neg current cost is -59266.0, iteration is 1624
+
+neg current cost is -59266.0, iteration is 1625
+
+neg current cost is -59266.0, iteration is 1626
+
+neg current cost is -59266.0, iteration is 1627
+
+neg current cost is -59266.0, iteration is 1628
+
+neg current cost is -59266.0, iteration is 1629
+
+neg current cost is -59266.0, iteration is 1630
+
+neg current cost is -59266.0, iteration is 1631
+
+neg current cost is -59266.0, iteration is 1632
+
+neg current cost is -59266.0, iteration is 1633
+
+neg current cost is -59266.0, iteration is 1634
+
+neg current cost is -58645.0, iteration is 1635
+
+neg current cost is -58645.0, iteration is 1636
+
+neg current cost is -58645.0, iteration is 1637
+
+neg current cost is -58645.0, iteration is 1638
+
+neg current cost is -58645.0, iteration is 1639
+
+neg current cost is -58645.0, iteration is 1640
+
+neg current cost is -58645.0, iteration is 1641
+
+neg current cost is -58645.0, iteration is 1642
+
+neg current cost is -58645.0, iteration is 1643
+
+neg current cost is -58645.0, iteration is 1644
+
+neg current cost is -58645.0, iteration is 1645
+
+neg current cost is -58645.0, iteration is 1646
+
+neg current cost is -58645.0, iteration is 1647
+
+neg current cost is -58645.0, iteration is 1648
+
+neg current cost is -58645.0, iteration is 1649
+
+neg current cost is -58024.0, iteration is 1650
+
+neg current cost is -58024.0, iteration is 1651
+
+neg current cost is -58024.0, iteration is 1652
+
+neg current cost is -58024.0, iteration is 1653
+
+neg current cost is -58024.0, iteration is 1654
+
+neg current cost is -58024.0, iteration is 1655
+
+neg current cost is -58024.0, iteration is 1656
+
+neg current cost is -58024.0, iteration is 1657
+
+neg current cost is -58024.0, iteration is 1658
+
+neg current cost is -58024.0, iteration is 1659
+
+neg current cost is -57604.0, iteration is 1660
+
+neg current cost is -57604.0, iteration is 1661
+
+neg current cost is -57604.0, iteration is 1662
+
+neg current cost is -57604.0, iteration is 1663
+
+neg current cost is -57604.0, iteration is 1664
+
+neg current cost is -57604.0, iteration is 1665
+
+neg current cost is -57604.0, iteration is 1666
+
+neg current cost is -57604.0, iteration is 1667
+
+neg current cost is -57604.0, iteration is 1668
+
+neg current cost is -57604.0, iteration is 1669
+
+neg current cost is -56983.0, iteration is 1670
+
+neg current cost is -56983.0, iteration is 1671
+
+neg current cost is -56983.0, iteration is 1672
+
+neg current cost is -56983.0, iteration is 1673
+
+neg current cost is -56983.0, iteration is 1674
+
+neg current cost is -56983.0, iteration is 1675
+
+neg current cost is -56983.0, iteration is 1676
+
+neg current cost is -56983.0, iteration is 1677
+
+neg current cost is -56983.0, iteration is 1678
+
+neg current cost is -56983.0, iteration is 1679
+
+neg current cost is -56362.0, iteration is 1680
+
+neg current cost is -56362.0, iteration is 1681
+
+neg current cost is -56362.0, iteration is 1682
+
+neg current cost is -56362.0, iteration is 1683
+
+neg current cost is -56362.0, iteration is 1684
+
+neg current cost is -55741.0, iteration is 1685
+
+neg current cost is -55741.0, iteration is 1686
+
+neg current cost is -55741.0, iteration is 1687
+
+neg current cost is -55741.0, iteration is 1688
+
+neg current cost is -55741.0, iteration is 1689
+
+neg current cost is -55120.0, iteration is 1690
+
+neg current cost is -55120.0, iteration is 1691
+
+neg current cost is -55120.0, iteration is 1692
+
+neg current cost is -55120.0, iteration is 1693
+
+neg current cost is -55120.0, iteration is 1694
+
+neg current cost is -54499.0, iteration is 1695
+
+neg current cost is -54499.0, iteration is 1696
+
+neg current cost is -54499.0, iteration is 1697
+
+neg current cost is -54499.0, iteration is 1698
+
+neg current cost is -54499.0, iteration is 1699
+
+neg current cost is -54079.0, iteration is 1700
+
+neg current cost is -54079.0, iteration is 1701
+
+neg current cost is -54079.0, iteration is 1702
+
+neg current cost is -54079.0, iteration is 1703
+
+neg current cost is -54079.0, iteration is 1704
+
+neg current cost is -54079.0, iteration is 1705
+
+neg current cost is -54079.0, iteration is 1706
+
+neg current cost is -54079.0, iteration is 1707
+
+neg current cost is -54079.0, iteration is 1708
+
+neg current cost is -54079.0, iteration is 1709
+
+neg current cost is -53458.0, iteration is 1710
+
+neg current cost is -53458.0, iteration is 1711
+
+neg current cost is -53458.0, iteration is 1712
+
+neg current cost is -53458.0, iteration is 1713
+
+neg current cost is -53458.0, iteration is 1714
+
+neg current cost is -53458.0, iteration is 1715
+
+neg current cost is -53458.0, iteration is 1716
+
+neg current cost is -53458.0, iteration is 1717
+
+neg current cost is -53458.0, iteration is 1718
+
+neg current cost is -53458.0, iteration is 1719
+
+neg current cost is -53458.0, iteration is 1720
+
+neg current cost is -53458.0, iteration is 1721
+
+neg current cost is -53458.0, iteration is 1722
+
+neg current cost is -53458.0, iteration is 1723
+
+neg current cost is -53458.0, iteration is 1724
+
+neg current cost is -53458.0, iteration is 1725
+
+neg current cost is -53458.0, iteration is 1726
+
+neg current cost is -53458.0, iteration is 1727
+
+neg current cost is -53458.0, iteration is 1728
+
+neg current cost is -53458.0, iteration is 1729
+
+neg current cost is -53458.0, iteration is 1730
+
+neg current cost is -53458.0, iteration is 1731
+
+neg current cost is -53458.0, iteration is 1732
+
+neg current cost is -53458.0, iteration is 1733
+
+neg current cost is -53458.0, iteration is 1734
+
+neg current cost is -52837.0, iteration is 1735
+
+neg current cost is -52837.0, iteration is 1736
+
+neg current cost is -52837.0, iteration is 1737
+
+neg current cost is -52837.0, iteration is 1738
+
+neg current cost is -52837.0, iteration is 1739
+
+neg current cost is -52216.0, iteration is 1740
+
+neg current cost is -52216.0, iteration is 1741
+
+neg current cost is -52216.0, iteration is 1742
+
+neg current cost is -52216.0, iteration is 1743
+
+neg current cost is -52216.0, iteration is 1744
+
+neg current cost is -52216.0, iteration is 1745
+
+neg current cost is -52216.0, iteration is 1746
+
+neg current cost is -52216.0, iteration is 1747
+
+neg current cost is -52216.0, iteration is 1748
+
+neg current cost is -52216.0, iteration is 1749
+
+neg current cost is -52216.0, iteration is 1750
+
+neg current cost is -52216.0, iteration is 1751
+
+neg current cost is -52216.0, iteration is 1752
+
+neg current cost is -52216.0, iteration is 1753
+
+neg current cost is -52216.0, iteration is 1754
+
+neg current cost is -52135.0, iteration is 1755
+
+neg current cost is -52135.0, iteration is 1756
+
+neg current cost is -52135.0, iteration is 1757
+
+neg current cost is -52135.0, iteration is 1758
+
+neg current cost is -52135.0, iteration is 1759
+
+neg current cost is -52135.0, iteration is 1760
+
+neg current cost is -52135.0, iteration is 1761
+
+neg current cost is -52135.0, iteration is 1762
+
+neg current cost is -52135.0, iteration is 1763
+
+neg current cost is -52135.0, iteration is 1764
+
+neg current cost is -52135.0, iteration is 1765
+
+neg current cost is -52135.0, iteration is 1766
+
+neg current cost is -52135.0, iteration is 1767
+
+neg current cost is -52135.0, iteration is 1768
+
+neg current cost is -52135.0, iteration is 1769
+
+neg current cost is -51514.0, iteration is 1770
+
+neg current cost is -51514.0, iteration is 1771
+
+neg current cost is -51514.0, iteration is 1772
+
+neg current cost is -51514.0, iteration is 1773
+
+neg current cost is -51514.0, iteration is 1774
+
+neg current cost is -51514.0, iteration is 1775
+
+neg current cost is -51514.0, iteration is 1776
+
+neg current cost is -51514.0, iteration is 1777
+
+neg current cost is -51514.0, iteration is 1778
+
+neg current cost is -51514.0, iteration is 1779
+
+neg current cost is -51514.0, iteration is 1780
+
+neg current cost is -51514.0, iteration is 1781
+
+neg current cost is -51514.0, iteration is 1782
+
+neg current cost is -51514.0, iteration is 1783
+
+neg current cost is -51514.0, iteration is 1784
+
+neg current cost is -51514.0, iteration is 1785
+
+neg current cost is -51514.0, iteration is 1786
+
+neg current cost is -51514.0, iteration is 1787
+
+neg current cost is -51514.0, iteration is 1788
+
+neg current cost is -51514.0, iteration is 1789
+
+neg current cost is -51514.0, iteration is 1790
+
+neg current cost is -51514.0, iteration is 1791
+
+neg current cost is -51514.0, iteration is 1792
+
+neg current cost is -51514.0, iteration is 1793
+
+neg current cost is -51514.0, iteration is 1794
+
+neg current cost is -50893.0, iteration is 1795
+
+neg current cost is -50893.0, iteration is 1796
+
+neg current cost is -50893.0, iteration is 1797
+
+neg current cost is -50893.0, iteration is 1798
+
+neg current cost is -50893.0, iteration is 1799
+
+neg current cost is -50893.0, iteration is 1800
+
+neg current cost is -50893.0, iteration is 1801
+
+neg current cost is -50893.0, iteration is 1802
+
+neg current cost is -50893.0, iteration is 1803
+
+neg current cost is -50893.0, iteration is 1804
+
+neg current cost is -50893.0, iteration is 1805
+
+neg current cost is -50893.0, iteration is 1806
+
+neg current cost is -50893.0, iteration is 1807
+
+neg current cost is -50893.0, iteration is 1808
+
+neg current cost is -50893.0, iteration is 1809
+
+neg current cost is -50857.0, iteration is 1810
+
+neg current cost is -50857.0, iteration is 1811
+
+neg current cost is -50857.0, iteration is 1812
+
+neg current cost is -50857.0, iteration is 1813
+
+neg current cost is -50857.0, iteration is 1814
+
+neg current cost is -50236.0, iteration is 1815
+
+neg current cost is -50236.0, iteration is 1816
+
+neg current cost is -50236.0, iteration is 1817
+
+neg current cost is -50236.0, iteration is 1818
+
+neg current cost is -50236.0, iteration is 1819
+
+neg current cost is -50236.0, iteration is 1820
+
+neg current cost is -50236.0, iteration is 1821
+
+neg current cost is -50236.0, iteration is 1822
+
+neg current cost is -50236.0, iteration is 1823
+
+neg current cost is -50236.0, iteration is 1824
+
+neg current cost is -50236.0, iteration is 1825
+
+neg current cost is -50236.0, iteration is 1826
+
+neg current cost is -50236.0, iteration is 1827
+
+neg current cost is -50236.0, iteration is 1828
+
+neg current cost is -50236.0, iteration is 1829
+
+neg current cost is -50236.0, iteration is 1830
+
+neg current cost is -50236.0, iteration is 1831
+
+neg current cost is -50236.0, iteration is 1832
+
+neg current cost is -50236.0, iteration is 1833
+
+neg current cost is -50236.0, iteration is 1834
+
+neg current cost is -49615.0, iteration is 1835
+
+neg current cost is -49615.0, iteration is 1836
+
+neg current cost is -49615.0, iteration is 1837
+
+neg current cost is -49615.0, iteration is 1838
+
+neg current cost is -49615.0, iteration is 1839
+
+neg current cost is -49615.0, iteration is 1840
+
+neg current cost is -49615.0, iteration is 1841
+
+neg current cost is -49615.0, iteration is 1842
+
+neg current cost is -49615.0, iteration is 1843
+
+neg current cost is -49615.0, iteration is 1844
+
+neg current cost is -48994.0, iteration is 1845
+
+neg current cost is -48994.0, iteration is 1846
+
+neg current cost is -48994.0, iteration is 1847
+
+neg current cost is -48994.0, iteration is 1848
+
+neg current cost is -48994.0, iteration is 1849
+
+neg current cost is -48373.0, iteration is 1850
+
+neg current cost is -48373.0, iteration is 1851
+
+neg current cost is -48373.0, iteration is 1852
+
+neg current cost is -48373.0, iteration is 1853
+
+neg current cost is -48373.0, iteration is 1854
+
+neg current cost is -48373.0, iteration is 1855
+
+neg current cost is -48373.0, iteration is 1856
+
+neg current cost is -48373.0, iteration is 1857
+
+neg current cost is -48373.0, iteration is 1858
+
+neg current cost is -48373.0, iteration is 1859
+
+neg current cost is -48373.0, iteration is 1860
+
+neg current cost is -48373.0, iteration is 1861
+
+neg current cost is -48373.0, iteration is 1862
+
+neg current cost is -48373.0, iteration is 1863
+
+neg current cost is -48373.0, iteration is 1864
+
+neg current cost is -47752.0, iteration is 1865
+
+neg current cost is -47752.0, iteration is 1866
+
+neg current cost is -47752.0, iteration is 1867
+
+neg current cost is -47752.0, iteration is 1868
+
+neg current cost is -47752.0, iteration is 1869
+
+neg current cost is -47752.0, iteration is 1870
+
+neg current cost is -47752.0, iteration is 1871
+
+neg current cost is -47752.0, iteration is 1872
+
+neg current cost is -47752.0, iteration is 1873
+
+neg current cost is -47752.0, iteration is 1874
+
+neg current cost is -47131.0, iteration is 1875
+
+neg current cost is -47131.0, iteration is 1876
+
+neg current cost is -47131.0, iteration is 1877
+
+neg current cost is -47131.0, iteration is 1878
+
+neg current cost is -47131.0, iteration is 1879
+
+neg current cost is -46510.0, iteration is 1880
+
+neg current cost is -46510.0, iteration is 1881
+
+neg current cost is -46510.0, iteration is 1882
+
+neg current cost is -46510.0, iteration is 1883
+
+neg current cost is -46510.0, iteration is 1884
+
+neg current cost is -45889.0, iteration is 1885
+
+neg current cost is -45889.0, iteration is 1886
+
+neg current cost is -45889.0, iteration is 1887
+
+neg current cost is -45889.0, iteration is 1888
+
+neg current cost is -45889.0, iteration is 1889
+
+neg current cost is -45268.0, iteration is 1890
+
+neg current cost is -45268.0, iteration is 1891
+
+neg current cost is -45268.0, iteration is 1892
+
+neg current cost is -45268.0, iteration is 1893
+
+neg current cost is -45268.0, iteration is 1894
+
+neg current cost is -45268.0, iteration is 1895
+
+neg current cost is -45268.0, iteration is 1896
+
+neg current cost is -45268.0, iteration is 1897
+
+neg current cost is -45268.0, iteration is 1898
+
+neg current cost is -45268.0, iteration is 1899
+
+neg current cost is -45268.0, iteration is 1900
+
+neg current cost is -45268.0, iteration is 1901
+
+neg current cost is -45268.0, iteration is 1902
+
+neg current cost is -45268.0, iteration is 1903
+
+neg current cost is -45268.0, iteration is 1904
+
+neg current cost is -44647.0, iteration is 1905
+
+neg current cost is -44647.0, iteration is 1906
+
+neg current cost is -44647.0, iteration is 1907
+
+neg current cost is -44647.0, iteration is 1908
+
+neg current cost is -44647.0, iteration is 1909
+
+neg current cost is -44647.0, iteration is 1910
+
+neg current cost is -44647.0, iteration is 1911
+
+neg current cost is -44647.0, iteration is 1912
+
+neg current cost is -44647.0, iteration is 1913
+
+neg current cost is -44647.0, iteration is 1914
+
+neg current cost is -44647.0, iteration is 1915
+
+neg current cost is -44647.0, iteration is 1916
+
+neg current cost is -44647.0, iteration is 1917
+
+neg current cost is -44647.0, iteration is 1918
+
+neg current cost is -44647.0, iteration is 1919
+
+neg current cost is -44647.0, iteration is 1920
+
+neg current cost is -44647.0, iteration is 1921
+
+neg current cost is -44647.0, iteration is 1922
+
+neg current cost is -44647.0, iteration is 1923
+
+neg current cost is -44647.0, iteration is 1924
+
+neg current cost is -44647.0, iteration is 1925
+
+neg current cost is -44647.0, iteration is 1926
+
+neg current cost is -44647.0, iteration is 1927
+
+neg current cost is -44647.0, iteration is 1928
+
+neg current cost is -44647.0, iteration is 1929
+
+neg current cost is -44026.0, iteration is 1930
+
+neg current cost is -44026.0, iteration is 1931
+
+neg current cost is -44026.0, iteration is 1932
+
+neg current cost is -44026.0, iteration is 1933
+
+neg current cost is -44026.0, iteration is 1934
+
+neg current cost is -43405.0, iteration is 1935
+
+neg current cost is -43405.0, iteration is 1936
+
+neg current cost is -43405.0, iteration is 1937
+
+neg current cost is -43405.0, iteration is 1938
+
+neg current cost is -43405.0, iteration is 1939
+
+neg current cost is -43405.0, iteration is 1940
+
+neg current cost is -43405.0, iteration is 1941
+
+neg current cost is -43405.0, iteration is 1942
+
+neg current cost is -43405.0, iteration is 1943
+
+neg current cost is -43405.0, iteration is 1944
+
+neg current cost is -43405.0, iteration is 1945
+
+neg current cost is -43405.0, iteration is 1946
+
+neg current cost is -43405.0, iteration is 1947
+
+neg current cost is -43405.0, iteration is 1948
+
+neg current cost is -43405.0, iteration is 1949
+
+neg current cost is -43405.0, iteration is 1950
+
+neg current cost is -43405.0, iteration is 1951
+
+neg current cost is -43405.0, iteration is 1952
+
+neg current cost is -43405.0, iteration is 1953
+
+neg current cost is -43405.0, iteration is 1954
+
+neg current cost is -42985.0, iteration is 1955
+
+neg current cost is -42985.0, iteration is 1956
+
+neg current cost is -42985.0, iteration is 1957
+
+neg current cost is -42985.0, iteration is 1958
+
+neg current cost is -42985.0, iteration is 1959
+
+neg current cost is -42985.0, iteration is 1960
+
+neg current cost is -42985.0, iteration is 1961
+
+neg current cost is -42985.0, iteration is 1962
+
+neg current cost is -42985.0, iteration is 1963
+
+neg current cost is -42985.0, iteration is 1964
+
+neg current cost is -42364.0, iteration is 1965
+
+neg current cost is -42364.0, iteration is 1966
+
+neg current cost is -42364.0, iteration is 1967
+
+neg current cost is -42364.0, iteration is 1968
+
+neg current cost is -42364.0, iteration is 1969
+
+neg current cost is -42364.0, iteration is 1970
+
+neg current cost is -42364.0, iteration is 1971
+
+neg current cost is -42364.0, iteration is 1972
+
+neg current cost is -42364.0, iteration is 1973
+
+neg current cost is -42364.0, iteration is 1974
+
+neg current cost is -42364.0, iteration is 1975
+
+neg current cost is -42364.0, iteration is 1976
+
+neg current cost is -42364.0, iteration is 1977
+
+neg current cost is -42364.0, iteration is 1978
+
+neg current cost is -42364.0, iteration is 1979
+
+neg current cost is -41743.0, iteration is 1980
+
+neg current cost is -41743.0, iteration is 1981
+
+neg current cost is -41743.0, iteration is 1982
+
+neg current cost is -41743.0, iteration is 1983
+
+neg current cost is -41743.0, iteration is 1984
+
+neg current cost is -41743.0, iteration is 1985
+
+neg current cost is -41743.0, iteration is 1986
+
+neg current cost is -41743.0, iteration is 1987
+
+neg current cost is -41743.0, iteration is 1988
+
+neg current cost is -41743.0, iteration is 1989
+
+neg current cost is -41743.0, iteration is 1990
+
+neg current cost is -41743.0, iteration is 1991
+
+neg current cost is -41743.0, iteration is 1992
+
+neg current cost is -41743.0, iteration is 1993
+
+neg current cost is -41743.0, iteration is 1994
+
+neg current cost is -41122.0, iteration is 1995
+
+neg current cost is -41122.0, iteration is 1996
+
+neg current cost is -41122.0, iteration is 1997
+
+neg current cost is -41122.0, iteration is 1998
+
+neg current cost is -41122.0, iteration is 1999
+
+neg current cost is -40501.0, iteration is 2000
+
+neg current cost is -40501.0, iteration is 2001
+
+neg current cost is -40501.0, iteration is 2002
+
+neg current cost is -40501.0, iteration is 2003
+
+neg current cost is -40501.0, iteration is 2004
+
+neg current cost is -40501.0, iteration is 2005
+
+neg current cost is -40501.0, iteration is 2006
+
+neg current cost is -40501.0, iteration is 2007
+
+neg current cost is -40501.0, iteration is 2008
+
+neg current cost is -40501.0, iteration is 2009
+
+neg current cost is -40081.0, iteration is 2010
+
+neg current cost is -40081.0, iteration is 2011
+
+neg current cost is -40081.0, iteration is 2012
+
+neg current cost is -40081.0, iteration is 2013
+
+neg current cost is -40081.0, iteration is 2014
+
+neg current cost is -40081.0, iteration is 2015
+
+neg current cost is -40081.0, iteration is 2016
+
+neg current cost is -40081.0, iteration is 2017
+
+neg current cost is -40081.0, iteration is 2018
+
+neg current cost is -40081.0, iteration is 2019
+
+neg current cost is -40081.0, iteration is 2020
+
+neg current cost is -40081.0, iteration is 2021
+
+neg current cost is -40081.0, iteration is 2022
+
+neg current cost is -40081.0, iteration is 2023
+
+neg current cost is -40081.0, iteration is 2024
+
+neg current cost is -40081.0, iteration is 2025
+
+neg current cost is -40081.0, iteration is 2026
+
+neg current cost is -40081.0, iteration is 2027
+
+neg current cost is -40081.0, iteration is 2028
+
+neg current cost is -40081.0, iteration is 2029
+
+neg current cost is -39460.0, iteration is 2030
+
+neg current cost is -39460.0, iteration is 2031
+
+neg current cost is -39460.0, iteration is 2032
+
+neg current cost is -39460.0, iteration is 2033
+
+neg current cost is -39460.0, iteration is 2034
+
+neg current cost is -38839.0, iteration is 2035
+
+neg current cost is -38839.0, iteration is 2036
+
+neg current cost is -38839.0, iteration is 2037
+
+neg current cost is -38839.0, iteration is 2038
+
+neg current cost is -38839.0, iteration is 2039
+
+neg current cost is -38839.0, iteration is 2040
+
+neg current cost is -38839.0, iteration is 2041
+
+neg current cost is -38839.0, iteration is 2042
+
+neg current cost is -38839.0, iteration is 2043
+
+neg current cost is -38839.0, iteration is 2044
+
+neg current cost is -38839.0, iteration is 2045
+
+neg current cost is -38839.0, iteration is 2046
+
+neg current cost is -38839.0, iteration is 2047
+
+neg current cost is -38839.0, iteration is 2048
+
+neg current cost is -38839.0, iteration is 2049
+
+neg current cost is -38218.0, iteration is 2050
+
+neg current cost is -38218.0, iteration is 2051
+
+neg current cost is -38218.0, iteration is 2052
+
+neg current cost is -38218.0, iteration is 2053
+
+neg current cost is -38218.0, iteration is 2054
+
+neg current cost is -37597.0, iteration is 2055
+
+neg current cost is -37597.0, iteration is 2056
+
+neg current cost is -37597.0, iteration is 2057
+
+neg current cost is -37597.0, iteration is 2058
+
+neg current cost is -37597.0, iteration is 2059
+
+neg current cost is -37597.0, iteration is 2060
+
+neg current cost is -37597.0, iteration is 2061
+
+neg current cost is -37597.0, iteration is 2062
+
+neg current cost is -37597.0, iteration is 2063
+
+neg current cost is -37597.0, iteration is 2064
+
+neg current cost is -37597.0, iteration is 2065
+
+neg current cost is -37597.0, iteration is 2066
+
+neg current cost is -37597.0, iteration is 2067
+
+neg current cost is -37597.0, iteration is 2068
+
+neg current cost is -37597.0, iteration is 2069
+
+neg current cost is -37597.0, iteration is 2070
+
+neg current cost is -37597.0, iteration is 2071
+
+neg current cost is -37597.0, iteration is 2072
+
+neg current cost is -37597.0, iteration is 2073
+
+neg current cost is -37597.0, iteration is 2074
+
+neg current cost is -36976.0, iteration is 2075
+
+neg current cost is -36976.0, iteration is 2076
+
+neg current cost is -36976.0, iteration is 2077
+
+neg current cost is -36976.0, iteration is 2078
+
+neg current cost is -36976.0, iteration is 2079
+
+neg current cost is -36976.0, iteration is 2080
+
+neg current cost is -36976.0, iteration is 2081
+
+neg current cost is -36976.0, iteration is 2082
+
+neg current cost is -36976.0, iteration is 2083
+
+neg current cost is -36976.0, iteration is 2084
+
+neg current cost is -36355.0, iteration is 2085
+
+neg current cost is -36355.0, iteration is 2086
+
+neg current cost is -36355.0, iteration is 2087
+
+neg current cost is -36355.0, iteration is 2088
+
+neg current cost is -36355.0, iteration is 2089
+
+neg current cost is -36355.0, iteration is 2090
+
+neg current cost is -36355.0, iteration is 2091
+
+neg current cost is -36355.0, iteration is 2092
+
+neg current cost is -36355.0, iteration is 2093
+
+neg current cost is -36355.0, iteration is 2094
+
+neg current cost is -36355.0, iteration is 2095
+
+neg current cost is -36355.0, iteration is 2096
+
+neg current cost is -36355.0, iteration is 2097
+
+neg current cost is -36355.0, iteration is 2098
+
+neg current cost is -36355.0, iteration is 2099
+
+neg current cost is -35734.0, iteration is 2100
+
+neg current cost is -35734.0, iteration is 2101
+
+neg current cost is -35734.0, iteration is 2102
+
+neg current cost is -35734.0, iteration is 2103
+
+neg current cost is -35734.0, iteration is 2104
+
+neg current cost is -35113.0, iteration is 2105
+
+neg current cost is -35113.0, iteration is 2106
+
+neg current cost is -35113.0, iteration is 2107
+
+neg current cost is -35113.0, iteration is 2108
+
+neg current cost is -35113.0, iteration is 2109
+
+neg current cost is -35113.0, iteration is 2110
+
+neg current cost is -35113.0, iteration is 2111
+
+neg current cost is -35113.0, iteration is 2112
+
+neg current cost is -35113.0, iteration is 2113
+
+neg current cost is -35113.0, iteration is 2114
+
+neg current cost is -35113.0, iteration is 2115
+
+neg current cost is -35113.0, iteration is 2116
+
+neg current cost is -35113.0, iteration is 2117
+
+neg current cost is -35113.0, iteration is 2118
+
+neg current cost is -35113.0, iteration is 2119
+
+neg current cost is -35113.0, iteration is 2120
+
+neg current cost is -35113.0, iteration is 2121
+
+neg current cost is -35113.0, iteration is 2122
+
+neg current cost is -35113.0, iteration is 2123
+
+neg current cost is -35113.0, iteration is 2124
+
+neg current cost is -34492.0, iteration is 2125
+
+neg current cost is -34492.0, iteration is 2126
+
+neg current cost is -34492.0, iteration is 2127
+
+neg current cost is -34492.0, iteration is 2128
+
+neg current cost is -34492.0, iteration is 2129
+
+neg current cost is -34492.0, iteration is 2130
+
+neg current cost is -34492.0, iteration is 2131
+
+neg current cost is -34492.0, iteration is 2132
+
+neg current cost is -34492.0, iteration is 2133
+
+neg current cost is -34492.0, iteration is 2134
+
+neg current cost is -34492.0, iteration is 2135
+
+neg current cost is -34492.0, iteration is 2136
+
+neg current cost is -34492.0, iteration is 2137
+
+neg current cost is -34492.0, iteration is 2138
+
+neg current cost is -34492.0, iteration is 2139
+
+neg current cost is -34492.0, iteration is 2140
+
+neg current cost is -34492.0, iteration is 2141
+
+neg current cost is -34492.0, iteration is 2142
+
+neg current cost is -34492.0, iteration is 2143
+
+neg current cost is -34492.0, iteration is 2144
+
+neg current cost is -33871.0, iteration is 2145
+
+neg current cost is -33871.0, iteration is 2146
+
+neg current cost is -33871.0, iteration is 2147
+
+neg current cost is -33871.0, iteration is 2148
+
+neg current cost is -33871.0, iteration is 2149
+
+neg current cost is -33250.0, iteration is 2150
+
+neg current cost is -33250.0, iteration is 2151
+
+neg current cost is -33250.0, iteration is 2152
+
+neg current cost is -33250.0, iteration is 2153
+
+neg current cost is -33250.0, iteration is 2154
+
+neg current cost is -33250.0, iteration is 2155
+
+neg current cost is -33250.0, iteration is 2156
+
+neg current cost is -33250.0, iteration is 2157
+
+neg current cost is -33250.0, iteration is 2158
+
+neg current cost is -33250.0, iteration is 2159
+
+neg current cost is -33250.0, iteration is 2160
+
+neg current cost is -33250.0, iteration is 2161
+
+neg current cost is -33250.0, iteration is 2162
+
+neg current cost is -33250.0, iteration is 2163
+
+neg current cost is -33250.0, iteration is 2164
+
+neg current cost is -33250.0, iteration is 2165
+
+neg current cost is -33250.0, iteration is 2166
+
+neg current cost is -33250.0, iteration is 2167
+
+neg current cost is -33250.0, iteration is 2168
+
+neg current cost is -33250.0, iteration is 2169
+
+neg current cost is -33250.0, iteration is 2170
+
+neg current cost is -33250.0, iteration is 2171
+
+neg current cost is -33250.0, iteration is 2172
+
+neg current cost is -33250.0, iteration is 2173
+
+neg current cost is -33250.0, iteration is 2174
+
+neg current cost is -33250.0, iteration is 2175
+
+neg current cost is -33250.0, iteration is 2176
+
+neg current cost is -33250.0, iteration is 2177
+
+neg current cost is -33250.0, iteration is 2178
+
+neg current cost is -33250.0, iteration is 2179
+
+neg current cost is -32629.0, iteration is 2180
+
+neg current cost is -32629.0, iteration is 2181
+
+neg current cost is -32629.0, iteration is 2182
+
+neg current cost is -32629.0, iteration is 2183
+
+neg current cost is -32629.0, iteration is 2184
+
+neg current cost is -32629.0, iteration is 2185
+
+neg current cost is -32629.0, iteration is 2186
+
+neg current cost is -32629.0, iteration is 2187
+
+neg current cost is -32629.0, iteration is 2188
+
+neg current cost is -32629.0, iteration is 2189
+
+neg current cost is -32629.0, iteration is 2190
+
+neg current cost is -32629.0, iteration is 2191
+
+neg current cost is -32629.0, iteration is 2192
+
+neg current cost is -32629.0, iteration is 2193
+
+neg current cost is -32629.0, iteration is 2194
+
+neg current cost is -32629.0, iteration is 2195
+
+neg current cost is -32629.0, iteration is 2196
+
+neg current cost is -32629.0, iteration is 2197
+
+neg current cost is -32629.0, iteration is 2198
+
+neg current cost is -32629.0, iteration is 2199
+
+neg current cost is -32008.0, iteration is 2200
+
+neg current cost is -32008.0, iteration is 2201
+
+neg current cost is -32008.0, iteration is 2202
+
+neg current cost is -32008.0, iteration is 2203
+
+neg current cost is -32008.0, iteration is 2204
+
+neg current cost is -32008.0, iteration is 2205
+
+neg current cost is -32008.0, iteration is 2206
+
+neg current cost is -32008.0, iteration is 2207
+
+neg current cost is -32008.0, iteration is 2208
+
+neg current cost is -32008.0, iteration is 2209
+
+neg current cost is -32008.0, iteration is 2210
+
+neg current cost is -32008.0, iteration is 2211
+
+neg current cost is -32008.0, iteration is 2212
+
+neg current cost is -32008.0, iteration is 2213
+
+neg current cost is -32008.0, iteration is 2214
+
+neg current cost is -32008.0, iteration is 2215
+
+neg current cost is -32008.0, iteration is 2216
+
+neg current cost is -32008.0, iteration is 2217
+
+neg current cost is -32008.0, iteration is 2218
+
+neg current cost is -32008.0, iteration is 2219
+
+neg current cost is -32008.0, iteration is 2220
+
+neg current cost is -32008.0, iteration is 2221
+
+neg current cost is -32008.0, iteration is 2222
+
+neg current cost is -32008.0, iteration is 2223
+
+neg current cost is -32008.0, iteration is 2224
+
+neg current cost is -32008.0, iteration is 2225
+
+neg current cost is -32008.0, iteration is 2226
+
+neg current cost is -32008.0, iteration is 2227
+
+neg current cost is -32008.0, iteration is 2228
+
+neg current cost is -32008.0, iteration is 2229
+
+neg current cost is -32008.0, iteration is 2230
+
+neg current cost is -32008.0, iteration is 2231
+
+neg current cost is -32008.0, iteration is 2232
+
+neg current cost is -32008.0, iteration is 2233
+
+neg current cost is -32008.0, iteration is 2234
+
+neg current cost is -32008.0, iteration is 2235
+
+neg current cost is -32008.0, iteration is 2236
+
+neg current cost is -32008.0, iteration is 2237
+
+neg current cost is -32008.0, iteration is 2238
+
+neg current cost is -32008.0, iteration is 2239
+
+neg current cost is -32008.0, iteration is 2240
+
+neg current cost is -32008.0, iteration is 2241
+
+neg current cost is -32008.0, iteration is 2242
+
+neg current cost is -32008.0, iteration is 2243
+
+neg current cost is -32008.0, iteration is 2244
+
+neg current cost is -32008.0, iteration is 2245
+
+neg current cost is -32008.0, iteration is 2246
+
+neg current cost is -32008.0, iteration is 2247
+
+neg current cost is -32008.0, iteration is 2248
+
+neg current cost is -32008.0, iteration is 2249
+
+neg current cost is -32008.0, iteration is 2250
+
+neg current cost is -32008.0, iteration is 2251
+
+neg current cost is -32008.0, iteration is 2252
+
+neg current cost is -32008.0, iteration is 2253
+
+neg current cost is -32008.0, iteration is 2254
+
+neg current cost is -32008.0, iteration is 2255
+
+neg current cost is -32008.0, iteration is 2256
+
+neg current cost is -32008.0, iteration is 2257
+
+neg current cost is -32008.0, iteration is 2258
+
+neg current cost is -32008.0, iteration is 2259
+
+neg current cost is -32008.0, iteration is 2260
+
+neg current cost is -32008.0, iteration is 2261
+
+neg current cost is -32008.0, iteration is 2262
+
+neg current cost is -32008.0, iteration is 2263
+
+neg current cost is -32008.0, iteration is 2264
+
+neg current cost is -32008.0, iteration is 2265
+
+neg current cost is -32008.0, iteration is 2266
+
+neg current cost is -32008.0, iteration is 2267
+
+neg current cost is -32008.0, iteration is 2268
+
+neg current cost is -32008.0, iteration is 2269
+
+neg current cost is -31387.0, iteration is 2270
+
+neg current cost is -31387.0, iteration is 2271
+
+neg current cost is -31387.0, iteration is 2272
+
+neg current cost is -31387.0, iteration is 2273
+
+neg current cost is -31387.0, iteration is 2274
+
+neg current cost is -31387.0, iteration is 2275
+
+neg current cost is -31387.0, iteration is 2276
+
+neg current cost is -31387.0, iteration is 2277
+
+neg current cost is -31387.0, iteration is 2278
+
+neg current cost is -31387.0, iteration is 2279
+
+neg current cost is -31387.0, iteration is 2280
+
+neg current cost is -31387.0, iteration is 2281
+
+neg current cost is -31387.0, iteration is 2282
+
+neg current cost is -31387.0, iteration is 2283
+
+neg current cost is -31387.0, iteration is 2284
+
+neg current cost is -31387.0, iteration is 2285
+
+neg current cost is -31387.0, iteration is 2286
+
+neg current cost is -31387.0, iteration is 2287
+
+neg current cost is -31387.0, iteration is 2288
+
+neg current cost is -31387.0, iteration is 2289
+
+neg current cost is -31387.0, iteration is 2290
+
+neg current cost is -31387.0, iteration is 2291
+
+neg current cost is -31387.0, iteration is 2292
+
+neg current cost is -31387.0, iteration is 2293
+
+neg current cost is -31387.0, iteration is 2294
+
+neg current cost is -31387.0, iteration is 2295
+
+neg current cost is -31387.0, iteration is 2296
+
+neg current cost is -31387.0, iteration is 2297
+
+neg current cost is -31387.0, iteration is 2298
+
+neg current cost is -31387.0, iteration is 2299
+
+neg current cost is -31387.0, iteration is 2300
+
+neg current cost is -31387.0, iteration is 2301
+
+neg current cost is -31387.0, iteration is 2302
+
+neg current cost is -31387.0, iteration is 2303
+
+neg current cost is -31387.0, iteration is 2304
+
+neg current cost is -31387.0, iteration is 2305
+
+neg current cost is -31387.0, iteration is 2306
+
+neg current cost is -31387.0, iteration is 2307
+
+neg current cost is -31387.0, iteration is 2308
+
+neg current cost is -31387.0, iteration is 2309
+
+neg current cost is -31387.0, iteration is 2310
+
+neg current cost is -31387.0, iteration is 2311
+
+neg current cost is -31387.0, iteration is 2312
+
+neg current cost is -31387.0, iteration is 2313
+
+neg current cost is -31387.0, iteration is 2314
+
+neg current cost is -31387.0, iteration is 2315
+
+neg current cost is -31387.0, iteration is 2316
+
+neg current cost is -31387.0, iteration is 2317
+
+neg current cost is -31387.0, iteration is 2318
+
+neg current cost is -31387.0, iteration is 2319
+
+neg current cost is -31387.0, iteration is 2320
+
+neg current cost is -31387.0, iteration is 2321
+
+neg current cost is -31387.0, iteration is 2322
+
+neg current cost is -31387.0, iteration is 2323
+
+neg current cost is -31387.0, iteration is 2324
+
+neg current cost is -31387.0, iteration is 2325
+
+neg current cost is -31387.0, iteration is 2326
+
+neg current cost is -31387.0, iteration is 2327
+
+neg current cost is -31387.0, iteration is 2328
+
+neg current cost is -31387.0, iteration is 2329
+
+neg current cost is -31387.0, iteration is 2330
+
+neg current cost is -31387.0, iteration is 2331
+
+neg current cost is -31387.0, iteration is 2332
+
+neg current cost is -31387.0, iteration is 2333
+
+neg current cost is -31387.0, iteration is 2334
+
+neg current cost is -31387.0, iteration is 2335
+
+neg current cost is -31387.0, iteration is 2336
+
+neg current cost is -31387.0, iteration is 2337
+
+neg current cost is -31387.0, iteration is 2338
+
+neg current cost is -31387.0, iteration is 2339
+
+neg current cost is -31387.0, iteration is 2340
+
+neg current cost is -31387.0, iteration is 2341
+
+neg current cost is -31387.0, iteration is 2342
+
+neg current cost is -31387.0, iteration is 2343
+
+neg current cost is -31387.0, iteration is 2344
+
+neg current cost is -31387.0, iteration is 2345
+
+neg current cost is -31387.0, iteration is 2346
+
+neg current cost is -31387.0, iteration is 2347
+
+neg current cost is -31387.0, iteration is 2348
+
+neg current cost is -31387.0, iteration is 2349
+
+neg current cost is -30766.0, iteration is 2350
+
+neg current cost is -30766.0, iteration is 2351
+
+neg current cost is -30766.0, iteration is 2352
+
+neg current cost is -30766.0, iteration is 2353
+
+neg current cost is -30766.0, iteration is 2354
+
+neg current cost is -30766.0, iteration is 2355
+
+neg current cost is -30766.0, iteration is 2356
+
+neg current cost is -30766.0, iteration is 2357
+
+neg current cost is -30766.0, iteration is 2358
+
+neg current cost is -30766.0, iteration is 2359
+
+neg current cost is -30346.0, iteration is 2360
+
+neg current cost is -30346.0, iteration is 2361
+
+neg current cost is -30346.0, iteration is 2362
+
+neg current cost is -30346.0, iteration is 2363
+
+neg current cost is -30346.0, iteration is 2364
+
+neg current cost is -30346.0, iteration is 2365
+
+neg current cost is -30346.0, iteration is 2366
+
+neg current cost is -30346.0, iteration is 2367
+
+neg current cost is -30346.0, iteration is 2368
+
+neg current cost is -30346.0, iteration is 2369
+
+neg current cost is -30346.0, iteration is 2370
+
+neg current cost is -30346.0, iteration is 2371
+
+neg current cost is -30346.0, iteration is 2372
+
+neg current cost is -30346.0, iteration is 2373
+
+neg current cost is -30346.0, iteration is 2374
+
+neg current cost is -30346.0, iteration is 2375
+
+neg current cost is -30346.0, iteration is 2376
+
+neg current cost is -30346.0, iteration is 2377
+
+neg current cost is -30346.0, iteration is 2378
+
+neg current cost is -30346.0, iteration is 2379
+
+neg current cost is -29725.0, iteration is 2380
+
+neg current cost is -29725.0, iteration is 2381
+
+neg current cost is -29725.0, iteration is 2382
+
+neg current cost is -29725.0, iteration is 2383
+
+neg current cost is -29725.0, iteration is 2384
+
+neg current cost is -29725.0, iteration is 2385
+
+neg current cost is -29725.0, iteration is 2386
+
+neg current cost is -29725.0, iteration is 2387
+
+neg current cost is -29725.0, iteration is 2388
+
+neg current cost is -29725.0, iteration is 2389
+
+neg current cost is -29725.0, iteration is 2390
+
+neg current cost is -29725.0, iteration is 2391
+
+neg current cost is -29725.0, iteration is 2392
+
+neg current cost is -29725.0, iteration is 2393
+
+neg current cost is -29725.0, iteration is 2394
+
+neg current cost is -29725.0, iteration is 2395
+
+neg current cost is -29725.0, iteration is 2396
+
+neg current cost is -29725.0, iteration is 2397
+
+neg current cost is -29725.0, iteration is 2398
+
+neg current cost is -29725.0, iteration is 2399
+
+neg current cost is -29104.0, iteration is 2400
+
+neg current cost is -29104.0, iteration is 2401
+
+neg current cost is -29104.0, iteration is 2402
+
+neg current cost is -29104.0, iteration is 2403
+
+neg current cost is -29104.0, iteration is 2404
+
+neg current cost is -29104.0, iteration is 2405
+
+neg current cost is -29104.0, iteration is 2406
+
+neg current cost is -29104.0, iteration is 2407
+
+neg current cost is -29104.0, iteration is 2408
+
+neg current cost is -29104.0, iteration is 2409
+
+neg current cost is -29104.0, iteration is 2410
+
+neg current cost is -29104.0, iteration is 2411
+
+neg current cost is -29104.0, iteration is 2412
+
+neg current cost is -29104.0, iteration is 2413
+
+neg current cost is -29104.0, iteration is 2414
+
+neg current cost is -29104.0, iteration is 2415
+
+neg current cost is -29104.0, iteration is 2416
+
+neg current cost is -29104.0, iteration is 2417
+
+neg current cost is -29104.0, iteration is 2418
+
+neg current cost is -29104.0, iteration is 2419
+
+neg current cost is -28483.0, iteration is 2420
+
+neg current cost is -28483.0, iteration is 2421
+
+neg current cost is -28483.0, iteration is 2422
+
+neg current cost is -28483.0, iteration is 2423
+
+neg current cost is -28483.0, iteration is 2424
+
+neg current cost is -28483.0, iteration is 2425
+
+neg current cost is -28483.0, iteration is 2426
+
+neg current cost is -28483.0, iteration is 2427
+
+neg current cost is -28483.0, iteration is 2428
+
+neg current cost is -28483.0, iteration is 2429
+
+neg current cost is -28483.0, iteration is 2430
+
+neg current cost is -28483.0, iteration is 2431
+
+neg current cost is -28483.0, iteration is 2432
+
+neg current cost is -28483.0, iteration is 2433
+
+neg current cost is -28483.0, iteration is 2434
+
+neg current cost is -28483.0, iteration is 2435
+
+neg current cost is -28483.0, iteration is 2436
+
+neg current cost is -28483.0, iteration is 2437
+
+neg current cost is -28483.0, iteration is 2438
+
+neg current cost is -28483.0, iteration is 2439
+
+neg current cost is -28483.0, iteration is 2440
+
+neg current cost is -28483.0, iteration is 2441
+
+neg current cost is -28483.0, iteration is 2442
+
+neg current cost is -28483.0, iteration is 2443
+
+neg current cost is -28483.0, iteration is 2444
+
+neg current cost is -28483.0, iteration is 2445
+
+neg current cost is -28483.0, iteration is 2446
+
+neg current cost is -28483.0, iteration is 2447
+
+neg current cost is -28483.0, iteration is 2448
+
+neg current cost is -28483.0, iteration is 2449
+
+neg current cost is -28483.0, iteration is 2450
+
+neg current cost is -28483.0, iteration is 2451
+
+neg current cost is -28483.0, iteration is 2452
+
+neg current cost is -28483.0, iteration is 2453
+
+neg current cost is -28483.0, iteration is 2454
+
+neg current cost is -28483.0, iteration is 2455
+
+neg current cost is -28483.0, iteration is 2456
+
+neg current cost is -28483.0, iteration is 2457
+
+neg current cost is -28483.0, iteration is 2458
+
+neg current cost is -28483.0, iteration is 2459
+
+neg current cost is -28483.0, iteration is 2460
+
+neg current cost is -28483.0, iteration is 2461
+
+neg current cost is -28483.0, iteration is 2462
+
+neg current cost is -28483.0, iteration is 2463
+
+neg current cost is -28483.0, iteration is 2464
+
+neg current cost is -28483.0, iteration is 2465
+
+neg current cost is -28483.0, iteration is 2466
+
+neg current cost is -28483.0, iteration is 2467
+
+neg current cost is -28483.0, iteration is 2468
+
+neg current cost is -28483.0, iteration is 2469
+
+neg current cost is -28483.0, iteration is 2470
+
+neg current cost is -28483.0, iteration is 2471
+
+neg current cost is -28483.0, iteration is 2472
+
+neg current cost is -28483.0, iteration is 2473
+
+neg current cost is -28483.0, iteration is 2474
+
+neg current cost is -28483.0, iteration is 2475
+
+neg current cost is -28483.0, iteration is 2476
+
+neg current cost is -28483.0, iteration is 2477
+
+neg current cost is -28483.0, iteration is 2478
+
+neg current cost is -28483.0, iteration is 2479
+
+neg current cost is -28483.0, iteration is 2480
+
+neg current cost is -28483.0, iteration is 2481
+
+neg current cost is -28483.0, iteration is 2482
+
+neg current cost is -28483.0, iteration is 2483
+
+neg current cost is -28483.0, iteration is 2484
+
+neg current cost is -28483.0, iteration is 2485
+
+neg current cost is -28483.0, iteration is 2486
+
+neg current cost is -28483.0, iteration is 2487
+
+neg current cost is -28483.0, iteration is 2488
+
+neg current cost is -28483.0, iteration is 2489
+
+neg current cost is -28483.0, iteration is 2490
+
+neg current cost is -28483.0, iteration is 2491
+
+neg current cost is -28483.0, iteration is 2492
+
+neg current cost is -28483.0, iteration is 2493
+
+neg current cost is -28483.0, iteration is 2494
+
+neg current cost is -28483.0, iteration is 2495
+
+neg current cost is -28483.0, iteration is 2496
+
+neg current cost is -28483.0, iteration is 2497
+
+neg current cost is -28483.0, iteration is 2498
+
+neg current cost is -28483.0, iteration is 2499
+
+neg current cost is -27862.0, iteration is 2500
+
+neg current cost is -27862.0, iteration is 2501
+
+neg current cost is -27862.0, iteration is 2502
+
+neg current cost is -27862.0, iteration is 2503
+
+neg current cost is -27862.0, iteration is 2504
+
+neg current cost is -27862.0, iteration is 2505
+
+neg current cost is -27862.0, iteration is 2506
+
+neg current cost is -27862.0, iteration is 2507
+
+neg current cost is -27862.0, iteration is 2508
+
+neg current cost is -27862.0, iteration is 2509
+
+neg current cost is -27241.0, iteration is 2510
+
+neg current cost is -27241.0, iteration is 2511
+
+neg current cost is -27241.0, iteration is 2512
+
+neg current cost is -27241.0, iteration is 2513
+
+neg current cost is -27241.0, iteration is 2514
+
+neg current cost is -27205.0, iteration is 2515
+
+neg current cost is -27205.0, iteration is 2516
+
+neg current cost is -27205.0, iteration is 2517
+
+neg current cost is -27205.0, iteration is 2518
+
+neg current cost is -27205.0, iteration is 2519
+
+neg current cost is -27205.0, iteration is 2520
+
+neg current cost is -27205.0, iteration is 2521
+
+neg current cost is -27205.0, iteration is 2522
+
+neg current cost is -27205.0, iteration is 2523
+
+neg current cost is -27205.0, iteration is 2524
+
+neg current cost is -27205.0, iteration is 2525
+
+neg current cost is -27205.0, iteration is 2526
+
+neg current cost is -27205.0, iteration is 2527
+
+neg current cost is -27205.0, iteration is 2528
+
+neg current cost is -27205.0, iteration is 2529
+
+neg current cost is -27205.0, iteration is 2530
+
+neg current cost is -27205.0, iteration is 2531
+
+neg current cost is -27205.0, iteration is 2532
+
+neg current cost is -27205.0, iteration is 2533
+
+neg current cost is -27205.0, iteration is 2534
+
+neg current cost is -27205.0, iteration is 2535
+
+neg current cost is -27205.0, iteration is 2536
+
+neg current cost is -27205.0, iteration is 2537
+
+neg current cost is -27205.0, iteration is 2538
+
+neg current cost is -27205.0, iteration is 2539
+
+neg current cost is -27205.0, iteration is 2540
+
+neg current cost is -27205.0, iteration is 2541
+
+neg current cost is -27205.0, iteration is 2542
+
+neg current cost is -27205.0, iteration is 2543
+
+neg current cost is -27205.0, iteration is 2544
+
+neg current cost is -27205.0, iteration is 2545
+
+neg current cost is -27205.0, iteration is 2546
+
+neg current cost is -27205.0, iteration is 2547
+
+neg current cost is -27205.0, iteration is 2548
+
+neg current cost is -27205.0, iteration is 2549
+
+neg current cost is -27205.0, iteration is 2550
+
+neg current cost is -27205.0, iteration is 2551
+
+neg current cost is -27205.0, iteration is 2552
+
+neg current cost is -27205.0, iteration is 2553
+
+neg current cost is -27205.0, iteration is 2554
+
+neg current cost is -27205.0, iteration is 2555
+
+neg current cost is -27205.0, iteration is 2556
+
+neg current cost is -27205.0, iteration is 2557
+
+neg current cost is -27205.0, iteration is 2558
+
+neg current cost is -27205.0, iteration is 2559
+
+neg current cost is -27205.0, iteration is 2560
+
+neg current cost is -27205.0, iteration is 2561
+
+neg current cost is -27205.0, iteration is 2562
+
+neg current cost is -27205.0, iteration is 2563
+
+neg current cost is -27205.0, iteration is 2564
+
+neg current cost is -27205.0, iteration is 2565
+
+neg current cost is -27205.0, iteration is 2566
+
+neg current cost is -27205.0, iteration is 2567
+
+neg current cost is -27205.0, iteration is 2568
+
+neg current cost is -27205.0, iteration is 2569
+
+neg current cost is -27205.0, iteration is 2570
+
+neg current cost is -27205.0, iteration is 2571
+
+neg current cost is -27205.0, iteration is 2572
+
+neg current cost is -27205.0, iteration is 2573
+
+neg current cost is -27205.0, iteration is 2574
+
+neg current cost is -27205.0, iteration is 2575
+
+neg current cost is -27205.0, iteration is 2576
+
+neg current cost is -27205.0, iteration is 2577
+
+neg current cost is -27205.0, iteration is 2578
+
+neg current cost is -27205.0, iteration is 2579
+
+neg current cost is -27205.0, iteration is 2580
+
+neg current cost is -27205.0, iteration is 2581
+
+neg current cost is -27205.0, iteration is 2582
+
+neg current cost is -27205.0, iteration is 2583
+
+neg current cost is -27205.0, iteration is 2584
+
+neg current cost is -26584.0, iteration is 2585
+
+neg current cost is -26584.0, iteration is 2586
+
+neg current cost is -26584.0, iteration is 2587
+
+neg current cost is -26584.0, iteration is 2588
+
+neg current cost is -26584.0, iteration is 2589
+
+neg current cost is -26584.0, iteration is 2590
+
+neg current cost is -26584.0, iteration is 2591
+
+neg current cost is -26584.0, iteration is 2592
+
+neg current cost is -26584.0, iteration is 2593
+
+neg current cost is -26584.0, iteration is 2594
+
+neg current cost is -26584.0, iteration is 2595
+
+neg current cost is -26584.0, iteration is 2596
+
+neg current cost is -26584.0, iteration is 2597
+
+neg current cost is -26584.0, iteration is 2598
+
+neg current cost is -26584.0, iteration is 2599
+
+neg current cost is -25963.0, iteration is 2600
+
+neg current cost is -25963.0, iteration is 2601
+
+neg current cost is -25963.0, iteration is 2602
+
+neg current cost is -25963.0, iteration is 2603
+
+neg current cost is -25963.0, iteration is 2604
+
+neg current cost is -25963.0, iteration is 2605
+
+neg current cost is -25963.0, iteration is 2606
+
+neg current cost is -25963.0, iteration is 2607
+
+neg current cost is -25963.0, iteration is 2608
+
+neg current cost is -25963.0, iteration is 2609
+
+neg current cost is -25963.0, iteration is 2610
+
+neg current cost is -25963.0, iteration is 2611
+
+neg current cost is -25963.0, iteration is 2612
+
+neg current cost is -25963.0, iteration is 2613
+
+neg current cost is -25963.0, iteration is 2614
+
+neg current cost is -25963.0, iteration is 2615
+
+neg current cost is -25963.0, iteration is 2616
+
+neg current cost is -25963.0, iteration is 2617
+
+neg current cost is -25963.0, iteration is 2618
+
+neg current cost is -25963.0, iteration is 2619
+
+neg current cost is -25963.0, iteration is 2620
+
+neg current cost is -25963.0, iteration is 2621
+
+neg current cost is -25963.0, iteration is 2622
+
+neg current cost is -25963.0, iteration is 2623
+
+neg current cost is -25963.0, iteration is 2624
+
+neg current cost is -25963.0, iteration is 2625
+
+neg current cost is -25963.0, iteration is 2626
+
+neg current cost is -25963.0, iteration is 2627
+
+neg current cost is -25963.0, iteration is 2628
+
+neg current cost is -25963.0, iteration is 2629
+
+neg current cost is -25963.0, iteration is 2630
+
+neg current cost is -25963.0, iteration is 2631
+
+neg current cost is -25963.0, iteration is 2632
+
+neg current cost is -25963.0, iteration is 2633
+
+neg current cost is -25963.0, iteration is 2634
+
+neg current cost is -25963.0, iteration is 2635
+
+neg current cost is -25963.0, iteration is 2636
+
+neg current cost is -25963.0, iteration is 2637
+
+neg current cost is -25963.0, iteration is 2638
+
+neg current cost is -25963.0, iteration is 2639
+
+neg current cost is -25703.0, iteration is 2640
+
+neg current cost is -25703.0, iteration is 2641
+
+neg current cost is -25703.0, iteration is 2642
+
+neg current cost is -25703.0, iteration is 2643
+
+neg current cost is -25703.0, iteration is 2644
+
+neg current cost is -25703.0, iteration is 2645
+
+neg current cost is -25703.0, iteration is 2646
+
+neg current cost is -25703.0, iteration is 2647
+
+neg current cost is -25703.0, iteration is 2648
+
+neg current cost is -25703.0, iteration is 2649
+
+neg current cost is -25703.0, iteration is 2650
+
+neg current cost is -25703.0, iteration is 2651
+
+neg current cost is -25703.0, iteration is 2652
+
+neg current cost is -25703.0, iteration is 2653
+
+neg current cost is -25703.0, iteration is 2654
+
+neg current cost is -25703.0, iteration is 2655
+
+neg current cost is -25703.0, iteration is 2656
+
+neg current cost is -25703.0, iteration is 2657
+
+neg current cost is -25703.0, iteration is 2658
+
+neg current cost is -25703.0, iteration is 2659
+
+neg current cost is -25703.0, iteration is 2660
+
+neg current cost is -25703.0, iteration is 2661
+
+neg current cost is -25703.0, iteration is 2662
+
+neg current cost is -25703.0, iteration is 2663
+
+neg current cost is -25703.0, iteration is 2664
+
+neg current cost is -25703.0, iteration is 2665
+
+neg current cost is -25703.0, iteration is 2666
+
+neg current cost is -25703.0, iteration is 2667
+
+neg current cost is -25703.0, iteration is 2668
+
+neg current cost is -25703.0, iteration is 2669
+
+neg current cost is -25703.0, iteration is 2670
+
+neg current cost is -25703.0, iteration is 2671
+
+neg current cost is -25703.0, iteration is 2672
+
+neg current cost is -25703.0, iteration is 2673
+
+neg current cost is -25703.0, iteration is 2674
+
+neg current cost is -25703.0, iteration is 2675
+
+neg current cost is -25703.0, iteration is 2676
+
+neg current cost is -25703.0, iteration is 2677
+
+neg current cost is -25703.0, iteration is 2678
+
+neg current cost is -25703.0, iteration is 2679
+
+neg current cost is -25703.0, iteration is 2680
+
+neg current cost is -25703.0, iteration is 2681
+
+neg current cost is -25703.0, iteration is 2682
+
+neg current cost is -25703.0, iteration is 2683
+
+neg current cost is -25703.0, iteration is 2684
+
+neg current cost is -25703.0, iteration is 2685
+
+neg current cost is -25703.0, iteration is 2686
+
+neg current cost is -25703.0, iteration is 2687
+
+neg current cost is -25703.0, iteration is 2688
+
+neg current cost is -25703.0, iteration is 2689
+
+neg current cost is -25703.0, iteration is 2690
+
+neg current cost is -25703.0, iteration is 2691
+
+neg current cost is -25703.0, iteration is 2692
+
+neg current cost is -25703.0, iteration is 2693
+
+neg current cost is -25703.0, iteration is 2694
+
+neg current cost is -25703.0, iteration is 2695
+
+neg current cost is -25703.0, iteration is 2696
+
+neg current cost is -25703.0, iteration is 2697
+
+neg current cost is -25703.0, iteration is 2698
+
+neg current cost is -25703.0, iteration is 2699
+
+neg current cost is -25082.0, iteration is 2700
+
+neg current cost is -25082.0, iteration is 2701
+
+neg current cost is -25082.0, iteration is 2702
+
+neg current cost is -25082.0, iteration is 2703
+
+neg current cost is -25082.0, iteration is 2704
+
+neg current cost is -24461.0, iteration is 2705
+
+neg current cost is -24461.0, iteration is 2706
+
+neg current cost is -24461.0, iteration is 2707
+
+neg current cost is -24461.0, iteration is 2708
+
+neg current cost is -24461.0, iteration is 2709
+
+neg current cost is -24461.0, iteration is 2710
+
+neg current cost is -24461.0, iteration is 2711
+
+neg current cost is -24461.0, iteration is 2712
+
+neg current cost is -24461.0, iteration is 2713
+
+neg current cost is -24461.0, iteration is 2714
+
+neg current cost is -24461.0, iteration is 2715
+
+neg current cost is -24461.0, iteration is 2716
+
+neg current cost is -24461.0, iteration is 2717
+
+neg current cost is -24461.0, iteration is 2718
+
+neg current cost is -24461.0, iteration is 2719
+
+neg current cost is -24461.0, iteration is 2720
+
+neg current cost is -24461.0, iteration is 2721
+
+neg current cost is -24461.0, iteration is 2722
+
+neg current cost is -24461.0, iteration is 2723
+
+neg current cost is -24461.0, iteration is 2724
+
+neg current cost is -24461.0, iteration is 2725
+
+neg current cost is -24461.0, iteration is 2726
+
+neg current cost is -24461.0, iteration is 2727
+
+neg current cost is -24461.0, iteration is 2728
+
+neg current cost is -24461.0, iteration is 2729
+
+neg current cost is -23840.0, iteration is 2730
+
+neg current cost is -23840.0, iteration is 2731
+
+neg current cost is -23840.0, iteration is 2732
+
+neg current cost is -23840.0, iteration is 2733
+
+neg current cost is -23840.0, iteration is 2734
+
+neg current cost is -23840.0, iteration is 2735
+
+neg current cost is -23840.0, iteration is 2736
+
+neg current cost is -23840.0, iteration is 2737
+
+neg current cost is -23840.0, iteration is 2738
+
+neg current cost is -23840.0, iteration is 2739
+
+neg current cost is -23840.0, iteration is 2740
+
+neg current cost is -23840.0, iteration is 2741
+
+neg current cost is -23840.0, iteration is 2742
+
+neg current cost is -23840.0, iteration is 2743
+
+neg current cost is -23840.0, iteration is 2744
+
+neg current cost is -23840.0, iteration is 2745
+
+neg current cost is -23840.0, iteration is 2746
+
+neg current cost is -23840.0, iteration is 2747
+
+neg current cost is -23840.0, iteration is 2748
+
+neg current cost is -23840.0, iteration is 2749
+
+neg current cost is -23840.0, iteration is 2750
+
+neg current cost is -23840.0, iteration is 2751
+
+neg current cost is -23840.0, iteration is 2752
+
+neg current cost is -23840.0, iteration is 2753
+
+neg current cost is -23840.0, iteration is 2754
+
+neg current cost is -23840.0, iteration is 2755
+
+neg current cost is -23840.0, iteration is 2756
+
+neg current cost is -23840.0, iteration is 2757
+
+neg current cost is -23840.0, iteration is 2758
+
+neg current cost is -23840.0, iteration is 2759
+
+neg current cost is -23840.0, iteration is 2760
+
+neg current cost is -23840.0, iteration is 2761
+
+neg current cost is -23840.0, iteration is 2762
+
+neg current cost is -23840.0, iteration is 2763
+
+neg current cost is -23840.0, iteration is 2764
+
+neg current cost is -23840.0, iteration is 2765
+
+neg current cost is -23840.0, iteration is 2766
+
+neg current cost is -23840.0, iteration is 2767
+
+neg current cost is -23840.0, iteration is 2768
+
+neg current cost is -23840.0, iteration is 2769
+
+neg current cost is -23840.0, iteration is 2770
+
+neg current cost is -23840.0, iteration is 2771
+
+neg current cost is -23840.0, iteration is 2772
+
+neg current cost is -23840.0, iteration is 2773
+
+neg current cost is -23840.0, iteration is 2774
+
+neg current cost is -23840.0, iteration is 2775
+
+neg current cost is -23840.0, iteration is 2776
+
+neg current cost is -23840.0, iteration is 2777
+
+neg current cost is -23840.0, iteration is 2778
+
+neg current cost is -23840.0, iteration is 2779
+
+neg current cost is -23219.0, iteration is 2780
+
+neg current cost is -23219.0, iteration is 2781
+
+neg current cost is -23219.0, iteration is 2782
+
+neg current cost is -23219.0, iteration is 2783
+
+neg current cost is -23219.0, iteration is 2784
+
+neg current cost is -23219.0, iteration is 2785
+
+neg current cost is -23219.0, iteration is 2786
+
+neg current cost is -23219.0, iteration is 2787
+
+neg current cost is -23219.0, iteration is 2788
+
+neg current cost is -23219.0, iteration is 2789
+
+neg current cost is -23219.0, iteration is 2790
+
+neg current cost is -23219.0, iteration is 2791
+
+neg current cost is -23219.0, iteration is 2792
+
+neg current cost is -23219.0, iteration is 2793
+
+neg current cost is -23219.0, iteration is 2794
+
+neg current cost is -22598.0, iteration is 2795
+
+neg current cost is -22598.0, iteration is 2796
+
+neg current cost is -22598.0, iteration is 2797
+
+neg current cost is -22598.0, iteration is 2798
+
+neg current cost is -22598.0, iteration is 2799
+
+neg current cost is -22562.0, iteration is 2800
+
+neg current cost is -22562.0, iteration is 2801
+
+neg current cost is -22562.0, iteration is 2802
+
+neg current cost is -22562.0, iteration is 2803
+
+neg current cost is -22562.0, iteration is 2804
+
+neg current cost is -22562.0, iteration is 2805
+
+neg current cost is -22562.0, iteration is 2806
+
+neg current cost is -22562.0, iteration is 2807
+
+neg current cost is -22562.0, iteration is 2808
+
+neg current cost is -22562.0, iteration is 2809
+
+neg current cost is -22562.0, iteration is 2810
+
+neg current cost is -22562.0, iteration is 2811
+
+neg current cost is -22562.0, iteration is 2812
+
+neg current cost is -22562.0, iteration is 2813
+
+neg current cost is -22562.0, iteration is 2814
+
+neg current cost is -22562.0, iteration is 2815
+
+neg current cost is -22562.0, iteration is 2816
+
+neg current cost is -22562.0, iteration is 2817
+
+neg current cost is -22562.0, iteration is 2818
+
+neg current cost is -22562.0, iteration is 2819
+
+neg current cost is -21941.0, iteration is 2820
+
+neg current cost is -21941.0, iteration is 2821
+
+neg current cost is -21941.0, iteration is 2822
+
+neg current cost is -21941.0, iteration is 2823
+
+neg current cost is -21941.0, iteration is 2824
+
+neg current cost is -21941.0, iteration is 2825
+
+neg current cost is -21941.0, iteration is 2826
+
+neg current cost is -21941.0, iteration is 2827
+
+neg current cost is -21941.0, iteration is 2828
+
+neg current cost is -21941.0, iteration is 2829
+
+neg current cost is -21941.0, iteration is 2830
+
+neg current cost is -21941.0, iteration is 2831
+
+neg current cost is -21941.0, iteration is 2832
+
+neg current cost is -21941.0, iteration is 2833
+
+neg current cost is -21941.0, iteration is 2834
+
+neg current cost is -21941.0, iteration is 2835
+
+neg current cost is -21941.0, iteration is 2836
+
+neg current cost is -21941.0, iteration is 2837
+
+neg current cost is -21941.0, iteration is 2838
+
+neg current cost is -21941.0, iteration is 2839
+
+neg current cost is -21941.0, iteration is 2840
+
+neg current cost is -21941.0, iteration is 2841
+
+neg current cost is -21941.0, iteration is 2842
+
+neg current cost is -21941.0, iteration is 2843
+
+neg current cost is -21941.0, iteration is 2844
+
+neg current cost is -21941.0, iteration is 2845
+
+neg current cost is -21941.0, iteration is 2846
+
+neg current cost is -21941.0, iteration is 2847
+
+neg current cost is -21941.0, iteration is 2848
+
+neg current cost is -21941.0, iteration is 2849
+
+neg current cost is -21941.0, iteration is 2850
+
+neg current cost is -21941.0, iteration is 2851
+
+neg current cost is -21941.0, iteration is 2852
+
+neg current cost is -21941.0, iteration is 2853
+
+neg current cost is -21941.0, iteration is 2854
+
+neg current cost is -21941.0, iteration is 2855
+
+neg current cost is -21941.0, iteration is 2856
+
+neg current cost is -21941.0, iteration is 2857
+
+neg current cost is -21941.0, iteration is 2858
+
+neg current cost is -21941.0, iteration is 2859
+
+neg current cost is -21941.0, iteration is 2860
+
+neg current cost is -21941.0, iteration is 2861
+
+neg current cost is -21941.0, iteration is 2862
+
+neg current cost is -21941.0, iteration is 2863
+
+neg current cost is -21941.0, iteration is 2864
+
+neg current cost is -21941.0, iteration is 2865
+
+neg current cost is -21941.0, iteration is 2866
+
+neg current cost is -21941.0, iteration is 2867
+
+neg current cost is -21941.0, iteration is 2868
+
+neg current cost is -21941.0, iteration is 2869
+
+neg current cost is -21941.0, iteration is 2870
+
+neg current cost is -21941.0, iteration is 2871
+
+neg current cost is -21941.0, iteration is 2872
+
+neg current cost is -21941.0, iteration is 2873
+
+neg current cost is -21941.0, iteration is 2874
+
+neg current cost is -21941.0, iteration is 2875
+
+neg current cost is -21941.0, iteration is 2876
+
+neg current cost is -21941.0, iteration is 2877
+
+neg current cost is -21941.0, iteration is 2878
+
+neg current cost is -21941.0, iteration is 2879
+
+neg current cost is -21941.0, iteration is 2880
+
+neg current cost is -21941.0, iteration is 2881
+
+neg current cost is -21941.0, iteration is 2882
+
+neg current cost is -21941.0, iteration is 2883
+
+neg current cost is -21941.0, iteration is 2884
+
+neg current cost is -21941.0, iteration is 2885
+
+neg current cost is -21941.0, iteration is 2886
+
+neg current cost is -21941.0, iteration is 2887
+
+neg current cost is -21941.0, iteration is 2888
+
+neg current cost is -21941.0, iteration is 2889
+
+neg current cost is -21681.0, iteration is 2890
+
+neg current cost is -21681.0, iteration is 2891
+
+neg current cost is -21681.0, iteration is 2892
+
+neg current cost is -21681.0, iteration is 2893
+
+neg current cost is -21681.0, iteration is 2894
+
+neg current cost is -21681.0, iteration is 2895
+
+neg current cost is -21681.0, iteration is 2896
+
+neg current cost is -21681.0, iteration is 2897
+
+neg current cost is -21681.0, iteration is 2898
+
+neg current cost is -21681.0, iteration is 2899
+
+neg current cost is -21681.0, iteration is 2900
+
+neg current cost is -21681.0, iteration is 2901
+
+neg current cost is -21681.0, iteration is 2902
+
+neg current cost is -21681.0, iteration is 2903
+
+neg current cost is -21681.0, iteration is 2904
+
+neg current cost is -21681.0, iteration is 2905
+
+neg current cost is -21681.0, iteration is 2906
+
+neg current cost is -21681.0, iteration is 2907
+
+neg current cost is -21681.0, iteration is 2908
+
+neg current cost is -21681.0, iteration is 2909
+
+neg current cost is -21681.0, iteration is 2910
+
+neg current cost is -21681.0, iteration is 2911
+
+neg current cost is -21681.0, iteration is 2912
+
+neg current cost is -21681.0, iteration is 2913
+
+neg current cost is -21681.0, iteration is 2914
+
+neg current cost is -21421.0, iteration is 2915
+
+neg current cost is -21421.0, iteration is 2916
+
+neg current cost is -21421.0, iteration is 2917
+
+neg current cost is -21421.0, iteration is 2918
+
+neg current cost is -21421.0, iteration is 2919
+
+neg current cost is -21421.0, iteration is 2920
+
+neg current cost is -21421.0, iteration is 2921
+
+neg current cost is -21421.0, iteration is 2922
+
+neg current cost is -21421.0, iteration is 2923
+
+neg current cost is -21421.0, iteration is 2924
+
+neg current cost is -21421.0, iteration is 2925
+
+neg current cost is -21421.0, iteration is 2926
+
+neg current cost is -21421.0, iteration is 2927
+
+neg current cost is -21421.0, iteration is 2928
+
+neg current cost is -21421.0, iteration is 2929
+
+neg current cost is -21421.0, iteration is 2930
+
+neg current cost is -21421.0, iteration is 2931
+
+neg current cost is -21421.0, iteration is 2932
+
+neg current cost is -21421.0, iteration is 2933
+
+neg current cost is -21421.0, iteration is 2934
+
+neg current cost is -20800.0, iteration is 2935
+
+neg current cost is -20800.0, iteration is 2936
+
+neg current cost is -20800.0, iteration is 2937
+
+neg current cost is -20800.0, iteration is 2938
+
+neg current cost is -20800.0, iteration is 2939
+
+neg current cost is -20800.0, iteration is 2940
+
+neg current cost is -20800.0, iteration is 2941
+
+neg current cost is -20800.0, iteration is 2942
+
+neg current cost is -20800.0, iteration is 2943
+
+neg current cost is -20800.0, iteration is 2944
+
+neg current cost is -20179.0, iteration is 2945
+
+neg current cost is -20179.0, iteration is 2946
+
+neg current cost is -20179.0, iteration is 2947
+
+neg current cost is -20179.0, iteration is 2948
+
+neg current cost is -20179.0, iteration is 2949
+
+neg current cost is -20179.0, iteration is 2950
+
+neg current cost is -20179.0, iteration is 2951
+
+neg current cost is -20179.0, iteration is 2952
+
+neg current cost is -20179.0, iteration is 2953
+
+neg current cost is -20179.0, iteration is 2954
+
+neg current cost is -20179.0, iteration is 2955
+
+neg current cost is -20179.0, iteration is 2956
+
+neg current cost is -20179.0, iteration is 2957
+
+neg current cost is -20179.0, iteration is 2958
+
+neg current cost is -20179.0, iteration is 2959
+
+neg current cost is -20179.0, iteration is 2960
+
+neg current cost is -20179.0, iteration is 2961
+
+neg current cost is -20179.0, iteration is 2962
+
+neg current cost is -20179.0, iteration is 2963
+
+neg current cost is -20179.0, iteration is 2964
+
+neg current cost is -20179.0, iteration is 2965
+
+neg current cost is -20179.0, iteration is 2966
+
+neg current cost is -20179.0, iteration is 2967
+
+neg current cost is -20179.0, iteration is 2968
+
+neg current cost is -20179.0, iteration is 2969
+
+neg current cost is -20179.0, iteration is 2970
+
+neg current cost is -20179.0, iteration is 2971
+
+neg current cost is -20179.0, iteration is 2972
+
+neg current cost is -20179.0, iteration is 2973
+
+neg current cost is -20179.0, iteration is 2974
+
+neg current cost is -20179.0, iteration is 2975
+
+neg current cost is -20179.0, iteration is 2976
+
+neg current cost is -20179.0, iteration is 2977
+
+neg current cost is -20179.0, iteration is 2978
+
+neg current cost is -20179.0, iteration is 2979
+
+neg current cost is -20179.0, iteration is 2980
+
+neg current cost is -20179.0, iteration is 2981
+
+neg current cost is -20179.0, iteration is 2982
+
+neg current cost is -20179.0, iteration is 2983
+
+neg current cost is -20179.0, iteration is 2984
+
+neg current cost is -20179.0, iteration is 2985
+
+neg current cost is -20179.0, iteration is 2986
+
+neg current cost is -20179.0, iteration is 2987
+
+neg current cost is -20179.0, iteration is 2988
+
+neg current cost is -20179.0, iteration is 2989
+
+neg current cost is -19919.0, iteration is 2990
+
+neg current cost is -19919.0, iteration is 2991
+
+neg current cost is -19919.0, iteration is 2992
+
+neg current cost is -19919.0, iteration is 2993
+
+neg current cost is -19919.0, iteration is 2994
+
+neg current cost is -19919.0, iteration is 2995
+
+neg current cost is -19919.0, iteration is 2996
+
+neg current cost is -19919.0, iteration is 2997
+
+neg current cost is -19919.0, iteration is 2998
+
+neg current cost is -19919.0, iteration is 2999
+
+neg current cost is -19919.0, iteration is 3000
+
+neg current cost is -19919.0, iteration is 3001
+
+neg current cost is -19919.0, iteration is 3002
+
+neg current cost is -19919.0, iteration is 3003
+
+neg current cost is -19919.0, iteration is 3004
+
+neg current cost is -19919.0, iteration is 3005
+
+neg current cost is -19919.0, iteration is 3006
+
+neg current cost is -19919.0, iteration is 3007
+
+neg current cost is -19919.0, iteration is 3008
+
+neg current cost is -19919.0, iteration is 3009
+
+neg current cost is -19919.0, iteration is 3010
+
+neg current cost is -19919.0, iteration is 3011
+
+neg current cost is -19919.0, iteration is 3012
+
+neg current cost is -19919.0, iteration is 3013
+
+neg current cost is -19919.0, iteration is 3014
+
+neg current cost is -19919.0, iteration is 3015
+
+neg current cost is -19919.0, iteration is 3016
+
+neg current cost is -19919.0, iteration is 3017
+
+neg current cost is -19919.0, iteration is 3018
+
+neg current cost is -19919.0, iteration is 3019
+
+neg current cost is -19919.0, iteration is 3020
+
+neg current cost is -19919.0, iteration is 3021
+
+neg current cost is -19919.0, iteration is 3022
+
+neg current cost is -19919.0, iteration is 3023
+
+neg current cost is -19919.0, iteration is 3024
+
+neg current cost is -19659.0, iteration is 3025
+
+neg current cost is -19659.0, iteration is 3026
+
+neg current cost is -19659.0, iteration is 3027
+
+neg current cost is -19659.0, iteration is 3028
+
+neg current cost is -19659.0, iteration is 3029
+
+neg current cost is -19659.0, iteration is 3030
+
+neg current cost is -19659.0, iteration is 3031
+
+neg current cost is -19659.0, iteration is 3032
+
+neg current cost is -19659.0, iteration is 3033
+
+neg current cost is -19659.0, iteration is 3034
+
+neg current cost is -19659.0, iteration is 3035
+
+neg current cost is -19659.0, iteration is 3036
+
+neg current cost is -19659.0, iteration is 3037
+
+neg current cost is -19659.0, iteration is 3038
+
+neg current cost is -19659.0, iteration is 3039
+
+neg current cost is -19659.0, iteration is 3040
+
+neg current cost is -19659.0, iteration is 3041
+
+neg current cost is -19659.0, iteration is 3042
+
+neg current cost is -19659.0, iteration is 3043
+
+neg current cost is -19659.0, iteration is 3044
+
+neg current cost is -19659.0, iteration is 3045
+
+neg current cost is -19659.0, iteration is 3046
+
+neg current cost is -19659.0, iteration is 3047
+
+neg current cost is -19659.0, iteration is 3048
+
+neg current cost is -19659.0, iteration is 3049
+
+neg current cost is -19659.0, iteration is 3050
+
+neg current cost is -19659.0, iteration is 3051
+
+neg current cost is -19659.0, iteration is 3052
+
+neg current cost is -19659.0, iteration is 3053
+
+neg current cost is -19659.0, iteration is 3054
+
+neg current cost is -19659.0, iteration is 3055
+
+neg current cost is -19659.0, iteration is 3056
+
+neg current cost is -19659.0, iteration is 3057
+
+neg current cost is -19659.0, iteration is 3058
+
+neg current cost is -19659.0, iteration is 3059
+
+neg current cost is -19659.0, iteration is 3060
+
+neg current cost is -19659.0, iteration is 3061
+
+neg current cost is -19659.0, iteration is 3062
+
+neg current cost is -19659.0, iteration is 3063
+
+neg current cost is -19659.0, iteration is 3064
+
+neg current cost is -19659.0, iteration is 3065
+
+neg current cost is -19659.0, iteration is 3066
+
+neg current cost is -19659.0, iteration is 3067
+
+neg current cost is -19659.0, iteration is 3068
+
+neg current cost is -19659.0, iteration is 3069
+
+neg current cost is -19659.0, iteration is 3070
+
+neg current cost is -19659.0, iteration is 3071
+
+neg current cost is -19659.0, iteration is 3072
+
+neg current cost is -19659.0, iteration is 3073
+
+neg current cost is -19659.0, iteration is 3074
+
+neg current cost is -19659.0, iteration is 3075
+
+neg current cost is -19659.0, iteration is 3076
+
+neg current cost is -19659.0, iteration is 3077
+
+neg current cost is -19659.0, iteration is 3078
+
+neg current cost is -19659.0, iteration is 3079
+
+neg current cost is -19038.0, iteration is 3080
+
+neg current cost is -19038.0, iteration is 3081
+
+neg current cost is -19038.0, iteration is 3082
+
+neg current cost is -19038.0, iteration is 3083
+
+neg current cost is -19038.0, iteration is 3084
+
+neg current cost is -18957.0, iteration is 3085
+
+neg current cost is -18957.0, iteration is 3086
+
+neg current cost is -18957.0, iteration is 3087
+
+neg current cost is -18957.0, iteration is 3088
+
+neg current cost is -18957.0, iteration is 3089
+
+neg current cost is -18957.0, iteration is 3090
+
+neg current cost is -18957.0, iteration is 3091
+
+neg current cost is -18957.0, iteration is 3092
+
+neg current cost is -18957.0, iteration is 3093
+
+neg current cost is -18957.0, iteration is 3094
+
+neg current cost is -18957.0, iteration is 3095
+
+neg current cost is -18957.0, iteration is 3096
+
+neg current cost is -18957.0, iteration is 3097
+
+neg current cost is -18957.0, iteration is 3098
+
+neg current cost is -18957.0, iteration is 3099
+
+neg current cost is -18957.0, iteration is 3100
+
+neg current cost is -18957.0, iteration is 3101
+
+neg current cost is -18957.0, iteration is 3102
+
+neg current cost is -18957.0, iteration is 3103
+
+neg current cost is -18957.0, iteration is 3104
+
+neg current cost is -18957.0, iteration is 3105
+
+neg current cost is -18957.0, iteration is 3106
+
+neg current cost is -18957.0, iteration is 3107
+
+neg current cost is -18957.0, iteration is 3108
+
+neg current cost is -18957.0, iteration is 3109
+
+neg current cost is -18336.0, iteration is 3110
+
+neg current cost is -18336.0, iteration is 3111
+
+neg current cost is -18336.0, iteration is 3112
+
+neg current cost is -18336.0, iteration is 3113
+
+neg current cost is -18336.0, iteration is 3114
+
+neg current cost is -18336.0, iteration is 3115
+
+neg current cost is -18336.0, iteration is 3116
+
+neg current cost is -18336.0, iteration is 3117
+
+neg current cost is -18336.0, iteration is 3118
+
+neg current cost is -18336.0, iteration is 3119
+
+neg current cost is -18336.0, iteration is 3120
+
+neg current cost is -18336.0, iteration is 3121
+
+neg current cost is -18336.0, iteration is 3122
+
+neg current cost is -18336.0, iteration is 3123
+
+neg current cost is -18336.0, iteration is 3124
+
+neg current cost is -17715.0, iteration is 3125
+
+neg current cost is -17715.0, iteration is 3126
+
+neg current cost is -17715.0, iteration is 3127
+
+neg current cost is -17715.0, iteration is 3128
+
+neg current cost is -17715.0, iteration is 3129
+
+neg current cost is -17715.0, iteration is 3130
+
+neg current cost is -17715.0, iteration is 3131
+
+neg current cost is -17715.0, iteration is 3132
+
+neg current cost is -17715.0, iteration is 3133
+
+neg current cost is -17715.0, iteration is 3134
+
+neg current cost is -17715.0, iteration is 3135
+
+neg current cost is -17715.0, iteration is 3136
+
+neg current cost is -17715.0, iteration is 3137
+
+neg current cost is -17715.0, iteration is 3138
+
+neg current cost is -17715.0, iteration is 3139
+
+neg current cost is -17715.0, iteration is 3140
+
+neg current cost is -17715.0, iteration is 3141
+
+neg current cost is -17715.0, iteration is 3142
+
+neg current cost is -17715.0, iteration is 3143
+
+neg current cost is -17715.0, iteration is 3144
+
+neg current cost is -17715.0, iteration is 3145
+
+neg current cost is -17715.0, iteration is 3146
+
+neg current cost is -17715.0, iteration is 3147
+
+neg current cost is -17715.0, iteration is 3148
+
+neg current cost is -17715.0, iteration is 3149
+
+neg current cost is -17715.0, iteration is 3150
+
+neg current cost is -17715.0, iteration is 3151
+
+neg current cost is -17715.0, iteration is 3152
+
+neg current cost is -17715.0, iteration is 3153
+
+neg current cost is -17715.0, iteration is 3154
+
+neg current cost is -17715.0, iteration is 3155
+
+neg current cost is -17715.0, iteration is 3156
+
+neg current cost is -17715.0, iteration is 3157
+
+neg current cost is -17715.0, iteration is 3158
+
+neg current cost is -17715.0, iteration is 3159
+
+neg current cost is -17715.0, iteration is 3160
+
+neg current cost is -17715.0, iteration is 3161
+
+neg current cost is -17715.0, iteration is 3162
+
+neg current cost is -17715.0, iteration is 3163
+
+neg current cost is -17715.0, iteration is 3164
+
+neg current cost is -17715.0, iteration is 3165
+
+neg current cost is -17715.0, iteration is 3166
+
+neg current cost is -17715.0, iteration is 3167
+
+neg current cost is -17715.0, iteration is 3168
+
+neg current cost is -17715.0, iteration is 3169
+
+neg current cost is -17715.0, iteration is 3170
+
+neg current cost is -17715.0, iteration is 3171
+
+neg current cost is -17715.0, iteration is 3172
+
+neg current cost is -17715.0, iteration is 3173
+
+neg current cost is -17715.0, iteration is 3174
+
+neg current cost is -17715.0, iteration is 3175
+
+neg current cost is -17715.0, iteration is 3176
+
+neg current cost is -17715.0, iteration is 3177
+
+neg current cost is -17715.0, iteration is 3178
+
+neg current cost is -17715.0, iteration is 3179
+
+neg current cost is -17715.0, iteration is 3180
+
+neg current cost is -17715.0, iteration is 3181
+
+neg current cost is -17715.0, iteration is 3182
+
+neg current cost is -17715.0, iteration is 3183
+
+neg current cost is -17715.0, iteration is 3184
+
+neg current cost is -17715.0, iteration is 3185
+
+neg current cost is -17715.0, iteration is 3186
+
+neg current cost is -17715.0, iteration is 3187
+
+neg current cost is -17715.0, iteration is 3188
+
+neg current cost is -17715.0, iteration is 3189
+
+neg current cost is -17094.0, iteration is 3190
+
+neg current cost is -17094.0, iteration is 3191
+
+neg current cost is -17094.0, iteration is 3192
+
+neg current cost is -17094.0, iteration is 3193
+
+neg current cost is -17094.0, iteration is 3194
+
+neg current cost is -17094.0, iteration is 3195
+
+neg current cost is -17094.0, iteration is 3196
+
+neg current cost is -17094.0, iteration is 3197
+
+neg current cost is -17094.0, iteration is 3198
+
+neg current cost is -17094.0, iteration is 3199
+
+neg current cost is -17094.0, iteration is 3200
+
+neg current cost is -17094.0, iteration is 3201
+
+neg current cost is -17094.0, iteration is 3202
+
+neg current cost is -17094.0, iteration is 3203
+
+neg current cost is -17094.0, iteration is 3204
+
+neg current cost is -17094.0, iteration is 3205
+
+neg current cost is -17094.0, iteration is 3206
+
+neg current cost is -17094.0, iteration is 3207
+
+neg current cost is -17094.0, iteration is 3208
+
+neg current cost is -17094.0, iteration is 3209
+
+neg current cost is -17094.0, iteration is 3210
+
+neg current cost is -17094.0, iteration is 3211
+
+neg current cost is -17094.0, iteration is 3212
+
+neg current cost is -17094.0, iteration is 3213
+
+neg current cost is -17094.0, iteration is 3214
+
+neg current cost is -17094.0, iteration is 3215
+
+neg current cost is -17094.0, iteration is 3216
+
+neg current cost is -17094.0, iteration is 3217
+
+neg current cost is -17094.0, iteration is 3218
+
+neg current cost is -17094.0, iteration is 3219
+
+neg current cost is -17094.0, iteration is 3220
+
+neg current cost is -17094.0, iteration is 3221
+
+neg current cost is -17094.0, iteration is 3222
+
+neg current cost is -17094.0, iteration is 3223
+
+neg current cost is -17094.0, iteration is 3224
+
+neg current cost is -17094.0, iteration is 3225
+
+neg current cost is -17094.0, iteration is 3226
+
+neg current cost is -17094.0, iteration is 3227
+
+neg current cost is -17094.0, iteration is 3228
+
+neg current cost is -17094.0, iteration is 3229
+
+neg current cost is -17094.0, iteration is 3230
+
+neg current cost is -17094.0, iteration is 3231
+
+neg current cost is -17094.0, iteration is 3232
+
+neg current cost is -17094.0, iteration is 3233
+
+neg current cost is -17094.0, iteration is 3234
+
+neg current cost is -17094.0, iteration is 3235
+
+neg current cost is -17094.0, iteration is 3236
+
+neg current cost is -17094.0, iteration is 3237
+
+neg current cost is -17094.0, iteration is 3238
+
+neg current cost is -17094.0, iteration is 3239
+
+neg current cost is -17094.0, iteration is 3240
+
+neg current cost is -17094.0, iteration is 3241
+
+neg current cost is -17094.0, iteration is 3242
+
+neg current cost is -17094.0, iteration is 3243
+
+neg current cost is -17094.0, iteration is 3244
+
+neg current cost is -17094.0, iteration is 3245
+
+neg current cost is -17094.0, iteration is 3246
+
+neg current cost is -17094.0, iteration is 3247
+
+neg current cost is -17094.0, iteration is 3248
+
+neg current cost is -17094.0, iteration is 3249
+
+neg current cost is -17094.0, iteration is 3250
+
+neg current cost is -17094.0, iteration is 3251
+
+neg current cost is -17094.0, iteration is 3252
+
+neg current cost is -17094.0, iteration is 3253
+
+neg current cost is -17094.0, iteration is 3254
+
+neg current cost is -17094.0, iteration is 3255
+
+neg current cost is -17094.0, iteration is 3256
+
+neg current cost is -17094.0, iteration is 3257
+
+neg current cost is -17094.0, iteration is 3258
+
+neg current cost is -17094.0, iteration is 3259
+
+neg current cost is -17094.0, iteration is 3260
+
+neg current cost is -17094.0, iteration is 3261
+
+neg current cost is -17094.0, iteration is 3262
+
+neg current cost is -17094.0, iteration is 3263
+
+neg current cost is -17094.0, iteration is 3264
+
+neg current cost is -17094.0, iteration is 3265
+
+neg current cost is -17094.0, iteration is 3266
+
+neg current cost is -17094.0, iteration is 3267
+
+neg current cost is -17094.0, iteration is 3268
+
+neg current cost is -17094.0, iteration is 3269
+
+neg current cost is -17094.0, iteration is 3270
+
+neg current cost is -17094.0, iteration is 3271
+
+neg current cost is -17094.0, iteration is 3272
+
+neg current cost is -17094.0, iteration is 3273
+
+neg current cost is -17094.0, iteration is 3274
+
+neg current cost is -16473.0, iteration is 3275
+
+neg current cost is -16473.0, iteration is 3276
+
+neg current cost is -16473.0, iteration is 3277
+
+neg current cost is -16473.0, iteration is 3278
+
+neg current cost is -16473.0, iteration is 3279
+
+neg current cost is -16473.0, iteration is 3280
+
+neg current cost is -16473.0, iteration is 3281
+
+neg current cost is -16473.0, iteration is 3282
+
+neg current cost is -16473.0, iteration is 3283
+
+neg current cost is -16473.0, iteration is 3284
+
+neg current cost is -16473.0, iteration is 3285
+
+neg current cost is -16473.0, iteration is 3286
+
+neg current cost is -16473.0, iteration is 3287
+
+neg current cost is -16473.0, iteration is 3288
+
+neg current cost is -16473.0, iteration is 3289
+
+neg current cost is -15852.0, iteration is 3290
+
+neg current cost is -15852.0, iteration is 3291
+
+neg current cost is -15852.0, iteration is 3292
+
+neg current cost is -15852.0, iteration is 3293
+
+neg current cost is -15852.0, iteration is 3294
+
+neg current cost is -15852.0, iteration is 3295
+
+neg current cost is -15852.0, iteration is 3296
+
+neg current cost is -15852.0, iteration is 3297
+
+neg current cost is -15852.0, iteration is 3298
+
+neg current cost is -15852.0, iteration is 3299
+
+neg current cost is -15852.0, iteration is 3300
+
+neg current cost is -15852.0, iteration is 3301
+
+neg current cost is -15852.0, iteration is 3302
+
+neg current cost is -15852.0, iteration is 3303
+
+neg current cost is -15852.0, iteration is 3304
+
+neg current cost is -15852.0, iteration is 3305
+
+neg current cost is -15852.0, iteration is 3306
+
+neg current cost is -15852.0, iteration is 3307
+
+neg current cost is -15852.0, iteration is 3308
+
+neg current cost is -15852.0, iteration is 3309
+
+neg current cost is -15852.0, iteration is 3310
+
+neg current cost is -15852.0, iteration is 3311
+
+neg current cost is -15852.0, iteration is 3312
+
+neg current cost is -15852.0, iteration is 3313
+
+neg current cost is -15852.0, iteration is 3314
+
+neg current cost is -15231.0, iteration is 3315
+
+neg current cost is -15231.0, iteration is 3316
+
+neg current cost is -15231.0, iteration is 3317
+
+neg current cost is -15231.0, iteration is 3318
+
+neg current cost is -15231.0, iteration is 3319
+
+neg current cost is -14971.0, iteration is 3320
+
+neg current cost is -14971.0, iteration is 3321
+
+neg current cost is -14971.0, iteration is 3322
+
+neg current cost is -14971.0, iteration is 3323
+
+neg current cost is -14971.0, iteration is 3324
+
+neg current cost is -14971.0, iteration is 3325
+
+neg current cost is -14971.0, iteration is 3326
+
+neg current cost is -14971.0, iteration is 3327
+
+neg current cost is -14971.0, iteration is 3328
+
+neg current cost is -14971.0, iteration is 3329
+
+neg current cost is -14971.0, iteration is 3330
+
+neg current cost is -14971.0, iteration is 3331
+
+neg current cost is -14971.0, iteration is 3332
+
+neg current cost is -14971.0, iteration is 3333
+
+neg current cost is -14971.0, iteration is 3334
+
+neg current cost is -14971.0, iteration is 3335
+
+neg current cost is -14971.0, iteration is 3336
+
+neg current cost is -14971.0, iteration is 3337
+
+neg current cost is -14971.0, iteration is 3338
+
+neg current cost is -14971.0, iteration is 3339
+
+neg current cost is -14971.0, iteration is 3340
+
+neg current cost is -14971.0, iteration is 3341
+
+neg current cost is -14971.0, iteration is 3342
+
+neg current cost is -14971.0, iteration is 3343
+
+neg current cost is -14971.0, iteration is 3344
+
+neg current cost is -14971.0, iteration is 3345
+
+neg current cost is -14971.0, iteration is 3346
+
+neg current cost is -14971.0, iteration is 3347
+
+neg current cost is -14971.0, iteration is 3348
+
+neg current cost is -14971.0, iteration is 3349
+
+neg current cost is -14971.0, iteration is 3350
+
+neg current cost is -14971.0, iteration is 3351
+
+neg current cost is -14971.0, iteration is 3352
+
+neg current cost is -14971.0, iteration is 3353
+
+neg current cost is -14971.0, iteration is 3354
+
+neg current cost is -14971.0, iteration is 3355
+
+neg current cost is -14971.0, iteration is 3356
+
+neg current cost is -14971.0, iteration is 3357
+
+neg current cost is -14971.0, iteration is 3358
+
+neg current cost is -14971.0, iteration is 3359
+
+neg current cost is -14551.0, iteration is 3360
+
+neg current cost is -14551.0, iteration is 3361
+
+neg current cost is -14551.0, iteration is 3362
+
+neg current cost is -14551.0, iteration is 3363
+
+neg current cost is -14551.0, iteration is 3364
+
+neg current cost is -14551.0, iteration is 3365
+
+neg current cost is -14551.0, iteration is 3366
+
+neg current cost is -14551.0, iteration is 3367
+
+neg current cost is -14551.0, iteration is 3368
+
+neg current cost is -14551.0, iteration is 3369
+
+neg current cost is -14131.0, iteration is 3370
+
+neg current cost is -14131.0, iteration is 3371
+
+neg current cost is -14131.0, iteration is 3372
+
+neg current cost is -14131.0, iteration is 3373
+
+neg current cost is -14131.0, iteration is 3374
+
+neg current cost is -14131.0, iteration is 3375
+
+neg current cost is -14131.0, iteration is 3376
+
+neg current cost is -14131.0, iteration is 3377
+
+neg current cost is -14131.0, iteration is 3378
+
+neg current cost is -14131.0, iteration is 3379
+
+neg current cost is -14131.0, iteration is 3380
+
+neg current cost is -14131.0, iteration is 3381
+
+neg current cost is -14131.0, iteration is 3382
+
+neg current cost is -14131.0, iteration is 3383
+
+neg current cost is -14131.0, iteration is 3384
+
+neg current cost is -13510.0, iteration is 3385
+
+neg current cost is -13510.0, iteration is 3386
+
+neg current cost is -13510.0, iteration is 3387
+
+neg current cost is -13510.0, iteration is 3388
+
+neg current cost is -13510.0, iteration is 3389
+
+neg current cost is -13510.0, iteration is 3390
+
+neg current cost is -13510.0, iteration is 3391
+
+neg current cost is -13510.0, iteration is 3392
+
+neg current cost is -13510.0, iteration is 3393
+
+neg current cost is -13510.0, iteration is 3394
+
+neg current cost is -13510.0, iteration is 3395
+
+neg current cost is -13510.0, iteration is 3396
+
+neg current cost is -13510.0, iteration is 3397
+
+neg current cost is -13510.0, iteration is 3398
+
+neg current cost is -13510.0, iteration is 3399
+
+neg current cost is -13510.0, iteration is 3400
+
+neg current cost is -13510.0, iteration is 3401
+
+neg current cost is -13510.0, iteration is 3402
+
+neg current cost is -13510.0, iteration is 3403
+
+neg current cost is -13510.0, iteration is 3404
+
+neg current cost is -13510.0, iteration is 3405
+
+neg current cost is -13510.0, iteration is 3406
+
+neg current cost is -13510.0, iteration is 3407
+
+neg current cost is -13510.0, iteration is 3408
+
+neg current cost is -13510.0, iteration is 3409
+
+neg current cost is -13510.0, iteration is 3410
+
+neg current cost is -13510.0, iteration is 3411
+
+neg current cost is -13510.0, iteration is 3412
+
+neg current cost is -13510.0, iteration is 3413
+
+neg current cost is -13510.0, iteration is 3414
+
+neg current cost is -13510.0, iteration is 3415
+
+neg current cost is -13510.0, iteration is 3416
+
+neg current cost is -13510.0, iteration is 3417
+
+neg current cost is -13510.0, iteration is 3418
+
+neg current cost is -13510.0, iteration is 3419
+
+neg current cost is -13510.0, iteration is 3420
+
+neg current cost is -13510.0, iteration is 3421
+
+neg current cost is -13510.0, iteration is 3422
+
+neg current cost is -13510.0, iteration is 3423
+
+neg current cost is -13510.0, iteration is 3424
+
+neg current cost is -13510.0, iteration is 3425
+
+neg current cost is -13510.0, iteration is 3426
+
+neg current cost is -13510.0, iteration is 3427
+
+neg current cost is -13510.0, iteration is 3428
+
+neg current cost is -13510.0, iteration is 3429
+
+neg current cost is -13510.0, iteration is 3430
+
+neg current cost is -13510.0, iteration is 3431
+
+neg current cost is -13510.0, iteration is 3432
+
+neg current cost is -13510.0, iteration is 3433
+
+neg current cost is -13510.0, iteration is 3434
+
+neg current cost is -13510.0, iteration is 3435
+
+neg current cost is -13510.0, iteration is 3436
+
+neg current cost is -13510.0, iteration is 3437
+
+neg current cost is -13510.0, iteration is 3438
+
+neg current cost is -13510.0, iteration is 3439
+
+neg current cost is -13510.0, iteration is 3440
+
+neg current cost is -13510.0, iteration is 3441
+
+neg current cost is -13510.0, iteration is 3442
+
+neg current cost is -13510.0, iteration is 3443
+
+neg current cost is -13510.0, iteration is 3444
+
+neg current cost is -12889.0, iteration is 3445
+
+neg current cost is -12889.0, iteration is 3446
+
+neg current cost is -12889.0, iteration is 3447
+
+neg current cost is -12889.0, iteration is 3448
+
+neg current cost is -12889.0, iteration is 3449
+
+neg current cost is -12889.0, iteration is 3450
+
+neg current cost is -12889.0, iteration is 3451
+
+neg current cost is -12889.0, iteration is 3452
+
+neg current cost is -12889.0, iteration is 3453
+
+neg current cost is -12889.0, iteration is 3454
+
+neg current cost is -12889.0, iteration is 3455
+
+neg current cost is -12889.0, iteration is 3456
+
+neg current cost is -12889.0, iteration is 3457
+
+neg current cost is -12889.0, iteration is 3458
+
+neg current cost is -12889.0, iteration is 3459
+
+neg current cost is -12889.0, iteration is 3460
+
+neg current cost is -12889.0, iteration is 3461
+
+neg current cost is -12889.0, iteration is 3462
+
+neg current cost is -12889.0, iteration is 3463
+
+neg current cost is -12889.0, iteration is 3464
+
+neg current cost is -12889.0, iteration is 3465
+
+neg current cost is -12889.0, iteration is 3466
+
+neg current cost is -12889.0, iteration is 3467
+
+neg current cost is -12889.0, iteration is 3468
+
+neg current cost is -12889.0, iteration is 3469
+
+neg current cost is -12889.0, iteration is 3470
+
+neg current cost is -12889.0, iteration is 3471
+
+neg current cost is -12889.0, iteration is 3472
+
+neg current cost is -12889.0, iteration is 3473
+
+neg current cost is -12889.0, iteration is 3474
+
+neg current cost is -12889.0, iteration is 3475
+
+neg current cost is -12889.0, iteration is 3476
+
+neg current cost is -12889.0, iteration is 3477
+
+neg current cost is -12889.0, iteration is 3478
+
+neg current cost is -12889.0, iteration is 3479
+
+neg current cost is -12889.0, iteration is 3480
+
+neg current cost is -12889.0, iteration is 3481
+
+neg current cost is -12889.0, iteration is 3482
+
+neg current cost is -12889.0, iteration is 3483
+
+neg current cost is -12889.0, iteration is 3484
+
+neg current cost is -12889.0, iteration is 3485
+
+neg current cost is -12889.0, iteration is 3486
+
+neg current cost is -12889.0, iteration is 3487
+
+neg current cost is -12889.0, iteration is 3488
+
+neg current cost is -12889.0, iteration is 3489
+
+neg current cost is -12889.0, iteration is 3490
+
+neg current cost is -12889.0, iteration is 3491
+
+neg current cost is -12889.0, iteration is 3492
+
+neg current cost is -12889.0, iteration is 3493
+
+neg current cost is -12889.0, iteration is 3494
+
+neg current cost is -12889.0, iteration is 3495
+
+neg current cost is -12889.0, iteration is 3496
+
+neg current cost is -12889.0, iteration is 3497
+
+neg current cost is -12889.0, iteration is 3498
+
+neg current cost is -12889.0, iteration is 3499
+
+neg current cost is -12268.0, iteration is 3500
+
+neg current cost is -12268.0, iteration is 3501
+
+neg current cost is -12268.0, iteration is 3502
+
+neg current cost is -12268.0, iteration is 3503
+
+neg current cost is -12268.0, iteration is 3504
+
+neg current cost is -12268.0, iteration is 3505
+
+neg current cost is -12268.0, iteration is 3506
+
+neg current cost is -12268.0, iteration is 3507
+
+neg current cost is -12268.0, iteration is 3508
+
+neg current cost is -12268.0, iteration is 3509
+
+neg current cost is -12268.0, iteration is 3510
+
+neg current cost is -12268.0, iteration is 3511
+
+neg current cost is -12268.0, iteration is 3512
+
+neg current cost is -12268.0, iteration is 3513
+
+neg current cost is -12268.0, iteration is 3514
+
+neg current cost is -12268.0, iteration is 3515
+
+neg current cost is -12268.0, iteration is 3516
+
+neg current cost is -12268.0, iteration is 3517
+
+neg current cost is -12268.0, iteration is 3518
+
+neg current cost is -12268.0, iteration is 3519
+
+neg current cost is -12268.0, iteration is 3520
+
+neg current cost is -12268.0, iteration is 3521
+
+neg current cost is -12268.0, iteration is 3522
+
+neg current cost is -12268.0, iteration is 3523
+
+neg current cost is -12268.0, iteration is 3524
+
+neg current cost is -11647.0, iteration is 3525
+
+neg current cost is -11647.0, iteration is 3526
+
+neg current cost is -11647.0, iteration is 3527
+
+neg current cost is -11647.0, iteration is 3528
+
+neg current cost is -11647.0, iteration is 3529
+
+neg current cost is -11647.0, iteration is 3530
+
+neg current cost is -11647.0, iteration is 3531
